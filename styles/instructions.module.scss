@@ -13,8 +13,6 @@
 
     h2 {
       color: $text-light;
-      font-style: italic;
-      text-transform: uppercase;
       margin-bottom: 40px;
     }
 
@@ -42,6 +40,11 @@
         color: $text-light;
         margin-bottom: 10px;
       }
+    }
+
+    .copyright {
+      font-size: .75em;
+      color: grey;
     }
   }
 }

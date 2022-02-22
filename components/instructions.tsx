@@ -1,8 +1,9 @@
 import React from "react";
-import GitHubButton from "react-github-btn";
 import styles from "../styles/instructions.module.scss";
 import Button from "./button";
 import Score from "./score";
+
+import RSWLogo from '../public/images/RSW_logo.svg';
 
 interface Props {
   highscore: number;
@@ -15,6 +16,10 @@ export default function Instructions(props: Props) {
   return (
     <div className={styles.instructions}>
       <div className={styles.wrapper}>
+        <img
+          src={RSWLogo.src}
+          width='100px'
+        />
         <h2>Place the cards on the timeline in the correct order.</h2>
         {highscore !== 0 && (
           <div className={styles.highscoreWrapper}>
@@ -26,26 +31,15 @@ export default function Instructions(props: Props) {
           <div>
             All data sourced from{" "}
             <a
-              href="https://www.wikidata.org"
+              href="https://runescape.wiki"
               target="_blank"
               rel="noopener noreferrer"
             >
-              Wikidata
-            </a>{" "}
-            and{" "}
-            <a
-              href="https://www.wikipedia.org"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Wikipedia
+              the RuneScape Wiki
             </a>
-            .
-          </div>
-          <div>
-            Have feedback? Please report it on{" "}
+            .<br />Have feedback? Please report it on{" "}
             <a
-              href="https://github.com/tom-james-watson/wikitrivia/issues/"
+              href="https://github.com/jayktaylor/rs-wikitrivia/issues/"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -53,14 +47,9 @@ export default function Instructions(props: Props) {
             </a>
             .
           </div>
-          <GitHubButton
-            href="https://github.com/tom-james-watson/wikitrivia"
-            data-size="large"
-            data-show-count="true"
-            aria-label="Star tom-james-watson/wikitrivia on GitHub"
-          >
-            Star
-          </GitHubButton>
+          <div className={styles.copyright}>
+            RuneScape and RuneScape Old School are the trademarks of Jagex Limited and are used with the permission of Jagex.
+          </div>
         </div>
       </div>
     </div>
