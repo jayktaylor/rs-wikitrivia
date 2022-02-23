@@ -2,7 +2,7 @@
  * Generates a JSON with valid data to use for the rs-wikitrivia game
  */
 
-import axios from 'axios';
+import axios, { AxiosResponse } from 'axios';
 import fs from 'fs';
 import crypto from 'crypto';
 import PageType from './enums/PageType';
@@ -10,11 +10,11 @@ import PageType from './enums/PageType';
 const BASE_ENDPOINT = 'https://runescape.wiki/api.php';
 const RESULT_KEYS_TO_STRIP = ['printouts', 'namespace', 'exists', 'displaytitle', 'fulltext'];
 
-const makeSMWRequest = async (offset = 0) => {
+const makeSMWRequest = async (offset: string | null = null) => {
   const query = new URLSearchParams({
     action: 'ask',
     format: 'json',
-    query: `[[Release date::+]]|?Release date|?Examine|?Item name|?Object name|?Monster name|?Monster JSON|?NPC ID|?Item ID|?Quest JSON|?Object ID|limit=500|offset=${offset}`
+    query: `[[Release date::+]]${offset ? `|[[>>${offset}]]` : ''}|?Release date|?Examine|?Item name|?Object name|?Monster name|?Monster JSON|?NPC ID|?Item ID|?Quest JSON|?Object ID|limit=500`,
   })
 
   console.log('Making SMW request with offset', offset);
@@ -60,21 +60,19 @@ const makePageImagesRequest = async (titles = []) => {
 
   // Use Semantic MediaWiki to generate a list of pages with release dates
   console.log('Generating page list with SMW...');
-  let offset = 0;
+  let offset: string | null = null;
   while (true) {
-    const res = await makeSMWRequest(offset);
+    const res: AxiosResponse<any> = await makeSMWRequest(offset);
     if (res.data) {
       pages = {...pages, ...res.data.query.results};
 
-      // TODO: remove this once offset issue sorted out
-      if (offset === 5500) {
+      if (Object.keys(res.data.query.results).length < 500) {
+        // Finished!
         break;
       }
 
-      if (res.data.hasOwnProperty('query-continue-offset')) {
-        offset = res.data['query-continue-offset'];
-        continue;
-      }
+      offset = Object.keys(res.data.query.results).slice(-1)[0];
+      continue;
     }
     break;
   }
