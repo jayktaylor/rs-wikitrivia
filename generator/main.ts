@@ -14,7 +14,7 @@ const makeSMWRequest = async (offset: string | null = null) => {
   const query = new URLSearchParams({
     action: 'ask',
     format: 'json',
-    query: `[[Release date::+]]${offset ? `|[[>>${offset}]]` : ''}|?Release date|?Examine|?Item name|?Object name|?Monster name|?Monster JSON|?NPC ID|?Item ID|?Quest JSON|?Object ID|limit=500`,
+    query: `[[Release date::+]]${offset ? `|[[>>${offset}]]` : ''}|?Release date|?Examine|?Item name|?Monster name|?Monster JSON|?NPC ID|?Item ID|?Quest JSON|limit=500`,
   })
 
   console.log('Making SMW request with offset', offset);
@@ -132,23 +132,32 @@ const makePageImagesRequest = async (titles = []) => {
 
   // Sanitise output of SMW results
   console.log('Sanitising SMW results...')
+  let sanitiseTotals = { badtitle: 0, noimg: 0, notype: 0, noid: 0 };
+
   for (let [k, v] of Object.entries(pages)) {
+    if (/(#|\(|\))/.test(k)) {
+      // If this page has brackets in the name, or is a SMW subobject, do not use this page.
+      sanitiseTotals.badtitle += 1;
+      continue;
+    }
+
     v['image'] = images[k];
     if (!v['image']) {
       // If we have no image, do not use this page.
+      sanitiseTotals.noimg += 1;
       continue;
     }
 
     let po = v['printouts'];
     // Determine page type
     if (po['Item name'].length) v['type'] = PageType.ITEM
-    if (po['Object name'].length) v['type'] = PageType.OBJECT
     if (po['NPC ID'].length) v['type'] = PageType.NPC
     if (po['Monster name'].length) v['type'] = PageType.MONSTER
     if (po['Quest JSON'].length) v['type'] = PageType.QUEST
   
     if (!v['type']) {
       // If we cannot determine the type, do not use this page.
+      sanitiseTotals.notype += 1;
       continue;
     }
 
@@ -164,11 +173,8 @@ const makePageImagesRequest = async (titles = []) => {
         v['id'] = po['Item ID'].length ? 'ITEM-' + po['Item ID'] : '';
         v['label'] = po['Item name'][0] || '';
         break;
-      case PageType.OBJECT:
-        v['id'] = po['Object ID'].length ? 'OBJ-' + po['Object ID'] : '';
-        v['label'] = po['Object name'][0] || '';
-        break;
       case PageType.MONSTER:
+        v['id'] = po['NPC ID'].length ? 'NPC-' + po['NPC ID'][0] : '';
         v['label'] = po['Monster name'][0] || '';
         v['examine'] = po['Monster JSON']['examine'] || '';
         break;
@@ -185,6 +191,7 @@ const makePageImagesRequest = async (titles = []) => {
 
     if (!v['id']) {
       // If there is no ID, do not use this page.
+      sanitiseTotals.noid += 1;
       continue;
     }
 
@@ -198,6 +205,7 @@ const makePageImagesRequest = async (titles = []) => {
   }
 
   console.log(`Final number of candidates: ${Object.keys(finalPages).length}/${initialCandidates}`);
+  console.log(`Breakdown of removed candidates: ${JSON.stringify(sanitiseTotals)}`)
 
   await fs.writeFile('generated.json', JSON.stringify(finalPages, null, 2), (err) => {
     if (err) throw err;
