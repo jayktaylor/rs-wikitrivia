@@ -1,4 +1,5 @@
 import React from "react";
+import moment from 'moment';
 import classNames from "classnames";
 import { useSpring, animated } from "react-spring";
 import { Draggable } from "react-beautiful-dnd";
@@ -88,9 +89,7 @@ export default function ItemCard(props: Props) {
               >
                 <span>
                   {"played" in item
-                    ? item.year < -10000
-                      ? item.year.toLocaleString()
-                      : item.year.toString()
+                    ? moment(item.released).format('MMM D YYYY')
                     : 'released'}
                 </span>
               </animated.div>
@@ -106,7 +105,7 @@ export default function ItemCard(props: Props) {
             >
               <span className={styles.label}>{capitalize(item.label)}</span>
               <span className={styles.date}>
-                {capitalize('released')}: {item.year}
+                Released: {moment(item.released).format('MMM D YYYY')}
               </span>
               <span className={styles.description}>{item.examine}</span>
               <a

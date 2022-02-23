@@ -4,6 +4,7 @@
     "image": "\"Balance_Elemental_engram\"_location.png",
     "type": "item",
     "year": 2017,
+    "released": 1483920000000,
     "examine": "This fascinating object has a divine connection to the Balance Elemental.",
     "id": "ITEM-39473",
     "label": "\"Balance Elemental engram\""
@@ -13,6 +14,7 @@
     "image": "\"Druid_engram\"_location.png",
     "type": "item",
     "year": 2017,
+    "released": 1483920000000,
     "examine": "This fascinating object has a divine connection to the human followers of Guthix.",
     "id": "ITEM-39467",
     "label": "\"Druid engram\""
@@ -22,6 +24,7 @@
     "image": "\"Elder_Sword_engram\"_location.png",
     "type": "item",
     "year": 2017,
+    "released": 1483920000000,
     "examine": "This fascinating object has a divine connection to the Elder Sword.",
     "id": "ITEM-39463",
     "label": "\"Elder Sword engram\""
@@ -31,6 +34,7 @@
     "image": "\"Fairy_engram\"_location.png",
     "type": "item",
     "year": 2017,
+    "released": 1483920000000,
     "examine": "This fascinating object has a divine connection to the fairy folk of Zanaris.",
     "id": "ITEM-39464",
     "label": "\"Fairy engram\""
@@ -40,6 +44,7 @@
     "image": "\"Gnome_engram\"_location.png",
     "type": "item",
     "year": 2017,
+    "released": 1483920000000,
     "examine": "This fascinating object has a divine connection to gnomekind.",
     "id": "ITEM-39465",
     "label": "\"Gnome engram\""
@@ -49,6 +54,7 @@
     "image": "\"Guardians_of_Guthix_engram\"_location.png",
     "type": "item",
     "year": 2017,
+    "released": 1483920000000,
     "examine": "This fascinating object has a divine connection to the Guardians of Guthix.",
     "id": "ITEM-39472",
     "label": "\"Guardians of Guthix engram\""
@@ -58,6 +64,7 @@
     "image": "\"Naragi_engram\"_location.png",
     "type": "item",
     "year": 2017,
+    "released": 1483920000000,
     "examine": "This fascinating object has a divine connection to mortal Guthix.",
     "id": "ITEM-39462",
     "label": "\"Naragi engram\""
@@ -67,6 +74,7 @@
     "image": "\"Sheep_engram\"_location.png",
     "type": "item",
     "year": 2017,
+    "released": 1483920000000,
     "examine": "This fascinating object has a divine connection to sheep. Un-bah-lievable.",
     "id": "ITEM-39469",
     "label": "\"Sheep engram\""
@@ -76,6 +84,7 @@
     "image": "\"Stone_of_Jas_engram\"_location.png",
     "type": "item",
     "year": 2017,
+    "released": 1483920000000,
     "examine": "This fascinating object has a divine connection to the Stone of Jas.",
     "id": "ITEM-39468",
     "label": "\"Stone of Jas engram\""
@@ -85,6 +94,7 @@
     "image": "\"Sword_of_Edicts_engram\"_location.png",
     "type": "item",
     "year": 2017,
+    "released": 1483920000000,
     "examine": "This fascinating object has a divine connection to the Sword of Edicts.",
     "id": "ITEM-39471",
     "label": "\"Sword of Edicts engram\""
@@ -94,6 +104,7 @@
     "image": "\"Time_engram\"_location.png",
     "type": "item",
     "year": 2017,
+    "released": 1483920000000,
     "examine": "This fascinating object has a divine connection to Guthix's past, present and future.",
     "id": "ITEM-39470",
     "label": "\"Time engram\""
@@ -103,6 +114,7 @@
     "image": "\"World_Gate_engram\"_location.png",
     "type": "item",
     "year": 2017,
+    "released": 1483920000000,
     "examine": "This fascinating object has a divine connection to the World Gate.",
     "id": "ITEM-39466",
     "label": "\"World Gate engram\""
@@ -112,6 +124,7 @@
     "image": "'Animate_Dead'_spell_scroll_journal.png",
     "type": "item",
     "year": 2020,
+    "released": 1585526400000,
     "examine": "A fully restored shadow spell scroll.",
     "id": "ITEM-49914",
     "label": "'Animate Dead' spell scroll"
@@ -121,6 +134,7 @@
     "image": "'Betty'_B.Boppin.png",
     "type": "npc",
     "year": 2006,
+    "released": 1153699200000,
     "examine": "He never stops talking about Betty...",
     "id": "NPC-4553",
     "label": "'Betty' B.Boppin"
@@ -130,6 +144,7 @@
     "image": "'Black-eye'_and_'Gummy'_RPS.gif",
     "type": "npc",
     "year": 2007,
+    "released": 1171843200000,
     "examine": "Famous for his fights.",
     "id": "NPC-5589",
     "label": "'Black-eye'"
@@ -139,6 +154,7 @@
     "image": "Teleport_Tablet.gif",
     "type": "item",
     "year": 2018,
+    "released": 1524441600000,
     "examine": "A tablet which has been 'helpfully' modified by Evil Dave. Don't let the Magic Guild know what you've done.",
     "id": "ITEM-42609",
     "label": "'Chipped' Ardougne teleport"
@@ -148,6 +164,7 @@
     "image": "Teleport_Tablet.gif",
     "type": "item",
     "year": 2018,
+    "released": 1524441600000,
     "examine": "A tablet which has been 'helpfully' modified by Evil Dave. Don't let the Magic Guild know what you've done.",
     "id": "ITEM-42608",
     "label": "'Chipped' Camelot teleport"
@@ -157,6 +174,7 @@
     "image": "Teleport_Tablet.gif",
     "type": "item",
     "year": 2018,
+    "released": 1524441600000,
     "examine": "A tablet which has been 'helpfully' modified by Evil Dave. Don't let the Magic Guild know what you've done.",
     "id": "ITEM-42607",
     "label": "'Chipped' Falador teleport"
@@ -166,6 +184,7 @@
     "image": "Teleport_Tablet.gif",
     "type": "item",
     "year": 2018,
+    "released": 1524441600000,
     "examine": "A tablet which has been 'helpfully' modified by Evil Dave. Don't let the Magic Guild know what you've done.",
     "id": "ITEM-42606",
     "label": "'Chipped' Lumbridge teleport"
@@ -175,6 +194,7 @@
     "image": "Teleport_Tablet.gif",
     "type": "item",
     "year": 2018,
+    "released": 1524441600000,
     "examine": "A tablet which has been 'helpfully' modified by Evil Dave. Don't let the Magic Guild know what you've done.",
     "id": "ITEM-42605",
     "label": "'Chipped' Varrock teleport"
@@ -184,6 +204,7 @@
     "image": "Teleport_Tablet.gif",
     "type": "item",
     "year": 2018,
+    "released": 1524441600000,
     "examine": "A tablet which has been 'helpfully' modified by Evil Dave. Don't let the Magic Guild know what you've done.",
     "id": "ITEM-42610",
     "label": "'Chipped' Watchtower teleport"
@@ -193,6 +214,7 @@
     "image": "'Consensus_ad_Idem'_painting_journal.png",
     "type": "item",
     "year": 2020,
+    "released": 1585526400000,
     "examine": "A fully restored painting.",
     "id": "ITEM-49888",
     "label": "'Consensus ad Idem' painting"
@@ -202,6 +224,7 @@
     "image": "'Da_Boss_Man'_sculpture_journal.png",
     "type": "item",
     "year": 2020,
+    "released": 1585526400000,
     "examine": "A fully restored Bandos sculpture.",
     "id": "ITEM-49727",
     "label": "'Da Boss Man' sculpture"
@@ -211,6 +234,7 @@
     "image": "'Disorder'_painting_journal.png",
     "type": "item",
     "year": 2020,
+    "released": 1585526400000,
     "examine": "A fully restored abstract painting.",
     "id": "ITEM-49832",
     "label": "'Disorder' painting"
@@ -220,6 +244,7 @@
     "image": "'Eagle-eye'_Shultz.png",
     "type": "npc",
     "year": 2006,
+    "released": 1153699200000,
     "examine": "A keen-eyed lookout with a telescope.",
     "id": "NPC-4542",
     "label": "'Eagle-eye' Shultz"
@@ -229,6 +254,7 @@
     "image": "'Exsanguinate'_spell_scroll_journal.png",
     "type": "item",
     "year": 2020,
+    "released": 1585526400000,
     "examine": "A fully restored blood spell scroll.",
     "id": "ITEM-49916",
     "label": "'Exsanguinate' spell scroll"
@@ -238,6 +264,7 @@
     "image": "'Forged_in_War'_sculpture_journal.png",
     "type": "item",
     "year": 2020,
+    "released": 1585526400000,
     "examine": "A fully restored kyzaj sculpture.",
     "id": "ITEM-49729",
     "label": "'Forged in War' sculpture"
@@ -247,6 +274,7 @@
     "image": "'Frying_pan'_journal.png",
     "type": "item",
     "year": 2020,
+    "released": 1585526400000,
     "examine": "A fully restored 'frying pan'.",
     "id": "ITEM-49778",
     "label": "'Frying pan'"
@@ -256,6 +284,7 @@
     "image": "'Black-eye'_and_'Gummy'_RPS.gif",
     "type": "npc",
     "year": 2007,
+    "released": 1171843200000,
     "examine": "He wishes he had teeth.",
     "id": "NPC-5591",
     "label": "'Gummy'"
@@ -265,6 +294,7 @@
     "image": "'Hallowed_Be_the_Everlight'_painting_journal.png",
     "type": "item",
     "year": 2020,
+    "released": 1585526400000,
     "examine": "A fully restored painting.",
     "id": "ITEM-49796",
     "label": "'Hallowed Be the Everlight' painting"
@@ -274,6 +304,7 @@
     "image": "'Incite_Fear'_spell_scroll_journal.png",
     "type": "item",
     "year": 2020,
+    "released": 1585526400000,
     "examine": "A fully restored ice spell scroll.",
     "id": "ITEM-49918",
     "label": "'Incite Fear' spell scroll"
@@ -283,6 +314,7 @@
     "image": "'Lust'_metal_sculpture_journal.png",
     "type": "item",
     "year": 2020,
+    "released": 1585526400000,
     "examine": "A fully restored metal sculpture.",
     "id": "ITEM-49840",
     "label": "'Lust' metal sculpture"
@@ -292,6 +324,7 @@
     "image": "'No_fingers'.png",
     "type": "npc",
     "year": 2007,
+    "released": 1171843200000,
     "examine": "Count them pinkies!",
     "id": "NPC-5590",
     "label": "'No fingers'"
@@ -301,6 +334,7 @@
     "image": "'Nosorog!'_sculpture_journal.png",
     "type": "item",
     "year": 2020,
+    "released": 1585526400000,
     "examine": "A fully restored nosorog sculpture.",
     "id": "ITEM-49731",
     "label": "'Nosorog!' sculpture"
@@ -310,6 +344,7 @@
     "image": "'Pandemonium'_tapestry_journal.png",
     "type": "item",
     "year": 2020,
+    "released": 1585526400000,
     "examine": "A fully restored tapestry.",
     "id": "ITEM-49836",
     "label": "'Pandemonium' tapestry"
@@ -319,6 +354,7 @@
     "image": "Gold_rock.png",
     "type": "object",
     "year": 2008,
+    "released": 1205193600000,
     "examine": "This rock contains 'perfect' gold ore.",
     "id": "OBJ-112947,112948,112949",
     "label": "'Perfect' gold rock"
@@ -328,6 +364,7 @@
     "image": "'Phite_Club.png",
     "type": "quest",
     "year": 2017,
+    "released": 1496620800000,
     "examine": "",
     "id": "QUEST-aea6344bc3f1d9306d70dde1cdfd4057",
     "label": "'Phite Club"
@@ -337,6 +374,7 @@
     "image": "'Possession'_metal_sculpture_journal.png",
     "type": "item",
     "year": 2020,
+    "released": 1585526400000,
     "examine": "A fully restored metal sculpture.",
     "id": "ITEM-49842",
     "label": "'Possession' metal sculpture"
@@ -346,6 +384,7 @@
     "image": "'Prima_Legio'_painting_journal.png",
     "type": "item",
     "year": 2020,
+    "released": 1585526400000,
     "examine": "A fully restored painting.",
     "id": "ITEM-49892",
     "label": "'Prima Legio' painting"
@@ -355,6 +394,7 @@
     "image": "'Raksha'_idol_journal.png",
     "type": "item",
     "year": 2020,
+    "released": 1603065600000,
     "examine": "A fully restored 'Raksha' idol.",
     "id": "ITEM-50724",
     "label": "'Raksha' idol"
@@ -364,6 +404,7 @@
     "image": "'Raksha'_idol_(scenery).png",
     "type": "object",
     "year": 2020,
+    "released": 1603065600000,
     "examine": "At this scale is more like a statue.",
     "id": "OBJ-119069",
     "label": "'Raksha' idol"
@@ -373,6 +414,7 @@
     "image": "'Smoke_Cloud'_spell_scroll_journal.png",
     "type": "item",
     "year": 2020,
+    "released": 1585526400000,
     "examine": "A fully restored smoke spell scroll.",
     "id": "ITEM-49920",
     "label": "'Smoke Cloud' spell scroll"
@@ -382,6 +424,7 @@
     "image": "'Solem_in_Umbra'_painting_journal.png",
     "type": "item",
     "year": 2020,
+    "released": 1585526400000,
     "examine": "A fully restored painting.",
     "id": "ITEM-49890",
     "label": "'Solem in Umbra' painting"
@@ -391,6 +434,7 @@
     "image": "'Sticky'_Sanders.png",
     "type": "npc",
     "year": 2006,
+    "released": 1153699200000,
     "examine": "Apparently his nickname comes from his fondness with jam.",
     "id": "NPC-4557",
     "label": "'Sticky' Sanders"
@@ -400,6 +444,7 @@
     "image": "'The_Enlightened_Soul'_scroll_journal.png",
     "type": "item",
     "year": 2020,
+    "released": 1585526400000,
     "examine": "A fully restored scroll of scripture.",
     "id": "ITEM-49802",
     "label": "'The Enlightened Soul' scroll"
@@ -409,6 +454,7 @@
     "image": "'The_Eudoxian_Elements'_tablet_journal.png",
     "type": "item",
     "year": 2020,
+    "released": 1585526400000,
     "examine": "A fully restored tablet of equations.",
     "id": "ITEM-49804",
     "label": "'The Eudoxian Elements' tablet"
@@ -418,6 +464,7 @@
     "image": "'The_God_Wars'_(painting).png",
     "type": "object",
     "year": 2020,
+    "released": 1585526400000,
     "examine": "A modern piece capturing the God Wars.",
     "id": "OBJ-115464",
     "label": "'The God Wars'"
@@ -427,6 +474,7 @@
     "image": "The_Guns.gif",
     "type": "npc",
     "year": 2007,
+    "released": 1171843200000,
     "examine": "He likes to weightlift a little too much.",
     "id": "NPC-5592",
     "label": "'The Guns'"
@@ -436,6 +484,7 @@
     "image": "'The_Lake_of_Fire'_painting_journal.png",
     "type": "item",
     "year": 2020,
+    "released": 1585526400000,
     "examine": "A fully restored abstract painting.",
     "id": "ITEM-49834",
     "label": "'The Lake of Fire' painting"
@@ -445,6 +494,7 @@
     "image": "'The_Lord_of_Light'_painting_journal.png",
     "type": "item",
     "year": 2020,
+    "released": 1585526400000,
     "examine": "A fully restored painting.",
     "id": "ITEM-49798",
     "label": "'The Lord of Light' painting"
@@ -454,6 +504,7 @@
     "image": "'The_Pride_of_Padosan'_painting_journal.png",
     "type": "item",
     "year": 2020,
+    "released": 1585526400000,
     "examine": "A fully restored painting.",
     "id": "ITEM-49794",
     "label": "'The Pride of Padosan' painting"
@@ -463,6 +514,7 @@
     "image": "'The_Serpent's_Fall'_carving_journal.png",
     "type": "item",
     "year": 2021,
+    "released": 1629072000000,
     "examine": "A fully restored carving.",
     "id": "ITEM-51915",
     "label": "'The Serpent's Fall' carving"
@@ -472,6 +524,7 @@
     "image": "'Torment'_metal_sculpture_journal.png",
     "type": "item",
     "year": 2020,
+    "released": 1585526400000,
     "examine": "A fully restored metal sculpture.",
     "id": "ITEM-49844",
     "label": "'Torment' metal sculpture"
@@ -481,6 +534,7 @@
     "image": "10th_anniversary_cake_(cape).gif",
     "type": "item",
     "year": 2011,
+    "released": 1294099200000,
     "examine": "Celebrating 10 years of RuneScape.",
     "id": "ITEM-20113",
     "label": "10th anniversary cake"
@@ -490,6 +544,7 @@
     "image": "10th_anniversary_cake_(cape).gif",
     "type": "item",
     "year": 2011,
+    "released": 1294099200000,
     "examine": "Light the candles.",
     "id": "ITEM-20112",
     "label": "10th anniversary cake"
@@ -499,6 +554,7 @@
     "image": "15th_Anniversary_cake_(Anniversary_island).png",
     "type": "object",
     "year": 2017,
+    "released": 1483920000000,
     "examine": "A scrimptions looking cake, that can boost your activities for a day. 16 candles, 1 for luck.",
     "id": "OBJ-106357",
     "label": "15th Anniversary cake"
@@ -508,6 +564,7 @@
     "image": "Shotput.png",
     "type": "item",
     "year": 2006,
+    "released": 1150070400000,
     "examine": "Just landed 18lb shot.",
     "id": "ITEM-8858",
     "label": "18lb shot"
@@ -517,6 +574,7 @@
     "image": "18lb_shot_(scenery).png",
     "type": "object",
     "year": 2006,
+    "released": 1150070400000,
     "examine": "It's a pile of 18lb shot.",
     "id": "OBJ-15664",
     "label": "18lb shot (scenery)"
@@ -526,6 +584,7 @@
     "image": "2001_Elvarg_statue.png",
     "type": "object",
     "year": 2016,
+    "released": 1451865600000,
     "examine": "Looking at the statue of Elvarg takes you back to memories of 2001.",
     "id": "OBJ-100774,118889",
     "label": "2001 Elvarg statue"
@@ -535,6 +594,7 @@
     "image": "2002_King_Black_Dragon_statue.png",
     "type": "object",
     "year": 2016,
+    "released": 1451865600000,
     "examine": "This striking statue of the King Black Dragon evokes memories of 2002.",
     "id": "OBJ-100776,118890",
     "label": "2002 King Black Dragon statue"
@@ -544,6 +604,7 @@
     "image": "2004_Dad_statue.png",
     "type": "object",
     "year": 2016,
+    "released": 1451865600000,
     "examine": "Conjuring memories of 2004 this statue of the troll 'Dad' is very compelling.",
     "id": "OBJ-100780,118892",
     "label": "2004 Dad statue"
@@ -553,6 +614,7 @@
     "image": "2005_Dharok_statue.png",
     "type": "object",
     "year": 2016,
+    "released": 1451865600000,
     "examine": "This impressive statue of Dharok rouses memories of 2005 in you.",
     "id": "OBJ-100782,118893",
     "label": "2005 Dharok statue"
@@ -562,6 +624,7 @@
     "image": "2007_Fremennik_Longboat_statue.png",
     "type": "object",
     "year": 2016,
+    "released": 1451865600000,
     "examine": "Calling forth memories of 2007, this Fremennik Longboat statue stands proud.",
     "id": "OBJ-100786,118895",
     "label": "2007 Fremennik Longboat statue"
@@ -571,6 +634,7 @@
     "image": "2008_Summoning_altar_statue.png",
     "type": "object",
     "year": 2016,
+    "released": 1451865600000,
     "examine": "Summoning memories of 2008 to you this altar statue is very compelling.",
     "id": "OBJ-100788,118896",
     "label": "2008 Summoning altar statue"
@@ -580,6 +644,7 @@
     "image": "2009_Evil_Tree_statue.png",
     "type": "object",
     "year": 2016,
+    "released": 1451865600000,
     "examine": "This statue of an Evil Tree awakens memories of 2009.",
     "id": "OBJ-100790,118897",
     "label": "2009 Evil Tree statue"
@@ -589,6 +654,7 @@
     "image": "2010_Nomad_statue.png",
     "type": "object",
     "year": 2016,
+    "released": 1451865600000,
     "examine": "Gazing at this arresting statue of Nomad you are taken back to memories of 2010.",
     "id": "OBJ-100792,118898",
     "label": "2010 Nomad statue"
@@ -598,6 +664,7 @@
     "image": "2011_Nex_statue.png",
     "type": "object",
     "year": 2016,
+    "released": 1451865600000,
     "examine": "This powerful statue of Nex elicits strong memories of 2011.",
     "id": "OBJ-100794,118899",
     "label": "2011 Nex statue"
@@ -607,6 +674,7 @@
     "image": "2012_Queen_Black_Dragon_statue.png",
     "type": "object",
     "year": 2016,
+    "released": 1451865600000,
     "examine": "Memories of 2012 are awakened as you admire this remarkable statue of the Queen Black Dragon.",
     "id": "OBJ-100796,118900",
     "label": "2012 Queen Black Dragon statue"
@@ -616,6 +684,7 @@
     "image": "2013_World_Event_statue.png",
     "type": "object",
     "year": 2016,
+    "released": 1451865600000,
     "examine": "This compelling statue depicting the battle between Saradomin and Zamorak excites you memories of 2013.",
     "id": "OBJ-100798,118901",
     "label": "2013 World Event statue"
@@ -625,6 +694,7 @@
     "image": "2014_Prifddinas_statue.png",
     "type": "object",
     "year": 2016,
+    "released": 1451865600000,
     "examine": "2014 memories are brought flooding back as you behold this stunning statue in the likeness of Prifddinas.",
     "id": "OBJ-118902,100800",
     "label": "2014 Prifddinas statue"
@@ -634,6 +704,7 @@
     "image": "2016_Telos_statue.png",
     "type": "object",
     "year": 2021,
+    "released": 1609718400000,
     "examine": "This spectacular statue of Telos brings back memories of killstreaks and 2016.",
     "id": "OBJ-118904",
     "label": "2016 Telos statue"
@@ -643,6 +714,7 @@
     "image": "2017_Menaphos_statue.png",
     "type": "object",
     "year": 2021,
+    "released": 1609718400000,
     "examine": "Memories of scarabs and obelisks are opened just as 2017 opened the gates of Menaphos.",
     "id": "OBJ-118905",
     "label": "2017 Menaphos statue"
@@ -652,6 +724,7 @@
     "image": "2018_Solak_statue.png",
     "type": "object",
     "year": 2021,
+    "released": 1609718400000,
     "examine": "This imposing statue of Solak elicits memories of 2018, a year of great combat challenge.",
     "id": "OBJ-118906",
     "label": "2018 Solak statue"
@@ -661,6 +734,7 @@
     "image": "2019_Anachronia_statue.png",
     "type": "object",
     "year": 2021,
+    "released": 1609718400000,
     "examine": "2019 unveiled the mysterious Anachronia and draws out memories of dinosaurs and Kerapac.",
     "id": "OBJ-118907",
     "label": "2019 Anachronia statue"
@@ -670,6 +744,7 @@
     "image": "2020_Archaeology_statue.png",
     "type": "object",
     "year": 2021,
+    "released": 1609718400000,
     "examine": "Your recent memories of 2020 are evoked as you gaze upon the statue of the Monolith.",
     "id": "OBJ-118908",
     "label": "2020 Archaeology statue"
@@ -679,6 +754,7 @@
     "image": "22lb_shot_detail.png",
     "type": "item",
     "year": 2006,
+    "released": 1150070400000,
     "examine": "Just landed 22lb shot.",
     "id": "ITEM-8859",
     "label": "22lb shot"
@@ -688,6 +764,7 @@
     "image": "22lb_shot_(scenery).png",
     "type": "object",
     "year": 2006,
+    "released": 1150070400000,
     "examine": "It's a pile of 22lb shot.",
     "id": "OBJ-15665",
     "label": "22lb shot (scenery)"
@@ -697,6 +774,7 @@
     "image": "4-poster.png",
     "type": "object",
     "year": 2006,
+    "released": 1149033600000,
     "examine": "",
     "id": "OBJ-13153",
     "label": "Bed"
@@ -706,6 +784,7 @@
     "image": "4-poster_(flatpack)_detail.png",
     "type": "item",
     "year": 2006,
+    "released": 1149033600000,
     "examine": "A ready-to-assemble four-poster bed.",
     "id": "ITEM-8586",
     "label": "4-poster"
@@ -715,6 +794,7 @@
     "image": "A_Crate.png",
     "type": "object",
     "year": 2017,
+    "released": 1483920000000,
     "examine": "Contains nothing.",
     "id": "OBJ-106362",
     "label": "A Crate"
@@ -724,6 +804,7 @@
     "image": "A_Cultist's_Journey.png",
     "type": "quest",
     "year": 2021,
+    "released": 1629676800000,
     "examine": "",
     "id": "QUEST-d7a88525fe7555632d1ef281b942ffe9",
     "label": "A Cultist's Journey"
@@ -733,6 +814,7 @@
     "image": "Fairy_Godfather_Throne_room.png",
     "type": "quest",
     "year": 2006,
+    "released": 1140998400000,
     "examine": "",
     "id": "QUEST-1f9f1d615ee4b9e26475684b7d7c99a6",
     "label": "A Fairy Tale I - Growing Pains"
@@ -742,6 +824,7 @@
     "image": "A_Fairy_Tale_II_-_Cure_a_Queen.png",
     "type": "quest",
     "year": 2006,
+    "released": 1152576000000,
     "examine": "",
     "id": "QUEST-222f8ecb0a7ccdc37ca92d184d0b812e",
     "label": "A Fairy Tale II - Cure a Queen"
@@ -751,6 +834,7 @@
     "image": "A_Fairy_Tale_Part_III_-_Battle_at_Ork's_Rift.png",
     "type": "quest",
     "year": 2010,
+    "released": 1273708800000,
     "examine": "",
     "id": "QUEST-321a52444bcac1499a2d6c2806f8ad6e",
     "label": "A Fairy Tale III - Battle at Ork's Rift"
@@ -760,6 +844,7 @@
     "image": "A_Goblin_standard.png",
     "type": "object",
     "year": 2006,
+    "released": 1155600000000,
     "examine": "The goblin standard.",
     "id": "OBJ-17207",
     "label": "A Goblin standard"
@@ -769,6 +854,7 @@
     "image": "A_Guild_of_Our_Own.png",
     "type": "quest",
     "year": 2010,
+    "released": 1272412800000,
     "examine": "",
     "id": "QUEST-174a659eca14c5fecd938444cd6a02e0",
     "label": "A Guild of Our Own"
@@ -778,6 +864,7 @@
     "image": "A_bunk_bed.png",
     "type": "object",
     "year": 2006,
+    "released": 1165276800000,
     "examine": "Neatly made up.",
     "id": "OBJ-35156",
     "label": "A bunk bed"
@@ -787,6 +874,7 @@
     "image": "A_burnt_tree.png",
     "type": "object",
     "year": 2009,
+    "released": 1234224000000,
     "examine": "A burnt tree. What could have caused this?",
     "id": "OBJ-42137",
     "label": "A burnt tree"
@@ -796,6 +884,7 @@
     "image": "A_cart_full_of_logs.png",
     "type": "object",
     "year": 2003,
+    "released": 1059350400000,
     "examine": "Destined for plank-hood.",
     "id": "OBJ-23615",
     "label": "A cart full of logs"
@@ -805,6 +894,7 @@
     "image": "A_clockwork_lemon_animation.gif",
     "type": "item",
     "year": 2017,
+    "released": 1509926400000,
     "examine": "A flighty little citrus-based toy.",
     "id": "ITEM-41344",
     "label": "A clockwork lemon"
@@ -814,6 +904,7 @@
     "image": "A_dais.png",
     "type": "object",
     "year": 2009,
+    "released": 1242691200000,
     "examine": "Raised for display of long lost items.",
     "id": "OBJ-23615",
     "label": "A dais"
@@ -823,6 +914,7 @@
     "image": "A_dark_hole.png",
     "type": "object",
     "year": 2005,
+    "released": 1113782400000,
     "examine": "It leads to a maze of twisty passages, which are all alike.",
     "id": "OBJ-31367",
     "label": "A dark hole"
@@ -832,6 +924,7 @@
     "image": "A_fallen_barrel.png",
     "type": "object",
     "year": 2006,
+    "released": 1157328000000,
     "examine": "An empty wooden barrel.",
     "id": "OBJ-18011",
     "label": "A fallen barrel"
@@ -841,6 +934,7 @@
     "image": "A_golden_gnome.png",
     "type": "object",
     "year": 2003,
+    "released": 1043712000000,
     "examine": "A gold statue of a gnome.",
     "id": "OBJ-68957",
     "label": "A golden gnome"
@@ -850,6 +944,7 @@
     "image": "A_golden_pear_bush.png",
     "type": "object",
     "year": 2004,
+    "released": 1089676800000,
     "examine": "It'll probably die soon.",
     "id": "OBJ-3513,51073,51088",
     "label": "A golden pear bush"
@@ -859,6 +954,7 @@
     "image": "A_humble_acolyte.png",
     "type": "npc",
     "year": 2016,
+    "released": 1474848000000,
     "examine": "I pretended to follow.",
     "id": "NPC-23309",
     "label": "A humble acolyte"
@@ -868,6 +964,7 @@
     "image": "A_jester_stick_detail.png",
     "type": "item",
     "year": 2007,
+    "released": 1170720000000,
     "examine": "A jester stick.",
     "id": "ITEM-10840",
     "label": "A jester stick"
@@ -877,6 +974,7 @@
     "image": "Nomad's_memory.png",
     "type": "npc",
     "year": 2016,
+    "released": 1474848000000,
     "examine": "It appears to be someone's memories condensed into a wisp.",
     "id": "NPC-23323",
     "label": "A memory"
@@ -886,6 +984,7 @@
     "image": "Nomad's_memory.png",
     "type": "npc",
     "year": 2016,
+    "released": 1474848000000,
     "examine": "The focus for this memory.",
     "id": "NPC-23333",
     "label": "A new master"
@@ -895,6 +994,7 @@
     "image": "A_parcel.png",
     "type": "object",
     "year": 2007,
+    "released": 1191888000000,
     "examine": "A sealed parcel addressed to Wizard Cromperty.",
     "id": "OBJ-27053",
     "label": "A parcel"
@@ -904,6 +1004,7 @@
     "image": "A_tropical_tree.png",
     "type": "object",
     "year": 2001,
+    "released": 1001203200000,
     "examine": "A tree found in tropical areas. This one is scorched.",
     "id": "OBJ-25191",
     "label": "A tropical tree"
@@ -913,6 +1014,7 @@
     "image": "A_wooden_log.png",
     "type": "object",
     "year": 2003,
+    "released": 1043625600000,
     "examine": "A nearly rotten wooden log that crosses the river.",
     "id": "OBJ-2332",
     "label": "A wooden log"
@@ -922,6 +1024,7 @@
     "image": "Abandoned_1_barrier.gif",
     "type": "object",
     "year": 2010,
+    "released": 1271030400000,
     "examine": "A magical barrier.",
     "id": "OBJ-52843",
     "label": "Abandoned 1 barrier"
@@ -931,6 +1034,7 @@
     "image": "Abandoned_2_barrier.gif",
     "type": "object",
     "year": 2010,
+    "released": 1271030400000,
     "examine": "A magical barrier.",
     "id": "OBJ-52845",
     "label": "Abandoned 2 barrier"
@@ -940,6 +1044,7 @@
     "image": "Herblore_habitat_abandoned_house.png",
     "type": "object",
     "year": 2010,
+    "released": 1290556800000,
     "examine": "Looks just like the real thing.",
     "id": "OBJ-56797",
     "label": "Abandoned house"
@@ -949,6 +1054,7 @@
     "image": "Abbot_Langley.png",
     "type": "npc",
     "year": 2001,
+    "released": 994896000000,
     "examine": "A holy man.",
     "id": "NPC-801",
     "label": "Abbot Langley"
@@ -958,6 +1064,7 @@
     "image": "Abel.png",
     "type": "npc",
     "year": 2011,
+    "released": 1299542400000,
     "examine": "A particularly neat dwarf.",
     "id": "NPC-130",
     "label": "Abel"
@@ -967,6 +1074,7 @@
     "image": "Aberab.png",
     "type": "npc",
     "year": 2004,
+    "released": 1102291200000,
     "examine": "A huge brutish gorilla. He looks like a jail guard.",
     "id": "NPC-1432",
     "label": "Aberab"
@@ -976,6 +1084,7 @@
     "image": "Abracas_(Aughra_fledgling).png",
     "type": "npc",
     "year": 2020,
+    "released": 1595808000000,
     "examine": "Kindra council member.",
     "id": "NPC-27192",
     "label": "Abracas (Aughra fledgling)"
@@ -985,6 +1094,7 @@
     "image": "Abyssal_demon_head_(mounted).png",
     "type": "object",
     "year": 2006,
+    "released": 1149033600000,
     "examine": "",
     "id": "OBJ-13485",
     "label": "Abyssal demon head"
@@ -994,6 +1104,7 @@
     "image": "Abyssal_rift.png",
     "type": "object",
     "year": 2005,
+    "released": 1118620800000,
     "examine": "An unstable portal across the dimensions...",
     "id": "OBJ-7171",
     "label": "Abyssal rift"
@@ -1003,6 +1114,7 @@
     "image": "Energy_Drain.gif",
     "type": "item",
     "year": 2010,
+    "released": 1263859200000,
     "examine": "A weapon from the Abyss, painted blue from the yolk of a Penance egg.",
     "id": "ITEM-15442",
     "label": "Abyssal whip"
@@ -1012,6 +1124,7 @@
     "image": "Energy_Drain.gif",
     "type": "item",
     "year": 2010,
+    "released": 1263859200000,
     "examine": "A weapon from the Abyss, painted green from the yolk of a Penance egg.",
     "id": "ITEM-15444",
     "label": "Abyssal whip"
@@ -1021,6 +1134,7 @@
     "image": "Energy_Drain.gif",
     "type": "item",
     "year": 2010,
+    "released": 1263859200000,
     "examine": "A weapon from the Abyss, painted white from the egg white of a Penance egg.",
     "id": "ITEM-15443",
     "label": "Abyssal whip"
@@ -1030,6 +1144,7 @@
     "image": "Energy_Drain.gif",
     "type": "item",
     "year": 2010,
+    "released": 1263859200000,
     "examine": "A weapon from the Abyss, painted yellow from the yolk of a Penance egg.",
     "id": "ITEM-15441",
     "label": "Abyssal whip"
@@ -1039,6 +1154,7 @@
     "image": "Abyssalbanite_ore_detail.png",
     "type": "item",
     "year": 2011,
+    "released": 1315958400000,
     "examine": "Abyssal demons aren't fans of these.",
     "id": "ITEM-21782",
     "label": "Abyssalbanite ore"
@@ -1048,6 +1164,7 @@
     "image": "Acadia_tree.png",
     "type": "object",
     "year": 2017,
+    "released": 1496620800000,
     "examine": "Provides some welcome shade.",
     "id": "OBJ-109001,109007",
     "label": "Acadia tree"
@@ -1057,6 +1174,7 @@
     "image": "Acca_Gielinor.png",
     "type": "npc",
     "year": 2015,
+    "released": 1444608000000,
     "examine": "The elder of the goebie refugees.",
     "id": "NPC-21877",
     "label": "Acca Gielinor"
@@ -1066,6 +1184,7 @@
     "image": "Acca_Kanatah.png",
     "type": "npc",
     "year": 2015,
+    "released": 1436745600000,
     "examine": "The elder of the village of Kanatah.",
     "id": "NPC-21399",
     "label": "Acca Kanatah"
@@ -1075,6 +1194,7 @@
     "image": "Acca_Otot.png",
     "type": "npc",
     "year": 2015,
+    "released": 1436745600000,
     "examine": "The elder of the grand city of Otot.",
     "id": "NPC-21398",
     "label": "Acca Otot"
@@ -1084,6 +1204,7 @@
     "image": "Scattering_accursed_ashes.gif",
     "type": "item",
     "year": 2011,
+    "released": 1297728000000,
     "examine": "A heap of ashes from a demon footsoldier.",
     "id": "ITEM-20266",
     "label": "Accursed ashes"
@@ -1093,6 +1214,7 @@
     "image": "Achietties.png",
     "type": "npc",
     "year": 2002,
+    "released": 1014768000000,
     "examine": "Distinctly heroic.",
     "id": "NPC-796",
     "label": "Achietties"
@@ -1102,6 +1224,7 @@
     "image": "Achievement_banner_detail.png",
     "type": "item",
     "year": 2012,
+    "released": 1342483200000,
     "examine": "My personal banner.",
     "id": "ITEM-24579",
     "label": "Achievement banner"
@@ -1111,6 +1234,7 @@
     "image": "Achievement_banner_(scenery).png",
     "type": "object",
     "year": 2012,
+    "released": 1342483200000,
     "examine": "An expensive banner celebrating the works of its owner.",
     "id": "OBJ-93095",
     "label": "Achievement banner (scenery)"
@@ -1120,6 +1244,7 @@
     "image": "Achtryn.png",
     "type": "npc",
     "year": 2008,
+    "released": 1227657600000,
     "examine": "It looks like he decided to have a change of scene.",
     "id": "NPC-8465",
     "label": "Achtryn"
@@ -1129,6 +1254,7 @@
     "image": "Acidic_spider.png",
     "type": "npc",
     "year": 2014,
+    "released": 1406505600000,
     "examine": "It doesn't look healthy.",
     "id": "NPC-19470",
     "label": "Acidic spider"
@@ -1138,6 +1264,7 @@
     "image": "Temple_of_Aminishi_map.png",
     "type": "item",
     "year": 2018,
+    "released": 1529884800000,
     "examine": "A page from a journal, it doesn't look too old.",
     "id": "ITEM-43047",
     "label": "Acolyte's diary page"
@@ -1147,6 +1274,7 @@
     "image": "Active_ectoplasm_detail.png",
     "type": "item",
     "year": 2014,
+    "released": 1413763200000,
     "examine": "This stuff can fuel the proto pack.",
     "id": "ITEM-32378",
     "label": "Active ectoplasm"
@@ -1156,6 +1284,7 @@
     "image": "Active_runestone.png",
     "type": "object",
     "year": 2015,
+    "released": 1433116800000,
     "examine": "You can feel power emanating from the stone.",
     "id": "OBJ-97066",
     "label": "Active runestone"
@@ -1165,6 +1294,7 @@
     "image": "Adamant_2h_sword_+_1_detail.png",
     "type": "item",
     "year": 2019,
+    "released": 1546819200000,
     "examine": "An adamant 2h sword which has been upgraded once.",
     "id": "ITEM-44979",
     "label": "Adamant 2h sword + 1"
@@ -1174,6 +1304,7 @@
     "image": "Adamant_armour_stand.png",
     "type": "object",
     "year": 2006,
+    "released": 1149033600000,
     "examine": "",
     "id": "OBJ-13492",
     "label": "Adamant armour"
@@ -1183,6 +1314,7 @@
     "image": "Adamant_ceremonial_sword_I_detail.png",
     "type": "item",
     "year": 2011,
+    "released": 1299542400000,
     "examine": "A masterfully crafted adamant blade.",
     "id": "ITEM-20548",
     "label": "Adamant ceremonial sword I"
@@ -1192,6 +1324,7 @@
     "image": "Adamant_ceremonial_sword_II_detail.png",
     "type": "item",
     "year": 2011,
+    "released": 1299542400000,
     "examine": "A masterfully crafted adamant blade.",
     "id": "ITEM-20549",
     "label": "Adamant ceremonial sword II"
@@ -1201,6 +1334,7 @@
     "image": "Adamant_dragon.png",
     "type": "npc",
     "year": 2019,
+    "released": 1548374400000,
     "examine": "Its scales seem to be fused with adamant.",
     "id": "NPC-8969",
     "label": "Adamant dragon (Curse of the Black Stone)"
@@ -1210,6 +1344,7 @@
     "image": "Adamant_dragon_dungeon_(scenery).png",
     "type": "object",
     "year": 2015,
+    "released": 1434326400000,
     "examine": "Here be dragons.",
     "id": "OBJ-97054",
     "label": "Adamant dragon dungeon (scenery)"
@@ -1219,6 +1354,7 @@
     "image": "Adamant_full_helm_+_2_detail.png",
     "type": "item",
     "year": 2019,
+    "released": 1546819200000,
     "examine": "An adamant full helm which has been upgraded twice.",
     "id": "ITEM-44990",
     "label": "Adamant full helm + 2"
@@ -1228,6 +1364,7 @@
     "image": "Adamant_heraldic_armour_set_5_(sk)_detail.png",
     "type": "item",
     "year": 2010,
+    "released": 1280880000000,
     "examine": "Grand Exchange set containing a full helm, platebody, skirt and kiteshield.",
     "id": "ITEM-19558",
     "label": "Adamant heraldic armour set 5 (sk)"
@@ -1237,6 +1374,7 @@
     "image": "Adamant_kiteshield_(g)_detail.png",
     "type": "item",
     "year": 2004,
+    "released": 1083715200000,
     "examine": "Adamant kiteshield with gold trim.",
     "id": "ITEM-2611",
     "label": "Adamant kiteshield (g)"
@@ -1246,6 +1384,7 @@
     "image": "Adamant_nails_detail.png",
     "type": "item",
     "year": 2005,
+    "released": 1116288000000,
     "examine": "Keeps things in place fairly permanently.",
     "id": "ITEM-4823",
     "label": "Adamant nails"
@@ -1255,6 +1394,7 @@
     "image": "Adamant_off_hand_claws_+_1_detail.png",
     "type": "item",
     "year": 2019,
+    "released": 1546819200000,
     "examine": "A pair of adamant off hand claws which has been upgraded once.",
     "id": "ITEM-44971",
     "label": "Adamant off hand claws + 1"
@@ -1264,6 +1404,7 @@
     "image": "Adamant_off_hand_claws_+_2_detail.png",
     "type": "item",
     "year": 2019,
+    "released": 1546819200000,
     "examine": "A pair of adamant off hand claws which has been upgraded twice.",
     "id": "ITEM-44974",
     "label": "Adamant off hand claws + 2"
@@ -1273,6 +1414,7 @@
     "image": "Adamant_off_hand_longsword_detail.png",
     "type": "item",
     "year": 2012,
+    "released": 1353369600000,
     "examine": "An adamant off hand longsword.",
     "id": "ITEM-45504",
     "label": "Adamant off hand longsword"
@@ -1282,6 +1424,7 @@
     "image": "Adamant_platebody_detail.png",
     "type": "item",
     "year": 2001,
+    "released": 978566400000,
     "examine": "An adamant platebody.",
     "id": "ITEM-45516",
     "label": "Adamant platebody"
@@ -1291,6 +1434,7 @@
     "image": "Adamant_platelegs_(h2)_detail.png",
     "type": "item",
     "year": 2010,
+    "released": 1280880000000,
     "examine": "Platelegs with a heraldic design.",
     "id": "ITEM-19196",
     "label": "Adamant platelegs (h2)"
@@ -1300,6 +1444,7 @@
     "image": "Adamant_smelter.png",
     "type": "object",
     "year": 2019,
+    "released": 1551052800000,
     "examine": "A device that pours molten adamant onto dragon eggs.",
     "id": "OBJ-2311",
     "label": "Adamant smelter"
@@ -1309,6 +1454,7 @@
     "image": "Adamantite_ore_detail.png",
     "type": "item",
     "year": 2001,
+    "released": 978566400000,
     "examine": "Used in Smithing (40).",
     "id": "ITEM-449",
     "label": "Adamantite ore"
@@ -1318,6 +1464,7 @@
     "image": "Adamantite_stone_spirit_detail.png",
     "type": "item",
     "year": 2019,
+    "released": 1546819200000,
     "examine": "A strange wisp-like creature. When mining adamantite ore, this is consumed and you will receive an additional adamantite ore.",
     "id": "ITEM-44807",
     "label": "Adamantite stone spirit"
@@ -1327,6 +1474,7 @@
     "image": "Address_cube_(air).png",
     "type": "npc",
     "year": 2011,
+    "released": 1298937600000,
     "examine": "An address cube with a<sup class=\"noprint fact\">&#91;<span class=\"fact-text\" title=\"The preceding quote has been reproduced verbatim and is not a transcription error.\">sic</span>&#93;</sup> 'air' symbol on it.",
     "id": "NPC-4631",
     "label": "Address cube (air)"
@@ -1336,6 +1484,7 @@
     "image": "Address_cube_(astral).png",
     "type": "npc",
     "year": 2011,
+    "released": 1298937600000,
     "examine": "An address cube with an 'astral' symbol on it.",
     "id": "NPC-4632",
     "label": "Address cube (astral)"
@@ -1345,6 +1494,7 @@
     "image": "Address_cube_(body).png",
     "type": "npc",
     "year": 2011,
+    "released": 1298937600000,
     "examine": "An address cube with a 'body' symbol on it.",
     "id": "NPC-6310",
     "label": "Address cube (body)"
@@ -1354,6 +1504,7 @@
     "image": "Address_cube_(chaos).png",
     "type": "npc",
     "year": 2011,
+    "released": 1298937600000,
     "examine": "An address cube with a 'chaos' symbol on it.",
     "id": "NPC-6313",
     "label": "Address cube (chaos)"
@@ -1363,6 +1514,7 @@
     "image": "Address_cube_(cosmic).png",
     "type": "npc",
     "year": 2011,
+    "released": 1298937600000,
     "examine": "An address cube with a 'cosmic' symbol on it.",
     "id": "NPC-6615",
     "label": "Address cube (cosmic)"
@@ -1372,6 +1524,7 @@
     "image": "Address_cube_(earth).png",
     "type": "npc",
     "year": 2011,
+    "released": 1298937600000,
     "examine": "An address cube with an 'earth' symbol on it.",
     "id": "NPC-6616",
     "label": "Address cube (earth)"
@@ -1381,6 +1534,7 @@
     "image": "Address_cube_(fire).png",
     "type": "npc",
     "year": 2011,
+    "released": 1298937600000,
     "examine": "An address cube with a 'fire' symbol on it.",
     "id": "NPC-6617",
     "label": "Address cube (fire)"
@@ -1390,6 +1544,7 @@
     "image": "Address_cube_(law).png",
     "type": "npc",
     "year": 2011,
+    "released": 1298937600000,
     "examine": "An address cube with a 'law' symbol on it.",
     "id": "NPC-6618",
     "label": "Address cube (law)"
@@ -1399,6 +1554,7 @@
     "image": "Address_cube_(mind).png",
     "type": "npc",
     "year": 2011,
+    "released": 1298937600000,
     "examine": "An address cube with a 'mind' symbol on it.",
     "id": "NPC-6619",
     "label": "Address cube (mind)"
@@ -1408,6 +1564,7 @@
     "image": "Address_cube_(nature).png",
     "type": "npc",
     "year": 2011,
+    "released": 1298937600000,
     "examine": "An address cube with a 'nature' symbol on it.",
     "id": "NPC-6620",
     "label": "Address cube (nature)"
@@ -1417,6 +1574,7 @@
     "image": "Address_cube_(water).png",
     "type": "npc",
     "year": 2011,
+    "released": 1298937600000,
     "examine": "An address cube with a 'water' symbol on it.",
     "id": "NPC-6621",
     "label": "Address cube (water)"
@@ -1426,6 +1584,7 @@
     "image": "Address_form_read.png",
     "type": "item",
     "year": 2007,
+    "released": 1185235200000,
     "examine": "A change of address form.",
     "id": "ITEM-11680",
     "label": "Address form"
@@ -1435,6 +1594,7 @@
     "image": "Adrenaline_crystal_(War's_Retreat).png",
     "type": "object",
     "year": 2020,
+    "released": 1580083200000,
     "examine": "A crystal formed in everyone's favourite flavour: adrenaline.",
     "id": "OBJ-114749",
     "label": "Adrenaline crystal"
@@ -1444,6 +1604,7 @@
     "image": "Toolbelt_settings_interface.png",
     "type": "item",
     "year": 2017,
+    "released": 1510531200000,
     "examine": "A powerful aura resonates from this device, drawing all gold coins to it. Does not degrade, but consumes 10% of the coins.",
     "id": "ITEM-41375",
     "label": "Advanced gold accumulator"
@@ -1453,6 +1614,7 @@
     "image": "Pickpocketing_advanced_pickpocket_trainer.png",
     "type": "npc",
     "year": 2010,
+    "released": 1272412800000,
     "examine": "A thieves trainer, with several head bruises",
     "id": "NPC-11296",
     "label": "Advanced pickpocketing trainer"
@@ -1462,6 +1624,7 @@
     "image": "Adventurer.png",
     "type": "npc",
     "year": 2006,
+    "released": 1161561600000,
     "examine": "He's in a pretty nasty spot, in a pretty nasty pot. With some cabbage.",
     "id": "NPC-4960",
     "label": "Adventurer"
@@ -1471,6 +1634,7 @@
     "image": "Adventurer_(Burgh_de_Rott_Ramble)_location.png",
     "type": "npc",
     "year": 2007,
+    "released": 1173744000000,
     "examine": "An extensively experienced fighter.",
     "id": "NPC-1512",
     "label": "Adventurer (Burgh de Rott Ramble)"
@@ -1480,6 +1644,7 @@
     "image": "2015_Hallowe'en_event_finding_a_chest.png",
     "type": "item",
     "year": 2015,
+    "released": 1445904000000,
     "examine": "A chest containing the belongings of a long departed adventurer.",
     "id": "ITEM-35913",
     "label": "Adventurer's chest"
@@ -1489,6 +1654,7 @@
     "image": "Advertisement_board.png",
     "type": "object",
     "year": 2021,
+    "released": 1631491200000,
     "examine": "Allows you to advertise for a specific animal trader.",
     "id": "OBJ-121377",
     "label": "Advertisement board"
@@ -1498,6 +1664,7 @@
     "image": "Aegis_effect.gif",
     "type": "item",
     "year": 2011,
+    "released": 1323129600000,
     "examine": "Grants a mystical shield.",
     "id": "ITEM-22889",
     "label": "Aegis aura"
@@ -1507,6 +1674,7 @@
     "image": "Aerated_sediment_(scenery).png",
     "type": "object",
     "year": 2020,
+    "released": 1585526400000,
     "examine": "A pile of aerated sediment.",
     "id": "OBJ-117200,117201,117203,117205,117207,117209,117211,117213,117215,117217,117219,117221",
     "label": "Aerated sediment"
@@ -1516,6 +1684,7 @@
     "image": "Aetherium_forge.png",
     "type": "object",
     "year": 2020,
+    "released": 1585526400000,
     "examine": "A custom forge designed to work with aetherium alloy!",
     "id": "OBJ-117220",
     "label": "Aetherium forge"
@@ -1525,6 +1694,7 @@
     "image": "Afenen.png",
     "type": "npc",
     "year": 2014,
+    "released": 1411344000000,
     "examine": "Looks after your Farming tools.",
     "id": "NPC-20109",
     "label": "Afenen"
@@ -1534,6 +1704,7 @@
     "image": "Aga.png",
     "type": "npc",
     "year": 2004,
+    "released": 1093305600000,
     "examine": "A beautiful troll.",
     "id": "NPC-1554",
     "label": "Aga"
@@ -1543,6 +1714,7 @@
     "image": "Aged_log.png",
     "type": "object",
     "year": 2007,
+    "released": 1183420800000,
     "examine": "A log jammed by the current, perhaps rideable",
     "id": "OBJ-25216",
     "label": "Aged log"
@@ -1552,6 +1724,7 @@
     "image": "Agent_001.png",
     "type": "npc",
     "year": 2020,
+    "released": 1600041600000,
     "examine": "A special agent for the KGP, hiding in plain view.",
     "id": "NPC-27244",
     "label": "Agent 001"
@@ -1561,6 +1734,7 @@
     "image": "Agent_002.png",
     "type": "npc",
     "year": 2020,
+    "released": 1600041600000,
     "examine": "A special agent for the KGP, hiding in plain view.",
     "id": "NPC-27244",
     "label": "Agent 002"
@@ -1570,6 +1744,7 @@
     "image": "Agent_003.png",
     "type": "npc",
     "year": 2020,
+    "released": 1600041600000,
     "examine": "A special agent for the KGP, hiding in plain view.",
     "id": "NPC-27244",
     "label": "Agent 003"
@@ -1579,6 +1754,7 @@
     "image": "Agent_004.png",
     "type": "npc",
     "year": 2020,
+    "released": 1600041600000,
     "examine": "A special agent for the KGP, hiding in plain view.",
     "id": "NPC-27244",
     "label": "Agent 004"
@@ -1588,6 +1764,7 @@
     "image": "Agent_005.png",
     "type": "npc",
     "year": 2020,
+    "released": 1600041600000,
     "examine": "A special agent for the KGP, hiding in plain view.",
     "id": "NPC-27244",
     "label": "Agent 005"
@@ -1597,6 +1774,7 @@
     "image": "Agent_006.png",
     "type": "npc",
     "year": 2020,
+    "released": 1600041600000,
     "examine": "A special agent for the KGP, hiding in plain view.",
     "id": "NPC-27244",
     "label": "Agent 006"
@@ -1606,6 +1784,7 @@
     "image": "Agent_007.png",
     "type": "npc",
     "year": 2020,
+    "released": 1600041600000,
     "examine": "Licence to chill.",
     "id": "NPC-27246",
     "label": "Agent 007"
@@ -1615,6 +1794,7 @@
     "image": "Aggie_chathead.png",
     "type": "npc",
     "year": 2001,
+    "released": 983318400000,
     "examine": "A witch.",
     "id": "NPC-922",
     "label": "Aggie"
@@ -1624,6 +1804,7 @@
     "image": "Aggie's_Cauldron.png",
     "type": "object",
     "year": 2005,
+    "released": 1109030400000,
     "examine": "Aggie's cooking something, probably best not to think what...",
     "id": "OBJ-9736",
     "label": "Aggie's Cauldron"
@@ -1633,6 +1814,7 @@
     "image": "Agility_Boss.png",
     "type": "npc",
     "year": 2005,
+    "released": 1107129600000,
     "examine": "He's in charge of the Agility Course.",
     "id": "NPC-1661",
     "label": "Agility Boss"
@@ -1642,6 +1824,7 @@
     "image": "Agility_Instructor.png",
     "type": "npc",
     "year": 2007,
+    "released": 1170028800000,
     "examine": "Instructs agility.",
     "id": "NPC-5447",
     "label": "Agility Instructor"
@@ -1651,6 +1834,7 @@
     "image": "Agility_Trainer.png",
     "type": "npc",
     "year": 2005,
+    "released": 1107129600000,
     "examine": "'''&bull;''' Have you brought him the stick yet?<br />'''&bull;''' A werewolf agility trainer.",
     "id": "NPC-1663",
     "label": "Agility Trainer"
@@ -1660,6 +1844,7 @@
     "image": "Agility_XP_lamp_(Evil_Dave's_Big_Day_Out)_detail.png",
     "type": "item",
     "year": 2018,
+    "released": 1535414400000,
     "examine": "Rub this lamp to get experience. (Evil Dave's Big Day Out)",
     "id": "ITEM-43441",
     "label": "Agility XP lamp"
@@ -1669,6 +1854,7 @@
     "image": "Circus_barker.png",
     "type": "npc",
     "year": 2008,
+    "released": 1220313600000,
     "examine": "Here to help.",
     "id": "NPC-8082",
     "label": "Agility assistant"
@@ -1678,6 +1864,7 @@
     "image": "Agility_Emote.gif",
     "type": "item",
     "year": 2006,
+    "released": 1161129600000,
     "examine": "The cape worn by the most agile of heroes.",
     "id": "ITEM-9771",
     "label": "Agility cape"
@@ -1687,6 +1874,7 @@
     "image": "Agility_Emote.gif",
     "type": "item",
     "year": 2006,
+    "released": 1161129600000,
     "examine": "The cape worn by the most agile of heroes.",
     "id": "ITEM-9772",
     "label": "Agility cape (t)"
@@ -1696,6 +1884,7 @@
     "image": "Rival_challenges_interface.png",
     "type": "item",
     "year": 2014,
+    "released": 1410393600000,
     "examine": "A token allowing you to do one of Captain Haskell's Agility challenges.",
     "id": "ITEM-32046",
     "label": "Agility challenge token"
@@ -1705,6 +1894,7 @@
     "image": "Rival_challenges_interface.png",
     "type": "item",
     "year": 2014,
+    "released": 1410393600000,
     "examine": "A token indicating that you are currently doing one of Captain Haskell's Agility challenges.",
     "id": "ITEM-32047",
     "label": "Agility challenge token (active)"
@@ -1714,6 +1904,7 @@
     "image": "Agility_changing_room.png",
     "type": "object",
     "year": 2008,
+    "released": 1220313600000,
     "examine": "You must get changed before you can do the Agility performance.",
     "id": "OBJ-2332",
     "label": "Agility changing room"
@@ -1723,6 +1914,7 @@
     "image": "Agmundi.png",
     "type": "npc",
     "year": 2005,
+    "released": 1117497600000,
     "examine": "She seems to be doing rather well for herself, selling clothes in a palace shop.",
     "id": "NPC-2161",
     "label": "Agmundi"
@@ -1732,6 +1924,7 @@
     "image": "Agnar.png",
     "type": "npc",
     "year": 2004,
+    "released": 1099353600000,
     "examine": "<ul><li>One of Rellekka's many citizens.</li><li>A citizen of Rellekka up in arms against the daggermouths.</li></ul>",
     "id": "NPC-1305",
     "label": "Agnar"
@@ -1741,6 +1934,7 @@
     "image": "Ailanthus_tree.png",
     "type": "object",
     "year": 2009,
+    "released": 1231200000000,
     "examine": "It is growing, against the odds, in this cave.",
     "id": "OBJ-41905",
     "label": "Ailanthus tree"
@@ -1750,6 +1944,7 @@
     "image": "Ailanthus_twigs_detail.png",
     "type": "item",
     "year": 2009,
+    "released": 1231200000000,
     "examine": "Aromatic twigs from an ailanthus tree.",
     "id": "ITEM-14608",
     "label": "Ailanthus twigs"
@@ -1759,6 +1954,7 @@
     "image": "Air_battlestaff_detail.png",
     "type": "item",
     "year": 2002,
+    "released": 1016409600000,
     "examine": "It's a slightly magical stick.",
     "id": "ITEM-1397",
     "label": "Air battlestaff"
@@ -1768,6 +1964,7 @@
     "image": "Air_battlestaff_(Heart_of_Stone)_detail.png",
     "type": "item",
     "year": 2014,
+    "released": 1416787200000,
     "examine": "It's a slightly magical stick.",
     "id": "ITEM-33532",
     "label": "Air battlestaff"
@@ -1777,6 +1974,7 @@
     "image": "Air_rift.png",
     "type": "object",
     "year": 2005,
+    "released": 1118620800000,
     "examine": "A tear in the dimensional weave of the Abyss.",
     "id": "OBJ-7139",
     "label": "Air rift"
@@ -1786,6 +1984,7 @@
     "image": "Air_staff_(Dominion_Tower)_equipped.png",
     "type": "item",
     "year": 2021,
+    "released": 1621209600000,
     "examine": "It's a slightly magical stick.",
     "id": "ITEM-51503",
     "label": "Air staff"
@@ -1795,6 +1994,7 @@
     "image": "Air_talisman_detail.png",
     "type": "item",
     "year": 2003,
+    "released": 1070236800000,
     "examine": "A mysterious power emanates from the talisman...",
     "id": "ITEM-1438",
     "label": "Air talisman"
@@ -1804,6 +2004,7 @@
     "image": "Air_talisman_staff_detail.png",
     "type": "item",
     "year": 2008,
+    "released": 1218499200000,
     "examine": "A staff with a talisman on top.",
     "id": "ITEM-13630",
     "label": "Air talisman staff"
@@ -1813,6 +2014,7 @@
     "image": "Airut_bones_detail.png",
     "type": "item",
     "year": 2013,
+    "released": 1386028800000,
     "examine": "Bones of a creature from another world.",
     "id": "ITEM-30209",
     "label": "Airut bones"
@@ -1822,6 +2024,7 @@
     "image": "Ajjat.png",
     "type": "npc",
     "year": 2006,
+    "released": 1150070400000,
     "examine": "Used to be a black knight.<br />\n* ''During the Encampment event'': Used to be a black knight. Talk to him for more information about the event or to buy more tools with Loyalty Points.",
     "id": "NPC-4288",
     "label": "Ajjat"
@@ -1831,6 +2034,7 @@
     "image": "Ak-Haranu.png",
     "type": "npc",
     "year": 2005,
+    "released": 1108425600000,
     "examine": "A trader from across the eastern sea.",
     "id": "NPC-1688",
     "label": "Ak-Haranu"
@@ -1840,6 +2044,7 @@
     "image": "Akhomet's_ceremonial_dagger_detail.png",
     "type": "item",
     "year": 2017,
+    "released": 1496620800000,
     "examine": "An intricately ornamented dagger.",
     "id": "ITEM-40370",
     "label": "Akhomet's ceremonial dagger"
@@ -1849,6 +2054,7 @@
     "image": "Ceremonial_sword_plans_(bronze).png",
     "type": "item",
     "year": 2011,
+    "released": 1299542400000,
     "examine": "Aksel has granted you permission to smith a bronze sword on his behalf.",
     "id": "ITEM-20558",
     "label": "Aksel's permission (sword)"
@@ -1858,6 +2064,7 @@
     "image": "Al_Shabim.png",
     "type": "npc",
     "year": 2003,
+    "released": 1050278400000,
     "examine": "He's the leader of the Bedabin tribe.",
     "id": "NPC-832",
     "label": "Al Shabim"
@@ -1867,6 +2074,7 @@
     "image": "Al_the_Camel.png",
     "type": "npc",
     "year": 2005,
+    "released": 1130112000000,
     "examine": "A camel who has the soul of a poet.",
     "id": "NPC-2809",
     "label": "Al the Camel"
@@ -1876,6 +2084,7 @@
     "image": "Alaea_crablet.png",
     "type": "npc",
     "year": 2016,
+    "released": 1469404800000,
     "examine": "A crab, native to the Wushanko Isles. It is covered in special, golden, salt crystals.",
     "id": "NPC-8933",
     "label": "Alaea crablet"
@@ -1885,6 +2094,7 @@
     "image": "Alain.png",
     "type": "npc",
     "year": 2005,
+    "released": 1121040000000,
     "examine": "Perhaps this gardener might look after your crops for you.",
     "id": "NPC-2339",
     "label": "Alain"
@@ -1894,6 +2104,7 @@
     "image": "Hell-Rat.png",
     "type": "npc",
     "year": 2017,
+    "released": 1511740800000,
     "examine": "Alan, a rat. Usually found shouting and being angry at almost everything he comes across.",
     "id": "NPC-25065",
     "label": "Alan (Evil Dave's Big Day Out)"
@@ -1903,6 +2114,7 @@
     "image": "Albino_rat_(Familiarisation).png",
     "type": "npc",
     "year": 2010,
+    "released": 1266278400000,
     "examine": "The big cheese.",
     "id": "NPC-9472",
     "label": "Albino rat (Familiarisation)"
@@ -1912,6 +2124,7 @@
     "image": "Alchemical_chart.png",
     "type": "object",
     "year": 2006,
+    "released": 1149033600000,
     "examine": "",
     "id": "OBJ-13662",
     "label": "Alchemical chart"
@@ -1921,6 +2134,7 @@
     "image": "Alchemical_hydrix_detail.png",
     "type": "item",
     "year": 2020,
+    "released": 1597708800000,
     "examine": "A hydrix infused with different types of energy and materials that makes it feel more powerful than a regular gem.",
     "id": "ITEM-50457",
     "label": "Alchemical hydrix"
@@ -1930,6 +2144,7 @@
     "image": "Alchemiser.png",
     "type": "object",
     "year": 2017,
+    "released": 1505692800000,
     "examine": "Turns trash into cash.",
     "id": "OBJ-109773",
     "label": "Alchemiser"
@@ -1939,6 +2154,7 @@
     "image": "Alchemiser_mk._II.png",
     "type": "object",
     "year": 2017,
+    "released": 1505692800000,
     "examine": "Turns trash into cash.",
     "id": "OBJ-109774",
     "label": "Alchemiser mk. II"
@@ -1948,6 +2164,7 @@
     "image": "Alchemist's_chest.png",
     "type": "object",
     "year": 2021,
+    "released": 1635120000000,
     "examine": "You have the overwhelming urge to open this.",
     "id": "OBJ-122065",
     "label": "Alchemist's chest"
@@ -1957,6 +2174,7 @@
     "image": "Alchemists_Teleport.png",
     "type": "object",
     "year": 2006,
+    "released": 1136332800000,
     "examine": "A teleport to the Alchemists' Playground.",
     "id": "OBJ-10780",
     "label": "Alchemists Teleport"
@@ -1966,6 +2184,7 @@
     "image": "Alchemy_Guardian.png",
     "type": "npc",
     "year": 2006,
+    "released": 1136332800000,
     "examine": "A guardian of the arena.",
     "id": "NPC-3099",
     "label": "Alchemy Guardian"
@@ -1975,6 +2194,7 @@
     "image": "Alcove.png",
     "type": "object",
     "year": 2005,
+    "released": 1113177600000,
     "examine": "The statuette is missing from this alcove.",
     "id": "OBJ-6306,6307,6308,6309",
     "label": "Alcove"
@@ -1984,6 +2204,7 @@
     "image": "Alfon.png",
     "type": "npc",
     "year": 2014,
+    "released": 1415577600000,
     "examine": "Perhaps this gardener might look after your crops for you.",
     "id": "NPC-20310",
     "label": "Alfon"
@@ -1993,6 +2214,7 @@
     "image": "Alfonso.png",
     "type": "npc",
     "year": 2021,
+    "released": 1635120000000,
     "examine": "Went down doing what he loved. Delivering barrels.",
     "id": "NPC-28568",
     "label": "Alfonso"
@@ -2002,6 +2224,7 @@
     "image": "Alfred_Stonemason.png",
     "type": "npc",
     "year": 2012,
+    "released": 1327968000000,
     "examine": "The Construction tutor.",
     "id": "NPC-14862",
     "label": "Alfred Stonemason"
@@ -2011,6 +2234,7 @@
     "image": "Ali_Cat.png",
     "type": "npc",
     "year": 2008,
+    "released": 1212624000000,
     "examine": "Ali your ally from the alley.",
     "id": "NPC-7785",
     "label": "Ali Cat"
@@ -2020,6 +2244,7 @@
     "image": "Ali_Tist.png",
     "type": "npc",
     "year": 2010,
+    "released": 1281398400000,
     "examine": "A shady goods merchant.",
     "id": "NPC-11642",
     "label": "Ali Tist"
@@ -2029,6 +2254,7 @@
     "image": "Alia.png",
     "type": "npc",
     "year": 2011,
+    "released": 1306886400000,
     "examine": "She always had a thing for Taevas.",
     "id": "NPC-8259",
     "label": "Alia"
@@ -2038,6 +2264,7 @@
     "image": "Alice_the_Camel.png",
     "type": "npc",
     "year": 2005,
+    "released": 1130112000000,
     "examine": "A camel who's come from the south.",
     "id": "NPC-2813",
     "label": "Alice the Camel"
@@ -2047,6 +2274,7 @@
     "image": "Alice's_husband.png",
     "type": "npc",
     "year": 2006,
+    "released": 1165881600000,
     "examine": "Alice's Husband, Passed on.",
     "id": "NPC-5202",
     "label": "Alice's husband"
@@ -2056,6 +2284,7 @@
     "image": "Alison_Elmshaper_location.png",
     "type": "npc",
     "year": 2012,
+    "released": 1327968000000,
     "examine": "A bowyer of extraordinary skill.",
     "id": "NPC-14858",
     "label": "Alison Elmshaper"
@@ -2065,6 +2294,7 @@
     "image": "All_Fired_Up.png",
     "type": "quest",
     "year": 2008,
+    "released": 1219708800000,
     "examine": "",
     "id": "QUEST-2c2835184bdd36b0df0aba4928a7599b",
     "label": "All Fired Up"
@@ -2074,6 +2304,7 @@
     "image": "Allan.png",
     "type": "npc",
     "year": 2010,
+    "released": 1287360000000,
     "examine": "He'll Poe-n you.",
     "id": "NPC-12381",
     "label": "Allan"
@@ -2083,6 +2314,7 @@
     "image": "Allen.png",
     "type": "npc",
     "year": 2019,
+    "released": 1562544000000,
     "examine": "Grown in the ground.",
     "id": "NPC-26449",
     "label": "Allen"
@@ -2092,6 +2324,7 @@
     "image": "Almarid_location.png",
     "type": "npc",
     "year": 2017,
+    "released": 1495152000000,
     "examine": "Just call him Ali for short, everyone else does.",
     "id": "NPC-24399",
     "label": "Almarid"
@@ -2101,6 +2334,7 @@
     "image": "Almas.png",
     "type": "npc",
     "year": 2018,
+    "released": 1545004800000,
     "examine": "He looks really excited!",
     "id": "NPC-8835",
     "label": "Almas"
@@ -2110,6 +2344,7 @@
     "image": "Almost_a_Statue.png",
     "type": "object",
     "year": 2005,
+    "released": 1117497600000,
     "examine": "A work that has yet to begin.",
     "id": "OBJ-7010",
     "label": "Almost a Statue"
@@ -2119,6 +2354,7 @@
     "image": "Altar_(Demon_Slayer).png",
     "type": "object",
     "year": 2013,
+    "released": 1359331200000,
     "examine": "'''&bull;''' Altar that holds Silverlight<sup class=\"noprint fact\">&#91;<span class=\"fact-text\" title=\"The preceding quote has been reproduced verbatim and is not a transcription error.\">sic</span>&#93;</sup>'''&bull;''' Altar that held Silverlight<sup class=\"noprint fact\">&#91;<span class=\"fact-text\" title=\"The preceding quote has been reproduced verbatim and is not a transcription error.\">sic</span>&#93;</sup>",
     "id": "OBJ-82188",
     "label": "Altar"
@@ -2128,6 +2364,7 @@
     "image": "Altar_(Duel_Arena).png",
     "type": "object",
     "year": 2013,
+    "released": 1366070400000,
     "examine": "Shrine to the glory of Saradomin.",
     "id": "OBJ-83957",
     "label": "Altar"
@@ -2137,6 +2374,7 @@
     "image": "Altar_(Stealing_Creation).png",
     "type": "object",
     "year": 2008,
+    "released": 1226361600000,
     "examine": "You can recharge your Prayer points here.",
     "id": "OBJ-39547",
     "label": "Altar"
@@ -2146,6 +2384,7 @@
     "image": "Altar_of_War.png",
     "type": "object",
     "year": 2020,
+    "released": 1580083200000,
     "examine": "This altar radiates a calming energy that feels unwelcome in War's domain.",
     "id": "OBJ-114748",
     "label": "Altar of War"
@@ -2155,6 +2394,7 @@
     "image": "Altar_of_Zaros.png",
     "type": "object",
     "year": 2009,
+    "released": 1259798400000,
     "examine": "It looks as good as new!",
     "id": "OBJ-47120",
     "label": "Altar of Zaros"
@@ -2164,6 +2404,7 @@
     "image": "Altar_of_nature.png",
     "type": "object",
     "year": 2004,
+    "released": 1089676800000,
     "examine": "A grotto transformed into an altar of nature.",
     "id": "OBJ-3521",
     "label": "Altar of nature"
@@ -2173,6 +2414,7 @@
     "image": "Altar_slab_(Varrock).png",
     "type": "object",
     "year": 2015,
+    "released": 1427068800000,
     "examine": "I shudder to think what has taken place here.",
     "id": "OBJ-95777",
     "label": "Altar slab"
@@ -2182,6 +2424,7 @@
     "image": "Aluft_Gianne_snr..png",
     "type": "npc",
     "year": 2002,
+    "released": 1039651200000,
     "examine": "The famous tree gnome chef.",
     "id": "NPC-850",
     "label": "Aluft Gianne snr."
@@ -2191,6 +2434,7 @@
     "image": "Alviss.png",
     "type": "npc",
     "year": 2006,
+    "released": 1148256000000,
     "examine": "A dwarf who's currently living in Miscellania.",
     "id": "NPC-3933",
     "label": "Alviss"
@@ -2200,6 +2444,7 @@
     "image": "Amascut_gravestone_detail.png",
     "type": "npc",
     "year": 2015,
+    "released": 1445904000000,
     "examine": "A statue representing Amascut placed in memory of the person who died here.",
     "id": "NPC-21989",
     "label": "Amascut gravestone"
@@ -2209,6 +2454,7 @@
     "image": "Ambassador_alvijar.png",
     "type": "npc",
     "year": 2007,
+    "released": 1177372800000,
     "examine": "The dwarf ambassador to Dorgesh-Kaan.",
     "id": "NPC-5863",
     "label": "Ambassador Alvijar"
@@ -2218,6 +2464,7 @@
     "image": "Ambassador_Gimblewap.png",
     "type": "npc",
     "year": 2006,
+    "released": 1154908800000,
     "examine": "He's very diplomatic.",
     "id": "NPC-4580",
     "label": "Ambassador Gimblewap"
@@ -2227,6 +2474,7 @@
     "image": "Ambassador_Spanfipple.png",
     "type": "npc",
     "year": 2006,
+    "released": 1154908800000,
     "examine": "Peaceful man!",
     "id": "NPC-4581",
     "label": "Ambassador Spanfipple"
@@ -2236,6 +2484,7 @@
     "image": "Ambiguous_Nodon_weapon.png",
     "type": "object",
     "year": 2021,
+    "released": 1627257600000,
     "examine": "Appears to be powered by some kind of lava-like liquid.",
     "id": "OBJ-120950",
     "label": "Ambiguous Nodon weapon"
@@ -2245,6 +2494,7 @@
     "image": "Ambush_Commander.png",
     "type": "npc",
     "year": 2012,
+    "released": 1327968000000,
     "examine": "A Burthorpe Castle archer, waiting in ambush.",
     "id": "NPC-15106",
     "label": "Ambush Commander"
@@ -2254,6 +2504,7 @@
     "image": "Amelia.png",
     "type": "npc",
     "year": 2011,
+    "released": 1314057600000,
     "examine": "One of the village kids.",
     "id": "NPC-3608",
     "label": "Amelia"
@@ -2263,6 +2514,7 @@
     "image": "Ames_the_Courtier_location.png",
     "type": "npc",
     "year": 2019,
+    "released": 1555286400000,
     "examine": "Courtier of Duke Horacio.",
     "id": "NPC-26262",
     "label": "Ames the Courtier"
@@ -2272,6 +2524,7 @@
     "image": "Aminishi_portal.png",
     "type": "object",
     "year": 2018,
+    "released": 1532908800000,
     "examine": "A portal to Aminishi<sup class=\"noprint fact\">&#91;<span class=\"fact-text\" title=\"The preceding quote has been reproduced verbatim and is not a transcription error.\">sic</span>&#93;</sup>",
     "id": "OBJ-111746",
     "label": "Aminishi portal"
@@ -2281,6 +2534,7 @@
     "image": "Amlodd_symbol_piece_detail.png",
     "type": "item",
     "year": 2014,
+    "released": 1415577600000,
     "examine": "A symbol from Clan Amlodd. What could it mean?",
     "id": "ITEM-32740",
     "label": "Amlodd symbol piece"
@@ -2290,6 +2544,7 @@
     "image": "Amphibious_jadinko_(grown).png",
     "type": "npc",
     "year": 2019,
+    "released": 1574640000000,
     "examine": "A jadinko for your player owned farm.",
     "id": "NPC-14900",
     "label": "Amphibious jadinko (player-owned farm)"
@@ -2299,6 +2554,7 @@
     "image": "Amphitheatre_stage.png",
     "type": "object",
     "year": 2020,
+    "released": 1585526400000,
     "examine": "Epic!",
     "id": "OBJ-116610,116611",
     "label": "Amphitheatre stage"
@@ -2308,6 +2564,7 @@
     "image": "Amphora_journal.png",
     "type": "item",
     "year": 2020,
+    "released": 1585526400000,
     "examine": "A fully restored amphora.",
     "id": "ITEM-49744",
     "label": "Amphora"
@@ -2317,6 +2574,7 @@
     "image": "Amulet_of_Glory_(mounted).png",
     "type": "object",
     "year": 2006,
+    "released": 1149033600000,
     "examine": "",
     "id": "OBJ-13523",
     "label": "Amulet of Glory"
@@ -2326,6 +2584,7 @@
     "image": "Enchanting_ruby_neckwear.gif",
     "type": "item",
     "year": 2001,
+    "released": 989280000000,
     "examine": "An enchanted ruby amulet.",
     "id": "ITEM-1725",
     "label": "Amulet of strength"
@@ -2335,6 +2594,7 @@
     "image": "Amulet_of_zealots_detail.png",
     "type": "item",
     "year": 2010,
+    "released": 1288656000000,
     "examine": "The folly of your adventure becomes clear as you wear it.",
     "id": "ITEM-19892",
     "label": "Amulet of zealots"
@@ -2344,6 +2604,7 @@
     "image": "An_empty_rack.png",
     "type": "object",
     "year": 2005,
+    "released": 1129507200000,
     "examine": "Makes creatures taller.",
     "id": "OBJ-36309",
     "label": "An empty rack"
@@ -2353,6 +2614,7 @@
     "image": "An_old_dock.png",
     "type": "object",
     "year": 2015,
+    "released": 1435536000000,
     "examine": "This does not look well used.",
     "id": "OBJ-97442,94773",
     "label": "An old dock"
@@ -2362,6 +2624,7 @@
     "image": "Ana.png",
     "type": "npc",
     "year": 2003,
+    "released": 1050278400000,
     "examine": "She looks like a tourist.",
     "id": "NPC-822",
     "label": "Ana"
@@ -2371,6 +2634,7 @@
     "image": "Turkey_in_toadstool.png",
     "type": "npc",
     "year": 2014,
+    "released": 1417046400000,
     "examine": "Teenage mutant ninja turkey.",
     "id": "NPC-23243",
     "label": "Ana (turkey)"
@@ -2380,6 +2644,7 @@
     "image": "Ana_in_a_barrel_chathead.png",
     "type": "item",
     "year": 2003,
+    "released": 1050278400000,
     "examine": "A mining barrel with Ana in it.",
     "id": "ITEM-1842",
     "label": "Ana in a barrel"
@@ -2389,6 +2654,7 @@
     "image": "Anachronia_portal.png",
     "type": "object",
     "year": 2020,
+    "released": 1595203200000,
     "examine": "A portal to Anachronia base camp.",
     "id": "OBJ-117498",
     "label": "Anachronia portal"
@@ -2398,6 +2664,7 @@
     "image": "Anahita.png",
     "type": "npc",
     "year": 2022,
+    "released": 1641254400000,
     "examine": "They seem to be searching the water for things of value.",
     "id": "NPC-28672",
     "label": "Anahita"
@@ -2407,6 +2674,7 @@
     "image": "Ancestral_bakami.png",
     "type": "npc",
     "year": 2016,
+    "released": 1476057600000,
     "examine": "Yin, meet Yang.",
     "id": "NPC-23435",
     "label": "Ancestral bakami"
@@ -2416,6 +2684,7 @@
     "image": "Ancestral_energy_(spring).png",
     "type": "npc",
     "year": 2016,
+    "released": 1476057600000,
     "examine": "A spring of balanced anima. Tranquil calm soothes you as you approach.",
     "id": "NPC-23379",
     "label": "Ancestral energy (spring)"
@@ -2425,6 +2694,7 @@
     "image": "Anchor_decoration_(built).png",
     "type": "object",
     "year": 2015,
+    "released": 1429488000000,
     "examine": "Add this to the bathysphere in your house to unlock one anchor decoration for your aquarium.",
     "id": "OBJ-96697",
     "label": "Anchor decoration"
@@ -2434,6 +2704,7 @@
     "image": "Anchors_placed.png",
     "type": "item",
     "year": 2016,
+    "released": 1469404800000,
     "examine": "'''Item:''' \"Add this decoration to your claimed island.\"<br />\n'''Placed:''' When one anchor simply won't do.",
     "id": "ITEM-37789",
     "label": "Anchors"
@@ -2443,6 +2714,7 @@
     "image": "Anchovy_paste_detail.png",
     "type": "item",
     "year": 2007,
+    "released": 1181520000000,
     "examine": "Fish paste. Urk.",
     "id": "ITEM-11266",
     "label": "Anchovy paste"
@@ -2452,6 +2724,7 @@
     "image": "Ancient_Symbol.png",
     "type": "npc",
     "year": 2007,
+    "released": 1197244800000,
     "examine": "",
     "id": "NPC-6598",
     "label": "Ancient Symbol (gravestone)"
@@ -2461,6 +2734,7 @@
     "image": "Ancient_Zygomite_elder.png",
     "type": "npc",
     "year": 2019,
+    "released": 1562544000000,
     "examine": "Nutritious.",
     "id": "NPC-26448",
     "label": "Ancient Zygomite elder"
@@ -2470,6 +2744,7 @@
     "image": "Ancient_automaton.png",
     "type": "npc",
     "year": 2014,
+    "released": 1414368000000,
     "examine": "This automaton will defend Guthix's memories at all costs!<br/>''When subdued:''<br/>This automaton has been temporarily disabled.",
     "id": "NPC-20192",
     "label": "Ancient automaton"
@@ -2479,6 +2754,7 @@
     "image": "Ancient_carer.png",
     "type": "npc",
     "year": 2015,
+    "released": 1444608000000,
     "examine": "Looks after the ancient goebie.",
     "id": "NPC-21827",
     "label": "Ancient carer"
@@ -2488,6 +2764,7 @@
     "image": "Ancient_casket_interface.png",
     "type": "item",
     "year": 2020,
+    "released": 1585526400000,
     "examine": "I wonder what's inside!",
     "id": "ITEM-49958",
     "label": "Ancient casket"
@@ -2497,6 +2774,7 @@
     "image": "Ancient_casket_(scenery).png",
     "type": "object",
     "year": 2020,
+    "released": 1589155200000,
     "examine": "A container of rewards yet to be claimed.",
     "id": "OBJ-117418",
     "label": "Ancient casket"
@@ -2506,6 +2784,7 @@
     "image": "Ancient_ceremonial_robes_set_detail.png",
     "type": "item",
     "year": 2017,
+    "released": 1500854400000,
     "examine": "Grand Exchange set containing an ancient ceremonial mask, top, legs, gloves and boots.",
     "id": "ITEM-40930",
     "label": "Ancient ceremonial robes set"
@@ -2515,6 +2794,7 @@
     "image": "Ancient_chest.png",
     "type": "object",
     "year": 2022,
+    "released": 1641254400000,
     "examine": "An ancient chest recovered from the depths of the ruined Duel Arena. What's inside, I wonder?",
     "id": "OBJ-122544",
     "label": "Ancient chest"
@@ -2524,6 +2804,7 @@
     "image": "Ancient_coin_zoom.png",
     "type": "item",
     "year": 2007,
+    "released": 1180396800000,
     "examine": "A cracked and rusty looking coin.",
     "id": "ITEM-11180",
     "label": "Ancient coin"
@@ -2533,6 +2814,7 @@
     "image": "Ancient_door_(Senntisten).png",
     "type": "object",
     "year": 2021,
+    "released": 1621814400000,
     "examine": "This buried entrance is the pathway to Senntisten, the ancient capital of the Zarosian Empire.",
     "id": "OBJ-119483",
     "label": "Ancient door"
@@ -2542,6 +2824,7 @@
     "image": "Ancient_doors_(The_Empty_Throne_Room).png",
     "type": "object",
     "year": 2016,
+    "released": 1478476800000,
     "examine": "These lead down to a recently unearthed ancient chamber.",
     "id": "OBJ-105579",
     "label": "Ancient doors"
@@ -2551,6 +2834,7 @@
     "image": "Ancient_gallows.png",
     "type": "object",
     "year": 2003,
+    "released": 1043625600000,
     "examine": "A rotten and barely standing set of gallows.",
     "id": "OBJ-2224",
     "label": "Ancient gallows"
@@ -2560,6 +2844,7 @@
     "image": "Ancient_globe_journal.png",
     "type": "item",
     "year": 2020,
+    "released": 1585526400000,
     "examine": "A fully restored ancient globe.",
     "id": "ITEM-49868",
     "label": "Ancient globe"
@@ -2569,6 +2854,7 @@
     "image": "Ancient_goebie.png",
     "type": "npc",
     "year": 2015,
+    "released": 1444608000000,
     "examine": "Poor massive thing.",
     "id": "NPC-21826",
     "label": "Ancient goebie"
@@ -2578,6 +2864,7 @@
     "image": "Ancient_magic_tablet_journal.png",
     "type": "item",
     "year": 2020,
+    "released": 1585526400000,
     "examine": "A fully restored ancient magic tablet.",
     "id": "ITEM-49870",
     "label": "Ancient magic tablet"
@@ -2587,6 +2874,7 @@
     "image": "Ancient_magic_tablet_(Heartstealer).png",
     "type": "object",
     "year": 2021,
+    "released": 1612742400000,
     "examine": "An ancient Zarosian magic tablet.",
     "id": "OBJ-119300",
     "label": "Ancient magic tablet"
@@ -2596,6 +2884,7 @@
     "image": "Ancient_pillar.png",
     "type": "object",
     "year": 2006,
+    "released": 1139270400000,
     "examine": "This seems to stand out.",
     "id": "OBJ-11324",
     "label": "Ancient Pillar"
@@ -2605,6 +2894,7 @@
     "image": "Ancient_relic_buried.png",
     "type": "object",
     "year": 2017,
+    "released": 1496188800000,
     "examine": "Smash this priceless artifact on the ground to find hidden relics of the past inside!",
     "id": "OBJ-107357",
     "label": "Ancient relic"
@@ -2614,6 +2904,7 @@
     "image": "Ancient_staff_detail.png",
     "type": "item",
     "year": 2005,
+    "released": 1113782400000,
     "examine": "A magical staff of ancient origin...",
     "id": "ITEM-4675",
     "label": "Ancient staff"
@@ -2623,6 +2914,7 @@
     "image": "Ancient_statue.png",
     "type": "object",
     "year": 2015,
+    "released": 1436745600000,
     "examine": "A statue the Goebies have worshipped at for many years.",
     "id": "OBJ-97900",
     "label": "Ancient statue"
@@ -2632,6 +2924,7 @@
     "image": "Ancient_timepiece_journal.png",
     "type": "item",
     "year": 2020,
+    "released": 1585526400000,
     "examine": "A fully restored ancient timepiece.",
     "id": "ITEM-49872",
     "label": "Ancient timepiece"
@@ -2641,6 +2934,7 @@
     "image": "Ancient_weapon_handle_detail.png",
     "type": "item",
     "year": 2013,
+    "released": 1372809600000,
     "examine": "It looks like this can be attached to something.",
     "id": "ITEM-28604",
     "label": "Ancient weapon handle"
@@ -2650,6 +2944,7 @@
     "image": "Ancient_weapon_piece_(a)_detail.png",
     "type": "item",
     "year": 2013,
+    "released": 1372809600000,
     "examine": "I wonder who made this originally?",
     "id": "ITEM-28600",
     "label": "Ancient weapon piece (a)"
@@ -2659,6 +2954,7 @@
     "image": "Ancient_weapon_piece_(b)_detail.png",
     "type": "item",
     "year": 2013,
+    "released": 1372809600000,
     "examine": "Part of an ancient weapon.",
     "id": "ITEM-28602",
     "label": "Ancient weapon piece (b)"
@@ -2668,6 +2964,7 @@
     "image": "Andelus.png",
     "type": "npc",
     "year": 2011,
+    "released": 1306886400000,
     "examine": "He told great stories.",
     "id": "NPC-7957",
     "label": "Andelus"
@@ -2677,6 +2974,7 @@
     "image": "Andil.png",
     "type": "npc",
     "year": 2009,
+    "released": 1237248000000,
     "examine": "Aww.",
     "id": "NPC-440",
     "label": "Andil"
@@ -2686,6 +2984,7 @@
     "image": "Andrea.png",
     "type": "npc",
     "year": 2017,
+    "released": 1509321600000,
     "examine": "She looks like she's seen a ghost!",
     "id": "NPC-24981",
     "label": "Andrea"
@@ -2695,6 +2994,7 @@
     "image": "Andrew.png",
     "type": "npc",
     "year": 2016,
+    "released": 1466380800000,
     "examine": "A tall cabbagemancer.",
     "id": "NPC-24124",
     "label": "Andrew"
@@ -2704,6 +3004,7 @@
     "image": "Andy.png",
     "type": "npc",
     "year": 2014,
+    "released": 1415577600000,
     "examine": "A young impling. It's not fair!",
     "id": "NPC-20249",
     "label": "Andy"
@@ -2713,6 +3014,7 @@
     "image": "Anemone.png",
     "type": "npc",
     "year": 2011,
+    "released": 1307404800000,
     "examine": "Looks like she'd gladly beat anyone to a pulp.",
     "id": "NPC-9703",
     "label": "Anemone"
@@ -2722,6 +3024,7 @@
     "image": "Angel_of_Death.png",
     "type": "npc",
     "year": 2007,
+    "released": 1197244800000,
     "examine": "",
     "id": "NPC-6601",
     "label": "Angel of Death (gravestone)"
@@ -2731,6 +3034,7 @@
     "image": "Angelica.png",
     "type": "npc",
     "year": 2018,
+    "released": 1545004800000,
     "examine": "She doesn't look very happy.",
     "id": "NPC-8865",
     "label": "Angelica"
@@ -2740,6 +3044,7 @@
     "image": "Angry_woman.png",
     "type": "npc",
     "year": 2018,
+    "released": 1520208000000,
     "examine": "She seems pretty damn annoyed.",
     "id": "NPC-25256",
     "label": "Angry woman"
@@ -2749,6 +3054,7 @@
     "image": "Ani_(farming_merchant).png",
     "type": "npc",
     "year": 2016,
+    "released": 1476057600000,
     "examine": "A gnomish purveyor of horticultural splendour.",
     "id": "NPC-23371",
     "label": "Ani (farming merchant)"
@@ -2758,6 +3064,7 @@
     "image": "Anima_core_body_of_Seren_detail.png",
     "type": "item",
     "year": 2016,
+    "released": 1459209600000,
     "examine": "Armour infused with the might of Seren.",
     "id": "ITEM-37055",
     "label": "Anima core body of Seren"
@@ -2767,6 +3074,7 @@
     "image": "Anima_core_body_of_Sliske_detail.png",
     "type": "item",
     "year": 2016,
+    "released": 1459209600000,
     "examine": "Armour infused with the might of Sliske.",
     "id": "ITEM-37064",
     "label": "Anima core body of Sliske"
@@ -2776,6 +3084,7 @@
     "image": "Anima_core_body_of_Zamorak_detail.png",
     "type": "item",
     "year": 2016,
+    "released": 1459209600000,
     "examine": "Armour infused with the might of Zamorak.",
     "id": "ITEM-37046",
     "label": "Anima core body of Zamorak"
@@ -2785,6 +3094,7 @@
     "image": "Anima_core_body_of_Zaros_detail.png",
     "type": "item",
     "year": 2016,
+    "released": 1459209600000,
     "examine": "Armour infused with the might of Zaros.",
     "id": "ITEM-37037",
     "label": "Anima core body of Zaros"
@@ -2794,6 +3104,7 @@
     "image": "Anima_core_helm_of_Seren_detail.png",
     "type": "item",
     "year": 2016,
+    "released": 1459209600000,
     "examine": "Armour infused with the might of Seren.",
     "id": "ITEM-37052",
     "label": "Anima core helm of Seren"
@@ -2803,6 +3114,7 @@
     "image": "Anima_core_helm_of_Sliske_detail.png",
     "type": "item",
     "year": 2016,
+    "released": 1459209600000,
     "examine": "Armour infused with the might of Sliske.",
     "id": "ITEM-37061",
     "label": "Anima core helm of Sliske"
@@ -2812,6 +3124,7 @@
     "image": "Anima_core_helm_of_Zamorak_detail.png",
     "type": "item",
     "year": 2016,
+    "released": 1459209600000,
     "examine": "Armour infused with the might of Zamorak.",
     "id": "ITEM-37043",
     "label": "Anima core helm of Zamorak"
@@ -2821,6 +3134,7 @@
     "image": "Anima_core_helm_of_Zaros_detail.png",
     "type": "item",
     "year": 2016,
+    "released": 1459209600000,
     "examine": "Armour infused with the might of Zaros.",
     "id": "ITEM-37034",
     "label": "Anima core helm of Zaros"
@@ -2830,6 +3144,7 @@
     "image": "Anima_nuggets_(Runecrafting).png",
     "type": "object",
     "year": 2020,
+    "released": 1600041600000,
     "examine": "A cracked open effigy, containing anima nuggets.",
     "id": "OBJ-117968",
     "label": "Anima nuggets (Runecrafting)"
@@ -2839,6 +3154,7 @@
     "image": "Animal_Magnetism.png",
     "type": "quest",
     "year": 2006,
+    "released": 1165881600000,
     "examine": "",
     "id": "QUEST-782c7fe625843743cbc9d10ec6b3a1c1",
     "label": "Animal Magnetism"
@@ -2848,6 +3164,7 @@
     "image": "Animal_skull_(Archaeology).png",
     "type": "object",
     "year": 2020,
+    "released": 1585526400000,
     "examine": "Whatever this once belonged to, it was big.",
     "id": "OBJ-117230",
     "label": "Animal skull"
@@ -2857,6 +3174,7 @@
     "image": "Hannibus_freed.gif",
     "type": "item",
     "year": 2014,
+    "released": 1394409600000,
     "examine": "An animate rock spell is written on this parchment.",
     "id": "ITEM-30926",
     "label": "Animate Rock scroll"
@@ -2866,6 +3184,7 @@
     "image": "Anita.png",
     "type": "npc",
     "year": 2002,
+    "released": 1039651200000,
     "examine": "Glough's girlfriend.",
     "id": "NPC-672",
     "label": "Anita"
@@ -2875,6 +3194,7 @@
     "image": "Anleif.png",
     "type": "npc",
     "year": 2005,
+    "released": 1133136000000,
     "examine": "Prim and proper.",
     "id": "NPC-2996",
     "label": "Anleif"
@@ -2884,6 +3204,7 @@
     "image": "Anna_Jones.png",
     "type": "npc",
     "year": 2007,
+    "released": 1174953600000,
     "examine": "An archaeologist.",
     "id": "NPC-5837",
     "label": "Anna Jones"
@@ -2893,6 +3214,7 @@
     "image": "Annihilation_(Crucible)_detail.png",
     "type": "item",
     "year": 2012,
+    "released": 1340064000000,
     "examine": "A melee weapon of incredible power.",
     "id": "ITEM-24455",
     "label": "Annihilation"
@@ -2902,6 +3224,7 @@
     "image": "Anniversary_Weeks_Portal.png",
     "type": "object",
     "year": 2021,
+    "released": 1609718400000,
     "examine": "An extremely effective mode of transportation.",
     "id": "OBJ-118887",
     "label": "Anniversary Weeks Portal"
@@ -2911,6 +3234,7 @@
     "image": "Anomaly.png",
     "type": "npc",
     "year": 2017,
+    "released": 1512950400000,
     "examine": "I wonder what's on the other side.",
     "id": "NPC-25123",
     "label": "Anomaly"
@@ -2920,6 +3244,7 @@
     "image": "Another_Slice_of_H.A.M.png",
     "type": "quest",
     "year": 2007,
+    "released": 1177372800000,
     "examine": "",
     "id": "QUEST-3de52379d8c2f28648a00320c0da1a5d",
     "label": "Another Slice of H.A.M."
@@ -2929,6 +3254,7 @@
     "image": "Anphi_(frog_collector).png",
     "type": "npc",
     "year": 2019,
+    "released": 1574640000000,
     "examine": "He collects hops.",
     "id": "NPC-26730",
     "label": "Anphi (frog collector)"
@@ -2938,6 +3264,7 @@
     "image": "Anti-Dragon_Breath_Shield.png",
     "type": "object",
     "year": 2006,
+    "released": 1149033600000,
     "examine": "",
     "id": "OBJ-13522",
     "label": "Anti-Dragon Breath Shield"
@@ -2947,6 +3274,7 @@
     "image": "Antipodean_squirrel.png",
     "type": "npc",
     "year": 2011,
+    "released": 1303171200000,
     "examine": "He looks like he's come a long way to be here.",
     "id": "NPC-13641",
     "label": "Antipodean squirrel"
@@ -2956,6 +3284,7 @@
     "image": "Antique_duellist's_cap_(tier_1)_detail.png",
     "type": "item",
     "year": 2011,
+    "released": 1306281600000,
     "examine": "This hat will help you proclaim your victories to the world. (Tier 1)",
     "id": "ITEM-20795",
     "label": "Antique duellist's cap"
@@ -2965,6 +3294,7 @@
     "image": "Antique_duellist's_cap_(tier_2)_chathead.png",
     "type": "item",
     "year": 2011,
+    "released": 1306281600000,
     "examine": "This hat will help you proclaim your victories to the world. (Tier 2)",
     "id": "ITEM-20796",
     "label": "Antique duellist's cap"
@@ -2974,6 +3304,7 @@
     "image": "Antique_duellist's_cap_(tier_3)_chathead.png",
     "type": "item",
     "year": 2011,
+    "released": 1306281600000,
     "examine": "This hat will help you proclaim your victories to the world. (Tier 3)",
     "id": "ITEM-20797",
     "label": "Antique duellist's cap"
@@ -2983,6 +3314,7 @@
     "image": "Antique_duellist's_cap_(tier_4)_chathead.png",
     "type": "item",
     "year": 2011,
+    "released": 1306281600000,
     "examine": "This hat will help you proclaim your victories to the world. (Tier 4)",
     "id": "ITEM-20798",
     "label": "Antique duellist's cap"
@@ -2992,6 +3324,7 @@
     "image": "Antique_duellist's_cap_(tier_5)_chathead.png",
     "type": "item",
     "year": 2011,
+    "released": 1306281600000,
     "examine": "This hat will help you proclaim your many victories to the world. (Tier 5)",
     "id": "ITEM-20799",
     "label": "Antique duellist's cap"
@@ -3001,6 +3334,7 @@
     "image": "Antique_duellist's_cap_(tier_6)_chathead.png",
     "type": "item",
     "year": 2011,
+    "released": 1306281600000,
     "examine": "This hat will help you proclaim your many victories to the world. (Tier 6)",
     "id": "ITEM-20800",
     "label": "Antique duellist's cap"
@@ -3010,6 +3344,7 @@
     "image": "Antiques_Shop_Stall.png",
     "type": "object",
     "year": 2005,
+    "released": 1109548800000,
     "examine": "Shop counter.",
     "id": "OBJ-5831",
     "label": "Antiques Shop Stall"
@@ -3019,6 +3354,7 @@
     "image": "Antlers_chathead.png",
     "type": "item",
     "year": 2008,
+    "released": 1200355200000,
     "examine": "Doors could be a problem, wearing these...",
     "id": "ITEM-12204",
     "label": "Antlers"
@@ -3028,6 +3364,7 @@
     "image": "Antlers_(charged)_chathead.png",
     "type": "item",
     "year": 2008,
+    "released": 1200355200000,
     "examine": "Doors could be a problem, wearing these...",
     "id": "ITEM-12206",
     "label": "Antlers (charged)"
@@ -3037,6 +3374,7 @@
     "image": "Anukat.png",
     "type": "npc",
     "year": 2017,
+    "released": 1496620800000,
     "examine": "Son of Anoldkat.",
     "id": "NPC-24407",
     "label": "Anukat"
@@ -3046,6 +3384,7 @@
     "image": "Anvil.png",
     "type": "object",
     "year": 2001,
+    "released": 978566400000,
     "examine": "Used for fashioning metal items.",
     "id": "OBJ-78040,78041,88490,92717,113258,113262",
     "label": "Anvil"
@@ -3055,6 +3394,7 @@
     "image": "Anvil_(Breaking_the_Storm).png",
     "type": "object",
     "year": 2019,
+    "released": 1561593600000,
     "examine": "Perfect for smithing rivets.",
     "id": "OBJ-113278",
     "label": "Anvil"
@@ -3064,6 +3404,7 @@
     "image": "Anvil_(Cyclosis).png",
     "type": "object",
     "year": 2016,
+    "released": 1476057600000,
     "examine": "An anvil.",
     "id": "OBJ-104780",
     "label": "Anvil"
@@ -3073,6 +3414,7 @@
     "image": "Anvil_(player-owned_port).png",
     "type": "object",
     "year": 2012,
+    "released": 1355184000000,
     "examine": "An anvil for special smithing tasks.",
     "id": "OBJ-81724,81725,81726,81727",
     "label": "Anvil"
@@ -3082,6 +3424,7 @@
     "image": "Aoife_Fairweather.png",
     "type": "npc",
     "year": 2013,
+    "released": 1376956800000,
     "examine": "She has a strange energy about her.",
     "id": "NPC-18203",
     "label": "Aoife Fairweather"
@@ -3091,6 +3434,7 @@
     "image": "Apex_cap_journal.png",
     "type": "item",
     "year": 2021,
+    "released": 1629072000000,
     "examine": "A fully restored apex cap.",
     "id": "ITEM-51881",
     "label": "Apex cap"
@@ -3100,6 +3444,7 @@
     "image": "Apollo_chathead.png",
     "type": "npc",
     "year": 2015,
+    "released": 1432598400000,
     "examine": "To go where no monkey has gone before.",
     "id": "NPC-21088",
     "label": "Apollo"
@@ -3109,6 +3454,7 @@
     "image": "Apollo's_helmet_vision.png",
     "type": "item",
     "year": 2015,
+    "released": 1433116800000,
     "examine": "The protective headwear worn by the late space explorer, Apollo the monkey.",
     "id": "ITEM-34887",
     "label": "Apollo's helmet"
@@ -3118,6 +3464,7 @@
     "image": "Ghostly_wraith.png",
     "type": "npc",
     "year": 2013,
+    "released": 1362355200000,
     "examine": "There's something strange in this neighbourhood.",
     "id": "NPC-16916",
     "label": "Apparition"
@@ -3127,6 +3474,7 @@
     "image": "Apparition_Alex.png",
     "type": "object",
     "year": 2015,
+    "released": 1427068800000,
     "examine": "A labelled jar with a head in it. Made a living building castles - while he was living.",
     "id": "OBJ-96230",
     "label": "Apparition Alex"
@@ -3136,6 +3484,7 @@
     "image": "Apple_Barrel.png",
     "type": "object",
     "year": 2005,
+    "released": 1121040000000,
     "examine": "An empty barrel.",
     "id": "OBJ-7403,8807",
     "label": "Apple Barrel"
@@ -3145,6 +3494,7 @@
     "image": "Adventurer_(Burgh_de_Rott_Ramble)_location.png",
     "type": "npc",
     "year": 2007,
+    "released": 1173744000000,
     "examine": "A moderately experienced mercenary mage.",
     "id": "NPC-1510",
     "label": "Apprentice (Burgh de Rott Ramble)"
@@ -3154,6 +3504,7 @@
     "image": "Apropos_(Gower_Quest).png",
     "type": "npc",
     "year": 2016,
+    "released": 1466380800000,
     "examine": "An ancient Dragon Rider.",
     "id": "NPC-22863",
     "label": "Apropos (Gower Quest)"
@@ -3163,6 +3514,7 @@
     "image": "Aquarium_(scenery).png",
     "type": "object",
     "year": 2005,
+    "released": 1130112000000,
     "examine": "A fish-filled water tank in the floor.",
     "id": "OBJ-10091",
     "label": "Aquarium"
@@ -3172,6 +3524,7 @@
     "image": "Aquatic_jadinko_(grown).png",
     "type": "npc",
     "year": 2019,
+    "released": 1574640000000,
     "examine": "A jadinko for your player owned farm.",
     "id": "NPC-14897",
     "label": "Aquatic jadinko (player-owned farm)"
@@ -3181,6 +3534,7 @@
     "image": "Aqueduct_Portal.png",
     "type": "object",
     "year": 2021,
+    "released": 1630368000000,
     "examine": "I can enter the instance here.",
     "id": "OBJ-121338",
     "label": "Aqueduct Portal"
@@ -3190,6 +3544,7 @@
     "image": "Araxxi_dead.png",
     "type": "object",
     "year": 2014,
+    "released": 1406505600000,
     "examine": "Smells like rewards.",
     "id": "OBJ-91673",
     "label": "Araxxi's body"
@@ -3199,6 +3554,7 @@
     "image": "Araxxi's_web_detail.png",
     "type": "item",
     "year": 2014,
+    "released": 1406505600000,
     "examine": "It keeps getting stuck to your hands. Combine with a spider leg to make a noxious bow.",
     "id": "ITEM-31724",
     "label": "Araxxi's web"
@@ -3208,6 +3564,7 @@
     "image": "Araxyte_spider_egg_(NPC).png",
     "type": "object",
     "year": 2018,
+    "released": 1535932800000,
     "examine": "A spider waiting to happen.",
     "id": "OBJ-112192",
     "label": "Araxyte egg"
@@ -3217,6 +3574,7 @@
     "image": "Araxyte_pheromone_detail.png",
     "type": "item",
     "year": 2015,
+    "released": 1421020800000,
     "examine": "If held in your inventory, Araxxor will respond kindly to its scent when he arrives.",
     "id": "ITEM-33870",
     "label": "Araxyte pheromone"
@@ -3226,6 +3584,7 @@
     "image": "Araxyte_spider_(NPC).png",
     "type": "npc",
     "year": 2018,
+    "released": 1535932800000,
     "examine": "A spider for your player owned farm.",
     "id": "NPC-25818",
     "label": "Araxyte spider"
@@ -3235,6 +3594,7 @@
     "image": "Arboretum_guard.png",
     "type": "npc",
     "year": 2011,
+    "released": 1314748800000,
     "examine": "She/He is guarding the Arboretum doors.",
     "id": "NPC-14117",
     "label": "Arboretum guard"
@@ -3244,6 +3604,7 @@
     "image": "Arc_bar.png",
     "type": "object",
     "year": 2016,
+    "released": 1476057600000,
     "examine": "An open-air beach bar stocked to mix gnomish cocktails.",
     "id": "OBJ-105059",
     "label": "Arc bar"
@@ -3253,6 +3614,7 @@
     "image": "Arcane_apoterrasaur_(grown).png",
     "type": "npc",
     "year": 2019,
+    "released": 1574640000000,
     "examine": "An Arcane apoterrasaur for your player owned farm.",
     "id": "NPC-14855",
     "label": "Arcane apoterrasaur (player-owned farm)"
@@ -3262,6 +3624,7 @@
     "image": "Arcane_apoterrasaur_(egg).png",
     "type": "npc",
     "year": 2019,
+    "released": 1574640000000,
     "examine": "Granny keeps whispering to this egg that it can't fly. Let's hope it listens.",
     "id": "NPC-14851",
     "label": "Arcane apoterrasaur egg"
@@ -3271,6 +3634,7 @@
     "image": "Arcane_apoterrasaur_iratum_(grown).png",
     "type": "npc",
     "year": 2019,
+    "released": 1574640000000,
     "examine": "An Arcane apoterrasaur iratum for your player owned farm.",
     "id": "NPC-14857",
     "label": "Arcane apoterrasaur iratum"
@@ -3280,6 +3644,7 @@
     "image": "Arcane_apoterrasaur_lucidum_(grown).png",
     "type": "npc",
     "year": 2019,
+    "released": 1574640000000,
     "examine": "A blast from the past.",
     "id": "NPC-14858",
     "label": "Arcane apoterrasaur lucidum"
@@ -3289,6 +3654,7 @@
     "image": "Arcane_apoterrasaur_natura_(grown).png",
     "type": "npc",
     "year": 2019,
+    "released": 1574640000000,
     "examine": "An Arcane apoterrasaur natura for your player owned farm.",
     "id": "NPC-14856",
     "label": "Arcane apoterrasaur natura"
@@ -3298,6 +3664,7 @@
     "image": "Arcane_blast_necklace_detail.png",
     "type": "item",
     "year": 2010,
+    "released": 1271030400000,
     "examine": "The energy from this necklace is unlike anything you have ever felt.",
     "id": "ITEM-18334",
     "label": "Arcane blast necklace"
@@ -3307,6 +3674,7 @@
     "image": "Arcane_stream_necklace_detail.png",
     "type": "item",
     "year": 2010,
+    "released": 1271030400000,
     "examine": "The energy from this necklace is unlike anything you have ever felt.",
     "id": "ITEM-18335",
     "label": "Arcane stream necklace"
@@ -3316,6 +3684,7 @@
     "image": "Arch-Glacor_core.png",
     "type": "npc",
     "year": 2021,
+    "released": 1630368000000,
     "examine": "Core blimey!",
     "id": "NPC-28244",
     "label": "Arch-Glacor core"
@@ -3325,6 +3694,7 @@
     "image": "Arch-Glacor's_Adornment_detail.png",
     "type": "item",
     "year": 2021,
+    "released": 1630368000000,
     "examine": "A powerful icy body that floats ominously behind you.",
     "id": "ITEM-52023",
     "label": "Arch-Glacor's Adornment"
@@ -3334,6 +3704,7 @@
     "image": "Archaemastyx_hide_detail.png",
     "type": "item",
     "year": 2010,
+    "released": 1271030400000,
     "examine": "It's a scaly archaemastyx hide. (Tier 4)",
     "id": "ITEM-17430",
     "label": "Archaemastyx hide"
@@ -3343,6 +3714,7 @@
     "image": "Archaeologist_(Anachronia).png",
     "type": "npc",
     "year": 2019,
+    "released": 1562544000000,
     "examine": "It's an archaeologist. Good at digging up the past.",
     "id": "NPC-26555",
     "label": "Archaeologist (Anachronia)"
@@ -3352,6 +3724,7 @@
     "image": "Archaeologist_(Breaking_the_Storm)_location.png",
     "type": "npc",
     "year": 2019,
+    "released": 1561334400000,
     "examine": "An elderly archaeologist.",
     "id": "NPC-26391",
     "label": "Archaeologist (Breaking the Storm)"
@@ -3361,6 +3734,7 @@
     "image": "Archaeology_Capes.png",
     "type": "item",
     "year": 2020,
+    "released": 1585526400000,
     "examine": "The cape worn by master archaeologists.",
     "id": "ITEM-50145",
     "label": "Archaeology cape"
@@ -3370,6 +3744,7 @@
     "image": "Archaeology_Capes.png",
     "type": "item",
     "year": 2020,
+    "released": 1585526400000,
     "examine": "The cape worn by master archaeologists.",
     "id": "ITEM-49397",
     "label": "Archaeology cape (t)"
@@ -3379,6 +3754,7 @@
     "image": "120_Archaeology_Emote.gif",
     "type": "item",
     "year": 2020,
+    "released": 1585526400000,
     "examine": "The cape worn by the true masters of Archaeology.",
     "id": "ITEM-50146",
     "label": "Archaeology master cape"
@@ -3388,6 +3764,7 @@
     "image": "Archaeology_portal.png",
     "type": "object",
     "year": 2020,
+    "released": 1595203200000,
     "examine": "A portal to various Archaeology digsites and collectors.",
     "id": "OBJ-117499",
     "label": "Archaeology portal"
@@ -3397,6 +3774,7 @@
     "image": "Archaeology_teleport_interface.png",
     "type": "item",
     "year": 2020,
+    "released": 1585526400000,
     "examine": "Teleports you to archaeological dig sites and collectors.",
     "id": "ITEM-49935",
     "label": "Archaeology teleport"
@@ -3406,6 +3784,7 @@
     "image": "Burthorpe_archer.png",
     "type": "npc",
     "year": 2004,
+    "released": 1092009600000,
     "examine": "A Burthorpe Castle Archer.",
     "id": "NPC-1073",
     "label": "Archer (Burthorpe)"
@@ -3415,6 +3794,7 @@
     "image": "Archer_(Lost_City).png",
     "type": "npc",
     "year": 2002,
+    "released": 1014768000000,
     "examine": "She looks quite experienced.",
     "id": "NPC-649",
     "label": "Archer (Lost City)"
@@ -3424,6 +3804,7 @@
     "image": "Fremennik_helms_update.jpg",
     "type": "item",
     "year": 2008,
+    "released": 1206921600000,
     "examine": "This helmet is worn by archers.",
     "id": "ITEM-12673",
     "label": "Archer helm (charged)"
@@ -3433,6 +3814,7 @@
     "image": "Fremennik_helms_update.jpg",
     "type": "item",
     "year": 2008,
+    "released": 1206921600000,
     "examine": "This helmet is worn by archers.",
     "id": "ITEM-12672",
     "label": "Archer helm (e)"
@@ -3442,6 +3824,7 @@
     "image": "Archery_target.png",
     "type": "object",
     "year": 2006,
+    "released": 1149033600000,
     "examine": "",
     "id": "OBJ-13402,13403",
     "label": "Archery target"
@@ -3451,6 +3834,7 @@
     "image": "Crossbowman's_Tent.png",
     "type": "npc",
     "year": 2017,
+    "released": 1507507200000,
     "examine": "Can you hit it?",
     "id": "NPC-24906",
     "label": "Archery target (NovtumberFest)"
@@ -3460,6 +3844,7 @@
     "image": "Archivist's_memory.png",
     "type": "npc",
     "year": 2021,
+    "released": 1613952000000,
     "examine": "A fragment of memories.",
     "id": "NPC-27642",
     "label": "Archivist's memory"
@@ -3469,6 +3854,7 @@
     "image": "Archon_headdress_chathead.png",
     "type": "item",
     "year": 2013,
+    "released": 1364515200000,
     "examine": "The headdress of an Armadylean archon.",
     "id": "ITEM-27631",
     "label": "Archon headdress"
@@ -3478,6 +3864,7 @@
     "image": "Ardougne_Registry_sign.png",
     "type": "object",
     "year": 2010,
+    "released": 1272412800000,
     "examine": "The Ardougne Registry of Guilds.",
     "id": "OBJ-51683",
     "label": "Ardougne Registry sign"
@@ -3487,6 +3874,7 @@
     "image": "Ardougne_cloak_4_Summon_restore.gif",
     "type": "item",
     "year": 2010,
+    "released": 1283817600000,
     "examine": "A shadowy Ardougne cloak.",
     "id": "ITEM-19748",
     "label": "Ardougne cloak 4"
@@ -3496,6 +3884,7 @@
     "image": "Ardougne_revolutionary_standard.png",
     "type": "item",
     "year": 2014,
+    "released": 1407715200000,
     "examine": "Elena asked you to hang this on the roof of the Mourner stronghold in West Ardougne.",
     "id": "ITEM-31792",
     "label": "Ardougne revolutionary flag"
@@ -3505,6 +3894,7 @@
     "image": "Teleport_Tablet.gif",
     "type": "item",
     "year": 2006,
+    "released": 1149033600000,
     "examine": "A tablet containing a magic spell.",
     "id": "ITEM-8011",
     "label": "Ardougne teleport"
@@ -3514,6 +3904,7 @@
     "image": "Argonite_ore_detail.png",
     "type": "item",
     "year": 2010,
+    "released": 1271030400000,
     "examine": "It's a rock now, but there's potential for so much more! (Tier 7)",
     "id": "ITEM-17642",
     "label": "Argonite ore"
@@ -3523,6 +3914,7 @@
     "image": "Ariane_(Dimension_of_Disaster).png",
     "type": "object",
     "year": 2015,
+    "released": 1427068800000,
     "examine": "Rune Memories is a distant memory.",
     "id": "OBJ-96203",
     "label": "Ariane"
@@ -3532,6 +3924,7 @@
     "image": "Aris's_gravestone.png",
     "type": "object",
     "year": 2015,
+    "released": 1427068800000,
     "examine": "Aris Maye. The reports of her death have been greatly exaggerated.",
     "id": "OBJ-96351",
     "label": "Aris's gravestone"
@@ -3541,6 +3934,7 @@
     "image": "Arkaneo.png",
     "type": "npc",
     "year": 2018,
+    "released": 1520208000000,
     "examine": "Illusively rare, and undoubtedly fast.",
     "id": "NPC-25233",
     "label": "Arkaneo"
@@ -3550,6 +3944,7 @@
     "image": "Armadyl_altar.png",
     "type": "object",
     "year": 2007,
+    "released": 1188259200000,
     "examine": "The last remaining holy place of the aviantese.",
     "id": "OBJ-26288",
     "label": "Armadyl Altar"
@@ -3559,6 +3954,7 @@
     "image": "Armadyl_buckler_detail.png",
     "type": "item",
     "year": 2012,
+    "released": 1346803200000,
     "examine": "A graceful looking buckler of Armadyl.",
     "id": "ITEM-25013",
     "label": "Armadyl buckler"
@@ -3568,6 +3964,7 @@
     "image": "Armadyl_godsword_detail.png",
     "type": "item",
     "year": 2007,
+    "released": 1188259200000,
     "examine": "A beautiful, heavy sword.",
     "id": "ITEM-11694",
     "label": "Armadyl godsword"
@@ -3577,6 +3974,7 @@
     "image": "Armadyl_godsword_detail.png",
     "type": "item",
     "year": 2014,
+    "released": 1406505600000,
     "examine": "A beautiful, heavy sword.",
     "id": "ITEM-31755",
     "label": "Armadyl godsword (passive)"
@@ -3586,6 +3984,7 @@
     "image": "Temple_of_Ikov_map.png",
     "type": "item",
     "year": 2002,
+    "released": 1024272000000,
     "examine": "Yet another amulet.",
     "id": "ITEM-87",
     "label": "Armadyl pendant"
@@ -3595,6 +3994,7 @@
     "image": "Armadylean_quartermaster.png",
     "type": "npc",
     "year": 2013,
+    "released": 1386720000000,
     "examine": "Holder of the rewards for the faithful of Armadyl<sup class=\"noprint fact\">&#91;<span class=\"fact-text\" title=\"The preceding quote has been reproduced verbatim and is not a transcription error.\">sic</span>&#93;</sup>",
     "id": "NPC-18764",
     "label": "Armadylean quartermaster"
@@ -3604,6 +4004,7 @@
     "image": "Armadylean_recruiter.png",
     "type": "npc",
     "year": 2013,
+    "released": 1386720000000,
     "examine": "Gathering armies to Armadyl's side.",
     "id": "NPC-18763",
     "label": "Armadylean recruiter"
@@ -3613,6 +4014,7 @@
     "image": "Armadylean_soulstone_detail.png",
     "type": "item",
     "year": 2013,
+    "released": 1367280000000,
     "examine": "A magic stone that stores the power of Kree'arra.",
     "id": "ITEM-28128",
     "label": "Armadylean soulstone"
@@ -3622,6 +4024,7 @@
     "image": "Armament_log.png",
     "type": "object",
     "year": 2019,
+    "released": 1551052800000,
     "examine": "A book containing interesting scrawlings.",
     "id": "OBJ-5777",
     "label": "Armament log"
@@ -3631,6 +4034,7 @@
     "image": "Armed_monkey_guard.png",
     "type": "npc",
     "year": 2010,
+    "released": 1291161600000,
     "examine": "A ninja monkey wielding monkey knifes.<sup class=\"noprint fact\">&#91;<span class=\"fact-text\" title=\"The preceding quote has been reproduced verbatim and is not a transcription error.\">sic</span>&#93;</sup>",
     "id": "NPC-13194",
     "label": "Armed monkey guard"
@@ -3640,6 +4044,7 @@
     "image": "Armicus.png",
     "type": "npc",
     "year": 2012,
+    "released": 1338249600000,
     "examine": "A dwarven diplomat.",
     "id": "NPC-15548",
     "label": "Armicus"
@@ -3649,6 +4054,7 @@
     "image": "Armillary_sphere.png",
     "type": "object",
     "year": 2006,
+    "released": 1149033600000,
     "examine": "",
     "id": "OBJ-13653",
     "label": "Armillary sphere"
@@ -3658,6 +4064,7 @@
     "image": "Armour_display.png",
     "type": "object",
     "year": 2007,
+    "released": 1170720000000,
     "examine": "A shelf, displaying armour.",
     "id": "OBJ-21447",
     "label": "Armour display"
@@ -3667,6 +4074,7 @@
     "image": "Gizmo_materials.png",
     "type": "item",
     "year": 2016,
+    "released": 1453680000000,
     "examine": "The base of an armour gizmo, ready for parts to be added.",
     "id": "ITEM-36721",
     "label": "Armour gizmo shell"
@@ -3676,6 +4084,7 @@
     "image": "Armour_stand_(Cadarn).png",
     "type": "object",
     "year": 2014,
+    "released": 1411344000000,
     "examine": "A stand of elven melee armour.",
     "id": "OBJ-92631",
     "label": "Armour stand"
@@ -3685,6 +4094,7 @@
     "image": "Armour_stand_(Trahaearn).png",
     "type": "object",
     "year": 2014,
+    "released": 1411344000000,
     "examine": "A stand of elven melee armour.",
     "id": "OBJ-92633",
     "label": "Armour stand"
@@ -3694,6 +4104,7 @@
     "image": "Armoursmith.png",
     "type": "npc",
     "year": 2015,
+    "released": 1436745600000,
     "examine": "Will exchange Teci for exotic equipment.",
     "id": "NPC-21379",
     "label": "Armoursmith"
@@ -3703,6 +4114,7 @@
     "image": "Army_Commander.png",
     "type": "npc",
     "year": 2007,
+    "released": 1170028800000,
     "examine": "An army commander.",
     "id": "NPC-5448",
     "label": "Army Commander"
@@ -3712,6 +4124,7 @@
     "image": "Arod_the_environmentalist.png",
     "type": "npc",
     "year": 2015,
+    "released": 1444608000000,
     "examine": "Operator of the renowned Arod wildlife reserve.",
     "id": "NPC-21857",
     "label": "Arod the environmentalist"
@@ -3721,6 +4134,7 @@
     "image": "Arresting_officer.png",
     "type": "npc",
     "year": 2010,
+    "released": 1276041600000,
     "examine": "An officer of the law.",
     "id": "NPC-11457",
     "label": "Arresting officer"
@@ -3730,6 +4144,7 @@
     "image": "Display_41.png",
     "type": "item",
     "year": 2007,
+    "released": 1180396800000,
     "examine": "Rusty and very old.",
     "id": "ITEM-11176",
     "label": "Arrowheads"
@@ -3739,6 +4154,7 @@
     "image": "Artefact_(helmet)_detail.png",
     "type": "item",
     "year": 2007,
+    "released": 1177372800000,
     "examine": "An ancient goblin object encrusted in dirt.",
     "id": "ITEM-11053",
     "label": "Artefact"
@@ -3748,6 +4164,7 @@
     "image": "Arteria_detail.png",
     "type": "npc",
     "year": 2021,
+    "released": 1634515200000,
     "examine": "N/A",
     "id": "NPC-28490",
     "label": "Arteria"
@@ -3757,6 +4174,7 @@
     "image": "Artificer's_measure_detail.png",
     "type": "item",
     "year": 2020,
+    "released": 1603065600000,
     "examine": "An wondrous collection of crafting and construction trinkets all contained in one handy device.<sup class=\"noprint fact\">&#91;<span class=\"fact-text\" title=\"The preceding quote has been reproduced verbatim and is not a transcription error.\">sic</span>&#93;</sup>",
     "id": "ITEM-50805",
     "label": "Artificer's measure"
@@ -3766,6 +4184,7 @@
     "image": "Arzinian_Avatar_of_Magic_56.png",
     "type": "npc",
     "year": 2005,
+    "released": 1111363200000,
     "examine": "It's the Arzinian Being, whatever that is, that comes from Bordanzan, wherever that is.",
     "id": "NPC-1859",
     "label": "Arzinian Being of Bordanzan"
@@ -3775,6 +4194,7 @@
     "image": "As_a_first_resort.png",
     "type": "quest",
     "year": 2008,
+    "released": 1201564800000,
     "examine": "",
     "id": "QUEST-3763800d5a4858ac0d088f622e21e6b0",
     "label": "As a First Resort"
@@ -3784,6 +4204,7 @@
     "image": "Asciatops_(grown).png",
     "type": "npc",
     "year": 2019,
+    "released": 1574640000000,
     "examine": "An Asciatops for your player owned farm.",
     "id": "NPC-26690",
     "label": "Asciatops (player-owned farm)"
@@ -3793,6 +4214,7 @@
     "image": "Asciatops_acta_(grown).png",
     "type": "npc",
     "year": 2019,
+    "released": 1574640000000,
     "examine": "An Asciatops acta for your player owned farm.",
     "id": "NPC-26691",
     "label": "Asciatops acta"
@@ -3802,6 +4224,7 @@
     "image": "Asciatops_aurum_(grown).png",
     "type": "npc",
     "year": 2019,
+    "released": 1574640000000,
     "examine": "An Asciatops aurum for your player owned farm.",
     "id": "NPC-26692",
     "label": "Asciatops aurum"
@@ -3811,6 +4234,7 @@
     "image": "Asciatops_(egg).png",
     "type": "npc",
     "year": 2019,
+    "released": 1574640000000,
     "examine": "This egg is really heavy!",
     "id": "NPC-26688",
     "label": "Asciatops egg"
@@ -3820,6 +4244,7 @@
     "image": "Asciatops_lucidum.png",
     "type": "npc",
     "year": 2019,
+    "released": 1574640000000,
     "examine": "Is trying to decide which tribal tattoo design to get.",
     "id": "NPC-26693",
     "label": "Asciatops lucidum"
@@ -3829,6 +4254,7 @@
     "image": "Asgarnian_ale_(barrel)_(flatpack)_detail.png",
     "type": "item",
     "year": 2006,
+    "released": 1149033600000,
     "examine": "A ready-to-assemble barrel of Asgarnian Ale.",
     "id": "ITEM-8520",
     "label": "Asgarnian ale"
@@ -3838,6 +4264,7 @@
     "image": "Ash.png",
     "type": "npc",
     "year": 2004,
+    "released": 1092009600000,
     "examine": "Human is his specialty.",
     "id": "NPC-1100",
     "label": "Ash"
@@ -3847,6 +4274,7 @@
     "image": "Aspidistra_plant.gif",
     "type": "object",
     "year": 2006,
+    "released": 1155600000000,
     "examine": "The plant moves by itself. Is it a sentinent creature disguised as a plant? Naah...",
     "id": "OBJ-17238",
     "label": "Aspidistra plant"
@@ -3856,6 +4284,7 @@
     "image": "Assistant.png",
     "type": "npc",
     "year": 2005,
+    "released": 1117497600000,
     "examine": "Library assistant, to be exact.",
     "id": "NPC-2166",
     "label": "Assistant (Keldagrim Library)"
@@ -3865,6 +4294,7 @@
     "image": "Assistant_(Monkey_colony).png",
     "type": "npc",
     "year": 2010,
+    "released": 1291161600000,
     "examine": "A monkey's assistant.",
     "id": "NPC-13236",
     "label": "Assistant (Monkey colony)"
@@ -3874,6 +4304,7 @@
     "image": "Assistant_(Power_Station).png",
     "type": "npc",
     "year": 2008,
+    "released": 1210118400000,
     "examine": "He works in the power station.",
     "id": "NPC-7726",
     "label": "Assistant (Power Station)"
@@ -3883,6 +4314,7 @@
     "image": "Assistant_Brock.png",
     "type": "npc",
     "year": 2006,
+    "released": 1162771200000,
     "examine": "A helpful assistant.",
     "id": "NPC-5054",
     "label": "Assistant Brock"
@@ -3892,6 +4324,7 @@
     "image": "Assistant_Le_Smith.png",
     "type": "npc",
     "year": 2006,
+    "released": 1162771200000,
     "examine": "A helpful assistant.",
     "id": "NPC-5056",
     "label": "Assistant Le Smith"
@@ -3901,6 +4334,7 @@
     "image": "Assistant_Serf.png",
     "type": "npc",
     "year": 2006,
+    "released": 1162771200000,
     "examine": "A helpful assistant.",
     "id": "NPC-5053",
     "label": "Assistant Serf"
@@ -3910,6 +4344,7 @@
     "image": "Assistant_Timothy.png",
     "type": "npc",
     "year": 2020,
+    "released": 1607904000000,
     "examine": "Large, blue and mischievous.",
     "id": "NPC-27392",
     "label": "Assistant Timothy"
@@ -3919,6 +4354,7 @@
     "image": "Assistant_archaeologist_Kerner.png",
     "type": "npc",
     "year": 2008,
+    "released": 1199232000000,
     "examine": "He looks a bit dusty from troweling.",
     "id": "NPC-6787",
     "label": "Assistant archaeologist Kerner"
@@ -3928,6 +4364,7 @@
     "image": "Associate_Colette.png",
     "type": "npc",
     "year": 2020,
+    "released": 1603065600000,
     "examine": "Professor Alfredo's personal associate.",
     "id": "NPC-27292",
     "label": "Associate Colette"
@@ -3937,6 +4374,7 @@
     "image": "Astea_frostweb's_journal_detail.png",
     "type": "item",
     "year": 2010,
+    "released": 1271030400000,
     "examine": "A very old journal.",
     "id": "ITEM-15726",
     "label": "Astea frostweb's journal"
@@ -3946,6 +4384,7 @@
     "image": "Astoria.png",
     "type": "npc",
     "year": 2012,
+    "released": 1344297600000,
     "examine": "Arf arf.",
     "id": "NPC-15686",
     "label": "Astoria"
@@ -3955,6 +4394,7 @@
     "image": "Astral_Altar.png",
     "type": "object",
     "year": 2006,
+    "released": 1153699200000,
     "examine": "A mysterious power emanates from this shrine.",
     "id": "OBJ-17010",
     "label": "Astral altar"
@@ -3964,6 +4404,7 @@
     "image": "Astral_token_detail.png",
     "type": "item",
     "year": 2011,
+    "released": 1298937600000,
     "examine": "An astral token.",
     "id": "ITEM-20435",
     "label": "Astral token"
@@ -3973,6 +4414,7 @@
     "image": "Astromancer_apprentice_chathead.png",
     "type": "npc",
     "year": 2015,
+    "released": 1437350400000,
     "examine": "One of Wizard Chambers' apprentices who can offer teleportation to the world window.",
     "id": "NPC-21431",
     "label": "Astromancer apprentice"
@@ -3982,6 +4424,7 @@
     "image": "Astromancer_outfit_meteor_catch.gif",
     "type": "item",
     "year": 2015,
+    "released": 1433376000000,
     "examine": "The boots of an Astromancer.",
     "id": "ITEM-34917",
     "label": "Astromancer boots"
@@ -3991,6 +4434,7 @@
     "image": "Astromancer_credits_detail.png",
     "type": "item",
     "year": 2015,
+    "released": 1433116800000,
     "examine": "Collect these credits and work towards unlocking Astromancer rewards.",
     "id": "ITEM-34896",
     "label": "Astromancer credits"
@@ -4000,6 +4444,7 @@
     "image": "Astromancer_outfit_meteor_catch.gif",
     "type": "item",
     "year": 2015,
+    "released": 1433376000000,
     "examine": "The gloves of an Astromancer.",
     "id": "ITEM-34916",
     "label": "Astromancer gloves"
@@ -4009,6 +4454,7 @@
     "image": "Astromancer_outfit_meteor_catch.gif",
     "type": "item",
     "year": 2015,
+    "released": 1433376000000,
     "examine": "An Astromancer's wizard hat.",
     "id": "ITEM-34915",
     "label": "Astromancer hat"
@@ -4018,6 +4464,7 @@
     "image": "Astromancer_outfit_meteor_catch.gif",
     "type": "item",
     "year": 2015,
+    "released": 1433376000000,
     "examine": "The bottom of an Astromancer robe.",
     "id": "ITEM-34914",
     "label": "Astromancer robe bottom"
@@ -4027,6 +4474,7 @@
     "image": "Astromancer_outfit_meteor_catch.gif",
     "type": "item",
     "year": 2015,
+    "released": 1433376000000,
     "examine": "The top of an Astromancer robe.",
     "id": "ITEM-34913",
     "label": "Astromancer robe top"
@@ -4036,6 +4484,7 @@
     "image": "Astronomical_chart.png",
     "type": "object",
     "year": 2006,
+    "released": 1149033600000,
     "examine": "",
     "id": "OBJ-13663",
     "label": "Astronomical chart"
@@ -4045,6 +4494,7 @@
     "image": "Asylum_doctor's_ring_detail.png",
     "type": "item",
     "year": 2014,
+    "released": 1414368000000,
     "examine": "A ring showing a pair of demonic serpents wrapped around a staff.",
     "id": "ITEM-32524",
     "label": "Asylum doctor's ring"
@@ -4054,6 +4504,7 @@
     "image": "Asylum_surgeon's_ring_detail.png",
     "type": "item",
     "year": 2014,
+    "released": 1414368000000,
     "examine": "A ring showing the seal of the ancient asylum.",
     "id": "ITEM-32525",
     "label": "Asylum surgeon's ring"
@@ -4063,6 +4514,7 @@
     "image": "Asyn_remains_detail.png",
     "type": "item",
     "year": 2004,
+    "released": 1098057600000,
     "examine": "The remains of a deadly shade.",
     "id": "ITEM-3402",
     "label": "Asyn remains"
@@ -4072,6 +4524,7 @@
     "image": "Attack_Emote.gif",
     "type": "item",
     "year": 2006,
+    "released": 1161129600000,
     "examine": "The cape worn by masters of Attack.",
     "id": "ITEM-9747",
     "label": "Attack cape"
@@ -4081,6 +4534,7 @@
     "image": "Attack_Emote.gif",
     "type": "item",
     "year": 2006,
+    "released": 1161129600000,
     "examine": "The cape worn by masters of Attack.",
     "id": "ITEM-9748",
     "label": "Attack cape (t)"
@@ -4090,6 +4544,7 @@
     "image": "Attendead.png",
     "type": "npc",
     "year": 2011,
+    "released": 1301270400000,
     "examine": "'''&bull;''' Would you kindly kill these slicers? <br> '''&bull;''' About to make the final touches to those barrelchests.",
     "id": "NPC-13593",
     "label": "Attendead"
@@ -4099,6 +4554,7 @@
     "image": "Audmann.png",
     "type": "npc",
     "year": 2005,
+    "released": 1117497600000,
     "examine": "He seems to be very well off.",
     "id": "NPC-2201",
     "label": "Audmann"
@@ -4108,6 +4564,7 @@
     "image": "Aura_(pet)_pet.png",
     "type": "npc",
     "year": 2021,
+    "released": 1638144000000,
     "examine": "Heralds coming blizzards in the Land of Snow.",
     "id": "NPC-28635",
     "label": "Aura (pet)"
@@ -4117,6 +4574,7 @@
     "image": "Aurelius.png",
     "type": "npc",
     "year": 2021,
+    "released": 1629072000000,
     "examine": "All that remains of one of the Senntisten Inquisition.",
     "id": "NPC-22443",
     "label": "Aurelius"
@@ -4126,6 +4584,7 @@
     "image": "Auriculus.png",
     "type": "npc",
     "year": 2016,
+    "released": 1479686400000,
     "examine": "One of Zaros's pet virii.",
     "id": "NPC-23662",
     "label": "Auriculus"
@@ -4135,6 +4594,7 @@
     "image": "Auron_Ithell.png",
     "type": "npc",
     "year": 2014,
+    "released": 1411344000000,
     "examine": "Attends the golden statue in the Tower of Voices.",
     "id": "NPC-19864",
     "label": "Auron Ithell"
@@ -4144,6 +4604,7 @@
     "image": "Austri.png",
     "type": "npc",
     "year": 2002,
+    "released": 1022544000000,
     "examine": "He looks short and grumpy.",
     "id": "NPC-232",
     "label": "Austri"
@@ -4153,6 +4614,7 @@
     "image": "Auto_disassembler.png",
     "type": "object",
     "year": 2017,
+    "released": 1505692800000,
     "examine": "Smashes, mashes and sucks. My items will be components in no time!",
     "id": "OBJ-109775",
     "label": "Auto disassembler"
@@ -4162,6 +4624,7 @@
     "image": "Auto_disassembler_mk._II.png",
     "type": "object",
     "year": 2017,
+    "released": 1505692800000,
     "examine": "Smashes, mashes and sucks. My items will be components in no time!",
     "id": "OBJ-109776",
     "label": "Auto disassembler mk. II"
@@ -4171,6 +4634,7 @@
     "image": "Automatic_hide_tanner.png",
     "type": "object",
     "year": 2017,
+    "released": 1505692800000,
     "examine": "Automatically ensures tanners are never found.",
     "id": "OBJ-109767",
     "label": "Automatic hide tanner"
@@ -4180,6 +4644,7 @@
     "image": "Automaton.png",
     "type": "npc",
     "year": 2011,
+    "released": 1298937600000,
     "examine": "It has 'Da-vi' engraved on its chest.",
     "id": "NPC-6628",
     "label": "Automaton (Da-vi)"
@@ -4189,6 +4654,7 @@
     "image": "Autopsy_table_(scenery).png",
     "type": "object",
     "year": 2020,
+    "released": 1603065600000,
     "examine": "The focal point of this space.",
     "id": "OBJ-119018,119019,119017",
     "label": "Autopsy table"
@@ -4198,6 +4664,7 @@
     "image": "Avalani_chathead.png",
     "type": "npc",
     "year": 2011,
+    "released": 1310428800000,
     "examine": "'''Clan Camp:''' Almost working...\n'''Clan Citadel:''' She seems pleased to be here.",
     "id": "NPC-13826",
     "label": "Avalani"
@@ -4207,6 +4674,7 @@
     "image": "Avalani's_hat_chathead.png",
     "type": "item",
     "year": 2011,
+    "released": 1311465600000,
     "examine": "A blue wizard's hat.",
     "id": "ITEM-21389",
     "label": "Avalani's hat"
@@ -4216,6 +4684,7 @@
     "image": "Avatar_recall_rune.png",
     "type": "object",
     "year": 2012,
+    "released": 1344902400000,
     "examine": "A magical stone, imbued with the power of the floating island.",
     "id": "OBJ-100908",
     "label": "Avatar Control Stone"
@@ -4225,6 +4694,7 @@
     "image": "Kerapac_(Desperate_Times).png",
     "type": "npc",
     "year": 2019,
+    "released": 1557705600000,
     "examine": "A representation of Kerapac's struggle to reattune the needle to put the Elder Gods back to sleep.",
     "id": "NPC-26363",
     "label": "Avatar of Kerapac"
@@ -4234,6 +4704,7 @@
     "image": "Avernic_book_detail.png",
     "type": "item",
     "year": 2014,
+    "released": 1407110400000,
     "examine": "A book of demonic lore. Enhances magical prowess when dual-wielded with a wand. (Demon Slayer)",
     "id": "ITEM-31764",
     "label": "Avernic book"
@@ -4243,6 +4714,7 @@
     "image": "Avian_song-egg_player_journal.png",
     "type": "item",
     "year": 2020,
+    "released": 1585526400000,
     "examine": "A fully restored avian song-egg player.",
     "id": "ITEM-49631",
     "label": "Avian song-egg player"
@@ -4252,6 +4724,7 @@
     "image": "Aviansie_dreamcoat_journal.png",
     "type": "item",
     "year": 2020,
+    "released": 1585526400000,
     "examine": "A fully restored aviansie dreamcoat.",
     "id": "ITEM-49633",
     "label": "Aviansie dreamcoat"
@@ -4261,6 +4734,7 @@
     "image": "Aviansie_skull.png",
     "type": "object",
     "year": 2020,
+    "released": 1585526400000,
     "examine": "Necromancers have strange hobbies.",
     "id": "OBJ-117088",
     "label": "Aviansie skull"
@@ -4270,6 +4744,7 @@
     "image": "Aviary.png",
     "type": "object",
     "year": 2016,
+    "released": 1476057600000,
     "examine": "It's empty.",
     "id": "OBJ-104787",
     "label": "Aviary"
@@ -4279,6 +4754,7 @@
     "image": "Aviary_Hatch.png",
     "type": "object",
     "year": 2004,
+    "released": 1096934400000,
     "examine": "Presumably the hatch the zookeeper feeds the parrots through.",
     "id": "OBJ-4043",
     "label": "Aviary Hatch"
@@ -4288,6 +4764,7 @@
     "image": "Awah_Guan.png",
     "type": "npc",
     "year": 2016,
+    "released": 1476057600000,
     "examine": "These creatures are often found circling crablets. They love to bathe in salt to keep their feathers shiny.",
     "id": "NPC-23547",
     "label": "Awah Guan"
@@ -4297,6 +4774,7 @@
     "image": "Awning_placed.png",
     "type": "item",
     "year": 2016,
+    "released": 1469404800000,
     "examine": "'''Item:''' Add this decoration to your claimed island.<br />\n'''Placed:''' A decoration for your island.",
     "id": "ITEM-37786",
     "label": "Awning"
@@ -4306,6 +4784,7 @@
     "image": "Awning_(Anniversary_island).png",
     "type": "object",
     "year": 2017,
+    "released": 1483920000000,
     "examine": "A shelter<sup class=\"noprint fact\">&#91;<span class=\"fact-text\" title=\"The preceding quote has been reproduced verbatim and is not a transcription error.\">sic</span>&#93;</sup>",
     "id": "OBJ-106348",
     "label": "Awning"
@@ -4315,6 +4794,7 @@
     "image": "King_Awowogei.png",
     "type": "npc",
     "year": 2004,
+    "released": 1102291200000,
     "examine": "<ul><li>A rather dapper little monkey.</li><li>A rather dapper little monkey sitting on a throne.</li></ul>",
     "id": "NPC-1448",
     "label": "Awowogei"
@@ -4324,6 +4804,7 @@
     "image": "Awusah_the_Mayor.png",
     "type": "npc",
     "year": 2005,
+    "released": 1133740800000,
     "examine": "The Mayor of Nardah.",
     "id": "NPC-3040",
     "label": "Awusah the Mayor"
@@ -4333,6 +4814,7 @@
     "image": "Axe_case.png",
     "type": "object",
     "year": 2007,
+    "released": 1170720000000,
     "examine": "A display case, full of axes.",
     "id": "OBJ-21437",
     "label": "Axe case"
@@ -4342,6 +4824,7 @@
     "image": "Axe_in_stake.png",
     "type": "object",
     "year": 2015,
+    "released": 1436745600000,
     "examine": "Someone clearly did this in a fit of rage.",
     "id": "OBJ-97858",
     "label": "Axe in stake"
@@ -4351,6 +4834,7 @@
     "image": "Aya.png",
     "type": "npc",
     "year": 2022,
+    "released": 1641254400000,
     "examine": "A peaceful-looking crocodile.",
     "id": "NPC-28708",
     "label": "Aya"
@@ -4360,6 +4844,7 @@
     "image": "Ayesha.png",
     "type": "npc",
     "year": 2012,
+    "released": 1345507200000,
     "examine": "This gardener might look after your cactus for you.",
     "id": "NPC-15748",
     "label": "Ayesha"
@@ -4369,6 +4854,7 @@
     "image": "Azibo.png",
     "type": "npc",
     "year": 2017,
+    "released": 1499040000000,
     "examine": "A toy-seller who looks after people's toys for them.",
     "id": "NPC-24762",
     "label": "Azibo"
@@ -4378,6 +4864,7 @@
     "image": "Azris_the_Green.png",
     "type": "npc",
     "year": 2012,
+    "released": 1354060800000,
     "examine": "Master of the Green Order.",
     "id": "NPC-16125",
     "label": "Azris the Green"
@@ -4387,6 +4874,7 @@
     "image": "Azure_Parrot.png",
     "type": "npc",
     "year": 2016,
+    "released": 1476057600000,
     "examine": "This bird has a keen sense of smell and often begs for food.",
     "id": "NPC-23546",
     "label": "Azure Parrot"
@@ -4396,6 +4884,7 @@
     "image": "Azure_globe_placed.png",
     "type": "item",
     "year": 2016,
+    "released": 1469404800000,
     "examine": "'''Item:''' Add this decoration to your claimed island.<br />\n'''Placed:''' A decoration for your island.",
     "id": "ITEM-37784",
     "label": "Azure globe"
@@ -4405,6 +4894,7 @@
     "image": "Azure_skillchompa_detail.png",
     "type": "item",
     "year": 2014,
+    "released": 1403481600000,
     "examine": "Can be used to enhance gathering of energy, fish, logs and ore, as a rune-equivalent tool, where applicable.",
     "id": "ITEM-31597",
     "label": "Azure skillchompa"
@@ -4414,6 +4904,7 @@
     "image": "Azzanadra's_Quest.png",
     "type": "quest",
     "year": 2021,
+    "released": 1613952000000,
     "examine": "",
     "id": "QUEST-578a01a23f2870ef803c776088a4ac63",
     "label": "Azzanadra's Quest"
@@ -4423,6 +4914,7 @@
     "image": "Babe.png",
     "type": "npc",
     "year": 2008,
+    "released": 1224547200000,
     "examine": "How can an ox without lungs sneeze like that?",
     "id": "NPC-8204",
     "label": "Babe"
@@ -4432,6 +4924,7 @@
     "image": "Baby_Shakes.png",
     "type": "npc",
     "year": 2019,
+    "released": 1549238400000,
     "examine": "The fabled 'happy farm' where animals sometimes go.",
     "id": "NPC-8947",
     "label": "Baby Shakes"
@@ -4441,6 +4934,7 @@
     "image": "Baby_Troll_pet.png",
     "type": "npc",
     "year": 2012,
+    "released": 1327968000000,
     "examine": "A trapped baby troll, ready to be saved.",
     "id": "NPC-14846",
     "label": "Baby Troll"
@@ -4450,6 +4944,7 @@
     "image": "Arcane_apoterrasaur_(child).png",
     "type": "npc",
     "year": 2019,
+    "released": 1574640000000,
     "examine": "A blast from the past.",
     "id": "NPC-26720",
     "label": "Baby arcane apoterrasaur"
@@ -4459,6 +4954,7 @@
     "image": "Baby_asciatops.png",
     "type": "npc",
     "year": 2019,
+    "released": 1574640000000,
     "examine": "Is trying to decide which tribal tattoo design to get.",
     "id": "NPC-26689",
     "label": "Baby asciatops"
@@ -4468,6 +4964,7 @@
     "image": "Bagrada_rex_(child).png",
     "type": "npc",
     "year": 2019,
+    "released": 1574640000000,
     "examine": "You will know when it is sleeping because of how loudly it dino-snores.",
     "id": "NPC-14861",
     "label": "Baby bagrada rex"
@@ -4477,6 +4974,7 @@
     "image": "Baby_barrel.png",
     "type": "object",
     "year": 2021,
+    "released": 1624233600000,
     "examine": "It's empty.",
     "id": "OBJ-120367",
     "label": "Baby barrel"
@@ -4486,6 +4984,7 @@
     "image": "Baby_black_dragon_(NPC).png",
     "type": "npc",
     "year": 2018,
+    "released": 1535932800000,
     "examine": "A baby black dragon.",
     "id": "NPC-25748",
     "label": "Baby black dragon (player-owned farm)"
@@ -4495,6 +4994,7 @@
     "image": "Baby_blue_dragon_(NPC).png",
     "type": "npc",
     "year": 2018,
+    "released": 1535932800000,
     "examine": "A baby blue dragon.",
     "id": "NPC-25746",
     "label": "Baby blue dragon (player-owned farm)"
@@ -4504,6 +5004,7 @@
     "image": "Brutish_dinosaur_(child).png",
     "type": "npc",
     "year": 2019,
+    "released": 1574640000000,
     "examine": "Armoured to the bone.",
     "id": "NPC-14871",
     "label": "Baby brutish dinosaur"
@@ -4513,6 +5014,7 @@
     "image": "Baby_chinchompa.png",
     "type": "npc",
     "year": 2018,
+    "released": 1535932800000,
     "examine": "Probably the safest this animal will ever be.",
     "id": "NPC-25729",
     "label": "Baby chinchompa"
@@ -4522,6 +5024,7 @@
     "image": "Corbicula_rex_(child).png",
     "type": "npc",
     "year": 2019,
+    "released": 1574640000000,
     "examine": "Spiky on the outside, soft in the middle.",
     "id": "NPC-14880",
     "label": "Baby corbicula rex"
@@ -4531,6 +5034,7 @@
     "image": "Baby_frog.png",
     "type": "npc",
     "year": 2019,
+    "released": 1574640000000,
     "examine": "The sprog of a frog.",
     "id": "NPC-14888",
     "label": "Baby frog"
@@ -4540,6 +5044,7 @@
     "image": "Baby_gecko_(red)_pet.png",
     "type": "npc",
     "year": 2008,
+    "released": 1200355200000,
     "examine": "It's so adorably tiny!",
     "id": "NPC-6917",
     "label": "Baby gecko (Hunter)"
@@ -4549,6 +5054,7 @@
     "image": "Baby_green_dragon_(NPC).png",
     "type": "npc",
     "year": 2018,
+    "released": 1535932800000,
     "examine": "A baby green dragon.",
     "id": "NPC-25747",
     "label": "Baby green dragon"
@@ -4558,6 +5064,7 @@
     "image": "Baby_impling.png",
     "type": "npc",
     "year": 2007,
+    "released": 1181520000000,
     "examine": "A baby impling. Ahhh.",
     "id": "NPC-1028",
     "label": "Baby impling"
@@ -4567,6 +5074,7 @@
     "image": "Jadinko_(child).png",
     "type": "npc",
     "year": 2019,
+    "released": 1574640000000,
     "examine": "A slimy plant creature.",
     "id": "NPC-14898",
     "label": "Baby jadinko (player-owned farm)"
@@ -4576,6 +5084,7 @@
     "image": "Malletops_(child).png",
     "type": "npc",
     "year": 2019,
+    "released": 1574640000000,
     "examine": "The volcanos on its back are of great magmatude.",
     "id": "NPC-26695",
     "label": "Baby malletops"
@@ -4585,6 +5094,7 @@
     "image": "Baby_monkey_(grey_and_beige)_pet.png",
     "type": "npc",
     "year": 2008,
+    "released": 1200355200000,
     "examine": "It's a tiny, cheeky monkey!",
     "id": "NPC-6944",
     "label": "Baby monkey (Hunter)"
@@ -4594,6 +5104,7 @@
     "image": "Oculi_apoterrasaur_(child).png",
     "type": "npc",
     "year": 2019,
+    "released": 1574640000000,
     "examine": "Hypnotises its prey with its mesmerising skin pattern.",
     "id": "NPC-26677",
     "label": "Baby oculi apoterrasaur"
@@ -4603,6 +5114,7 @@
     "image": "Pavosaurus_rex_(child).png",
     "type": "npc",
     "year": 2019,
+    "released": 1574640000000,
     "examine": "Dangerous. Fearsome. Loves long walks down the dino-shore.",
     "id": "NPC-26683",
     "label": "Baby pavosaurus rex"
@@ -4612,6 +5124,7 @@
     "image": "Baby_platypus_(brown)_pet.png",
     "type": "npc",
     "year": 2008,
+    "released": 1201564800000,
     "examine": "A most unlikely creature.",
     "id": "NPC-7024",
     "label": "Baby platypus (Hunter)"
@@ -4621,6 +5134,7 @@
     "image": "Baby_raccoon_(grey)_pet.png",
     "type": "npc",
     "year": 2008,
+    "released": 1200355200000,
     "examine": "A stripy little baby raccoon.",
     "id": "NPC-6997",
     "label": "Baby raccoon (Hunter)"
@@ -4630,6 +5144,7 @@
     "image": "Baby_red_dragon_(NPC).png",
     "type": "npc",
     "year": 2018,
+    "released": 1535932800000,
     "examine": "A baby red dragon.",
     "id": "NPC-25745",
     "label": "Baby red dragon (player-owned farm)"
@@ -4639,6 +5154,7 @@
     "image": "Baby_royal_dragon.png",
     "type": "npc",
     "year": 2018,
+    "released": 1535932800000,
     "examine": "A baby royal dragon.",
     "id": "NPC-25749",
     "label": "Baby royal dragon"
@@ -4648,6 +5164,7 @@
     "image": "Baby_salamander.png",
     "type": "npc",
     "year": 2019,
+    "released": 1574640000000,
     "examine": "Slightly slimy but kind of cute.",
     "id": "NPC-26705",
     "label": "Baby salamander"
@@ -4657,6 +5174,7 @@
     "image": "Scimitops_(child).png",
     "type": "npc",
     "year": 2019,
+    "released": 1574640000000,
     "examine": "Most dinosaurs couldn't survive an explosion but this dino-mite.",
     "id": "NPC-26701",
     "label": "Baby scimitops"
@@ -4666,6 +5184,7 @@
     "image": "Spicati_apoterrasaur_(child).png",
     "type": "npc",
     "year": 2019,
+    "released": 1574640000000,
     "examine": "Quick with razor sharp claws to tear apart its prey.",
     "id": "NPC-26714",
     "label": "Baby spicati apoterrasaur"
@@ -4675,6 +5194,7 @@
     "image": "Baby_squirrel_(light_grey)_pet.png",
     "type": "npc",
     "year": 2008,
+    "released": 1200355200000,
     "examine": "A tiny nut-thief.",
     "id": "NPC-6921",
     "label": "Baby squirrel (Hunter)"
@@ -4684,6 +5204,7 @@
     "image": "Varanusaur_(child).png",
     "type": "npc",
     "year": 2019,
+    "released": 1574640000000,
     "examine": "This adorable little critter only mostly wants to claw your face off.",
     "id": "NPC-26720",
     "label": "Baby varanusaur dinosaur"
@@ -4693,6 +5214,7 @@
     "image": "Back_to_my_Roots.png",
     "type": "quest",
     "year": 2007,
+    "released": 1191888000000,
     "examine": "",
     "id": "QUEST-091b61fb18793a0cf54f60c7f9273d0e",
     "label": "Back to my Roots"
@@ -4702,6 +5224,7 @@
     "image": "Back_to_the_Freezer.png",
     "type": "quest",
     "year": 2017,
+    "released": 1488153600000,
     "examine": "",
     "id": "QUEST-00fddae18913a82715823d33c6caf047",
     "label": "Back to the Freezer"
@@ -4711,6 +5234,7 @@
     "image": "Backstab_cape_detail.png",
     "type": "item",
     "year": 2014,
+    "released": 1416182400000,
     "examine": "Just walk it off.",
     "id": "ITEM-33520",
     "label": "Backstab cape"
@@ -4720,6 +5244,7 @@
     "image": "Bacon_addict.png",
     "type": "npc",
     "year": 2013,
+    "released": 1373328000000,
     "examine": "Crazed by the smell of bacon!",
     "id": "NPC-17363",
     "label": "Bacon addict"
@@ -4729,6 +5254,7 @@
     "image": "Baden.png",
     "type": "npc",
     "year": 2009,
+    "released": 1243900800000,
     "examine": "His head must be freezing!",
     "id": "NPC-8685",
     "label": "Baden"
@@ -4738,6 +5264,7 @@
     "image": "Badir_the_Snake_Charmer.png",
     "type": "npc",
     "year": 2005,
+    "released": 1112572800000,
     "examine": "A snake charmer.",
     "id": "NPC-1872",
     "label": "Badir the Snake Charmer"
@@ -4747,6 +5274,7 @@
     "image": "YewTree_in_house.png",
     "type": "item",
     "year": 2006,
+    "released": 1149033600000,
     "examine": "You can plant this in your garden.",
     "id": "ITEM-8427",
     "label": "Bagged yew tree"
@@ -4756,6 +5284,7 @@
     "image": "Bagrada_lucidum_(grown).png",
     "type": "npc",
     "year": 2019,
+    "released": 1574640000000,
     "examine": "You will know when it is sleeping because of how loudly it dino-snores.",
     "id": "NPC-14863",
     "label": "Bagrada lucidum"
@@ -4765,6 +5294,7 @@
     "image": "Bagrada_nemus_(grown).png",
     "type": "npc",
     "year": 2019,
+    "released": 1574640000000,
     "examine": "A Bagrada nemus for your player owned farm.",
     "id": "NPC-14867",
     "label": "Bagrada nemus"
@@ -4774,6 +5304,7 @@
     "image": "Bagrada_purpura_(grown).png",
     "type": "npc",
     "year": 2019,
+    "released": 1574640000000,
     "examine": "A Bagrada purpura for your player owned farm.",
     "id": "NPC-14868",
     "label": "Bagrada purpura"
@@ -4783,6 +5314,7 @@
     "image": "Bagrada_rex_(grown).png",
     "type": "npc",
     "year": 2019,
+    "released": 1574640000000,
     "examine": "A Bagrada rex for your player owned farm.",
     "id": "NPC-14865",
     "label": "Bagrada rex (player-owned farm)"
@@ -4792,6 +5324,7 @@
     "image": "Bagrada_rex_(egg).png",
     "type": "npc",
     "year": 2019,
+    "released": 1574640000000,
     "examine": "All the other eggs are scared of this one.",
     "id": "NPC-14859",
     "label": "Bagrada rex egg"
@@ -4801,6 +5334,7 @@
     "image": "Bait_barrel.png",
     "type": "object",
     "year": 2015,
+    "released": 1429488000000,
     "examine": "",
     "id": "OBJ-96653",
     "label": "Bait barrel"
@@ -4810,6 +5344,7 @@
     "image": "Baked_potato_detail.png",
     "type": "item",
     "year": 2005,
+    "released": 1130112000000,
     "examine": "It'd taste even better with some toppings.",
     "id": "ITEM-6701",
     "label": "Baked potato"
@@ -4819,6 +5354,7 @@
     "image": "Baker's_Stall.png",
     "type": "object",
     "year": 2002,
+    "released": 1020124800000,
     "examine": "This stall smells great.",
     "id": "OBJ-34384",
     "label": "Bakery stall"
@@ -4828,6 +5364,7 @@
     "image": "Bakery_Stall_(Lumbridge).png",
     "type": "object",
     "year": 2012,
+    "released": 1327968000000,
     "examine": "It's loaded with bread and cakes.",
     "id": "OBJ-66692",
     "label": "Bakery Stall"
@@ -4837,6 +5374,7 @@
     "image": "Keldagrim's_Best_Bread.png",
     "type": "object",
     "year": 2005,
+    "released": 1117497600000,
     "examine": "Bread and cakes are spread out over it.",
     "id": "OBJ-6163",
     "label": "Bakery stall"
@@ -4846,6 +5384,7 @@
     "image": "Balance_beam.png",
     "type": "object",
     "year": 2006,
+    "released": 1149033600000,
     "examine": "",
     "id": "OBJ-13142,13143,13144",
     "label": "Balance beam"
@@ -4855,6 +5394,7 @@
     "image": "Balance_portal.png",
     "type": "object",
     "year": 2009,
+    "released": 1234224000000,
     "examine": "A portal to join the team with the least number of players.",
     "id": "OBJ-42031",
     "label": "Balance portal"
@@ -4864,6 +5404,7 @@
     "image": "Balancing_ledge_(Barbarian_Outpost_Agility_Course).png",
     "type": "object",
     "year": 2002,
+    "released": 1039651200000,
     "examine": "Tread carefully!",
     "id": "OBJ-2302",
     "label": "Balancing ledge"
@@ -4873,6 +5414,7 @@
     "image": "Balancing_ledge_(Brimhaven_Agility_Arena).png",
     "type": "object",
     "year": 2004,
+    "released": 1090886400000,
     "examine": "Tread carefully!",
     "id": "OBJ-3559,3560,3561,3562",
     "label": "Balancing ledge"
@@ -4882,6 +5424,7 @@
     "image": "Balancing_ledge_(Burthorpe_Agility_Course).png",
     "type": "object",
     "year": 2012,
+    "released": 1327968000000,
     "examine": "Tread carefully!",
     "id": "OBJ-3562,66909",
     "label": "Balancing ledge"
@@ -4891,6 +5434,7 @@
     "image": "Balancing_rope_(Brimhaven_Agility_Arena).png",
     "type": "object",
     "year": 2004,
+    "released": 1090886400000,
     "examine": "I can balance on this rope.",
     "id": "OBJ-3551,3552",
     "label": "Balancing rope"
@@ -4900,6 +5444,7 @@
     "image": "Balancing_rope_(Gnome_Stronghold_Agility_Course).png",
     "type": "object",
     "year": 2002,
+    "released": 1039651200000,
     "examine": "I can balance on this rope.",
     "id": "OBJ-2312,4059",
     "label": "Balancing rope"
@@ -4909,6 +5454,7 @@
     "image": "Balcony_stairs.png",
     "type": "object",
     "year": 2021,
+    "released": 1624233600000,
     "examine": "Leads between the main floor and the balcony.",
     "id": "OBJ-119969",
     "label": "Balcony stairs"
@@ -4918,6 +5464,7 @@
     "image": "Balloon_animal_(goat).png",
     "type": "npc",
     "year": 2006,
+    "released": 1136851200000,
     "examine": "It looks like an animal.",
     "id": "NPC-2275",
     "label": "Balloon animal"
@@ -4927,6 +5474,7 @@
     "image": "Balloon_animal_(2011_Christmas_event).png",
     "type": "npc",
     "year": 2011,
+    "released": 1324339200000,
     "examine": "It looks like an animal.",
     "id": "NPC-14232",
     "label": "Balloon animal (2011 Christmas event)"
@@ -4936,6 +5484,7 @@
     "image": "Juggling_balls.gif",
     "type": "item",
     "year": 2008,
+    "released": 1220313600000,
     "examine": "An Agility level of 10 is advised when juggling these.",
     "id": "ITEM-13709",
     "label": "Balls (level 10 approx.)"
@@ -4945,6 +5494,7 @@
     "image": "Balthazar's_Bargain_Barrel.png",
     "type": "object",
     "year": 2015,
+    "released": 1441065600000,
     "examine": "What will you find?",
     "id": "OBJ-98338,98481",
     "label": "Balthazar's Bargain Barrel"
@@ -4954,6 +5504,7 @@
     "image": "Bamboo_(tree).png",
     "type": "object",
     "year": 2016,
+    "released": 1469404800000,
     "examine": "A source of bamboo.",
     "id": "OBJ-104007",
     "label": "Bamboo"
@@ -4963,6 +5514,7 @@
     "image": "Banafrit.png",
     "type": "npc",
     "year": 2017,
+    "released": 1496620800000,
     "examine": "She's made of sugar and spice and all things nice.",
     "id": "NPC-24711",
     "label": "Banafrit"
@@ -4972,6 +5524,7 @@
     "image": "Banana_merchant.png",
     "type": "npc",
     "year": 2010,
+    "released": 1291161600000,
     "examine": "An importer of bananas.",
     "id": "NPC-13186",
     "label": "Banana merchant"
@@ -4981,6 +5534,7 @@
     "image": "Bandit_Camp_Teleport_detail.png",
     "type": "item",
     "year": 2010,
+    "released": 1280880000000,
     "examine": "A one-use scroll containing a teleport spell.",
     "id": "ITEM-19476",
     "label": "Bandit Camp Teleport"
@@ -4990,6 +5544,7 @@
     "image": "Bandit_Leader.png",
     "type": "npc",
     "year": 2005,
+    "released": 1112572800000,
     "examine": "Leads the Bandits.",
     "id": "NPC-1878",
     "label": "Bandit Leader"
@@ -4999,6 +5554,7 @@
     "image": "Bandit's_brew_(Evil_Dave's_Big_Day_Out)_detail.png",
     "type": "item",
     "year": 2017,
+    "released": 1511740800000,
     "examine": "A cheeky little lager from the Bandit Camp.",
     "id": "ITEM-41504",
     "label": "Bandit's brew"
@@ -5008,6 +5564,7 @@
     "image": "Bandos_altar.png",
     "type": "object",
     "year": 2007,
+    "released": 1188259200000,
     "examine": "Altar to the goblin god.",
     "id": "OBJ-26289",
     "label": "Bandos altar"
@@ -5017,6 +5574,7 @@
     "image": "Bandos_chestplate_detail.png",
     "type": "item",
     "year": 2007,
+    "released": 1188259200000,
     "examine": "A sturdy chestplate.",
     "id": "ITEM-11724",
     "label": "Bandos chestplate"
@@ -5026,6 +5584,7 @@
     "image": "Bandos_chronicle.png",
     "type": "npc",
     "year": 2014,
+    "released": 1401667200000,
     "examine": "A chronicle of the Big High War God.",
     "id": "NPC-19354",
     "label": "Bandos chronicle"
@@ -5035,6 +5594,7 @@
     "image": "Bandos_godsword_detail.png",
     "type": "item",
     "year": 2007,
+    "released": 1188259200000,
     "examine": "A brutally heavy sword.",
     "id": "ITEM-11696",
     "label": "Bandos godsword"
@@ -5044,6 +5604,7 @@
     "image": "Warstrike.gif",
     "type": "item",
     "year": 2007,
+    "released": 1188259200000,
     "examine": "Brimming with potential.",
     "id": "ITEM-11704",
     "label": "Bandos hilt"
@@ -5053,6 +5614,7 @@
     "image": "Sphere_break.gif",
     "type": "item",
     "year": 2009,
+    "released": 1237248000000,
     "examine": "Oldak's Marvellous Moving-over-distance Sphere.",
     "id": "ITEM-14692",
     "label": "Bandos throne room sphere"
@@ -5062,6 +5624,7 @@
     "image": "Bandos's_throne_(Archaeology).png",
     "type": "object",
     "year": 2020,
+    "released": 1585526400000,
     "examine": "Has a Bandos butt-shaped indentation.",
     "id": "OBJ-117239,117240,117241",
     "label": "Bandos's throne"
@@ -5071,6 +5634,7 @@
     "image": "Bandosian_Bellyfire.png",
     "type": "object",
     "year": 2015,
+    "released": 1422230400000,
     "examine": "It seems to be a home-made brew for Bandosian troops. Whats<sup class=\"noprint fact\">&#91;<span class=\"fact-text\" title=\"The preceding quote has been reproduced verbatim and is not a transcription error.\">sic</span>&#93;</sup> it doing here?",
     "id": "OBJ-95237",
     "label": "Bandosian Bellyfire"
@@ -5080,6 +5644,7 @@
     "image": "Bandosian_golem_master.png",
     "type": "npc",
     "year": 2013,
+    "released": 1386720000000,
     "examine": "Creating plated beasts to crush the enemies of Bandos.",
     "id": "NPC-18782",
     "label": "Bandosian golem master"
@@ -5089,6 +5654,7 @@
     "image": "Bandosian_head_diviner.png",
     "type": "npc",
     "year": 2013,
+    "released": 1386720000000,
     "examine": "Bandos's advisor on the art of Divination.",
     "id": "NPC-18783",
     "label": "Bandosian head diviner"
@@ -5098,6 +5664,7 @@
     "image": "Bandosian_recruiter.png",
     "type": "npc",
     "year": 2013,
+    "released": 1386720000000,
     "examine": "Drumming up the Bandosian horde.",
     "id": "NPC-18779",
     "label": "Bandosian recruiter"
@@ -5107,6 +5674,7 @@
     "image": "Bandosian_soulstone_detail.png",
     "type": "item",
     "year": 2013,
+    "released": 1367280000000,
     "examine": "A magic stone that stores the power of General Graardor.",
     "id": "ITEM-28129",
     "label": "Bandosian soulstone"
@@ -5116,6 +5684,7 @@
     "image": "Bane_fanatic.png",
     "type": "npc",
     "year": 2018,
+    "released": 1545004800000,
     "examine": "She's already smithed himself a full set of bane!",
     "id": "NPC-8917",
     "label": "Bane fanatic"
@@ -5125,6 +5694,7 @@
     "image": "Bane_fanatic_(upgraded).png",
     "type": "npc",
     "year": 2018,
+    "released": 1545004800000,
     "examine": "He's already smithed himself a full set of upgraded bane!",
     "id": "NPC-8918",
     "label": "Bane fanatic (upgraded)"
@@ -5134,6 +5704,7 @@
     "image": "Bang_Ersenmash_location.png",
     "type": "npc",
     "year": 2012,
+    "released": 1338249600000,
     "examine": "Sounds tasty.",
     "id": "NPC-15534",
     "label": "Bang Ersenmash"
@@ -5143,6 +5714,7 @@
     "image": "Bane_ore_Rockfall.png",
     "type": "object",
     "year": 2015,
+    "released": 1435536000000,
     "examine": "A literal ton of bane ore.",
     "id": "OBJ-97581,97582,97583",
     "label": "Banite ore rockfall"
@@ -5152,6 +5724,7 @@
     "image": "Banite_stone_spirit_detail.png",
     "type": "item",
     "year": 2019,
+    "released": 1546819200000,
     "examine": "A strange wisp-like creature. When mining banite ore, this is consumed and you will receive an additional banite ore.",
     "id": "ITEM-44813",
     "label": "Banite stone spirit"
@@ -5161,6 +5734,7 @@
     "image": "Bank_chest_(Grim_Underworld).png",
     "type": "object",
     "year": 2016,
+    "released": 1455494400000,
     "examine": "Use for quick access to your bank.",
     "id": "OBJ-101084",
     "label": "Bank chest"
@@ -5170,6 +5744,7 @@
     "image": "Bank_chest_(Het's_Oasis).png",
     "type": "object",
     "year": 2013,
+    "released": 1366070400000,
     "examine": "Use for quick access to your bank.",
     "id": "OBJ-83954",
     "label": "Bank chest"
@@ -5179,6 +5754,7 @@
     "image": "Bank_guard.png",
     "type": "npc",
     "year": 2005,
+    "released": 1124755200000,
     "examine": "He's guarding the bank.",
     "id": "NPC-2574",
     "label": "Bank guard"
@@ -5188,6 +5764,7 @@
     "image": "Bank_safe.png",
     "type": "object",
     "year": 2007,
+    "released": 1174348800000,
     "examine": "Looks very safe.",
     "id": "OBJ-22822",
     "label": "Bank safe"
@@ -5197,6 +5774,7 @@
     "image": "Maximillian_Sackville_(banker).png",
     "type": "npc",
     "year": 2007,
+    "released": 1197244800000,
     "examine": "He has unbelievable strength!",
     "id": "NPC-7605",
     "label": "Banker (Maximillian Sackville)"
@@ -5206,6 +5784,7 @@
     "image": "Banker's_diary.png",
     "type": "object",
     "year": 2015,
+    "released": 1450051200000,
     "examine": "If he didn't want you to read it, he wouldn't have left it out in the open.",
     "id": "OBJ-100678",
     "label": "Banker's diary"
@@ -5215,6 +5794,7 @@
     "image": "Banker's_house.png",
     "type": "object",
     "year": 2016,
+    "released": 1476057600000,
     "examine": "This is where the banker lives.",
     "id": "OBJ-104784",
     "label": "Banker's house"
@@ -5224,6 +5804,7 @@
     "image": "Banky_crablet_(NPC).png",
     "type": "npc",
     "year": 2016,
+    "released": 1476057600000,
     "examine": "A salt-encrusted mobile bank chest.",
     "id": "NPC-23407",
     "label": "Banky crablet (NPC)"
@@ -5233,6 +5814,7 @@
     "image": "Banner_(Flashback).png",
     "type": "object",
     "year": 2021,
+    "released": 1617667200000,
     "examine": "A goblin banner.",
     "id": "OBJ-119660",
     "label": "Banner"
@@ -5242,6 +5824,7 @@
     "image": "Bar_Crawl_(miniquest).png",
     "type": "quest",
     "year": 2002,
+    "released": 1017014400000,
     "examine": "",
     "id": "QUEST-e8c91457769dce3b74a8909f314ea19c",
     "label": "Bar Crawl (miniquest)"
@@ -5251,6 +5834,7 @@
     "image": "Barb-tailed_kebbit_detail.png",
     "type": "npc",
     "year": 2006,
+    "released": 1164067200000,
     "examine": "It uses its tail to hunt and skewer fish.",
     "id": "NPC-5088",
     "label": "Barb-tailed kebbit"
@@ -5260,6 +5844,7 @@
     "image": "Barbarian_assault_wave_ticket_(read).png",
     "type": "item",
     "year": 2014,
+    "released": 1409011200000,
     "examine": "Grants access to wave 8 in hard mode.",
     "id": "ITEM-31906",
     "label": "Barbarian assault ticket - hard wave 8"
@@ -5269,6 +5854,7 @@
     "image": "Barbarian_assault_wave_ticket_(read).png",
     "type": "item",
     "year": 2010,
+    "released": 1263859200000,
     "examine": "Grants access to wave 10.",
     "id": "ITEM-15473",
     "label": "Barbarian assault ticket - wave 10"
@@ -5278,6 +5864,7 @@
     "image": "Barbarian_assault_wave_ticket_(read).png",
     "type": "item",
     "year": 2010,
+    "released": 1263859200000,
     "examine": "Grants access to wave 2.",
     "id": "ITEM-15465",
     "label": "Barbarian assault ticket - wave 2"
@@ -5287,6 +5874,7 @@
     "image": "Barbarian_assault_wave_ticket_(read).png",
     "type": "item",
     "year": 2010,
+    "released": 1263859200000,
     "examine": "Grants access to wave 3.",
     "id": "ITEM-15466",
     "label": "Barbarian assault ticket - wave 3"
@@ -5296,6 +5884,7 @@
     "image": "Barbarian_assault_wave_ticket_(read).png",
     "type": "item",
     "year": 2010,
+    "released": 1263859200000,
     "examine": "Grants access to wave 4.",
     "id": "ITEM-15467",
     "label": "Barbarian assault ticket - wave 4"
@@ -5305,6 +5894,7 @@
     "image": "Barbarian_assault_wave_ticket_(read).png",
     "type": "item",
     "year": 2010,
+    "released": 1263859200000,
     "examine": "Grants access to wave 5.",
     "id": "ITEM-15468",
     "label": "Barbarian assault ticket - wave 5"
@@ -5314,6 +5904,7 @@
     "image": "Barbarian_assault_wave_ticket_(read).png",
     "type": "item",
     "year": 2010,
+    "released": 1263859200000,
     "examine": "Grants access to wave 6.",
     "id": "ITEM-15469",
     "label": "Barbarian assault ticket - wave 6"
@@ -5323,6 +5914,7 @@
     "image": "Barbarian_assault_wave_ticket_(read).png",
     "type": "item",
     "year": 2010,
+    "released": 1263859200000,
     "examine": "Grants access to wave 7.",
     "id": "ITEM-15470",
     "label": "Barbarian assault ticket - wave 7"
@@ -5332,6 +5924,7 @@
     "image": "Barbarian_assault_wave_ticket_(read).png",
     "type": "item",
     "year": 2010,
+    "released": 1263859200000,
     "examine": "Grants access to wave 8.",
     "id": "ITEM-15471",
     "label": "Barbarian assault ticket - wave 8"
@@ -5341,6 +5934,7 @@
     "image": "Barbarian_assault_wave_ticket_(read).png",
     "type": "item",
     "year": 2010,
+    "released": 1263859200000,
     "examine": "Grants access to wave 9.",
     "id": "ITEM-15472",
     "label": "Barbarian assault ticket - wave 9"
@@ -5350,6 +5944,7 @@
     "image": "Barbarian_chair.png",
     "type": "object",
     "year": 2007,
+    "released": 1183420800000,
     "examine": "A barbarian chair.",
     "id": "OBJ-25270",
     "label": "Barbarian chair"
@@ -5359,6 +5954,7 @@
     "image": "Barbarian_guard_chathead.png",
     "type": "npc",
     "year": 2002,
+    "released": 1017014400000,
     "examine": "Not very civilised looking.",
     "id": "NPC-384",
     "label": "Barbarian guard"
@@ -5368,6 +5964,7 @@
     "image": "Snowman_-_Barbarian.png",
     "type": "npc",
     "year": 2007,
+    "released": 1197936000000,
     "examine": "A helmetted, barbarian snowman.",
     "id": "NPC-6742",
     "label": "Barbarian snowman"
@@ -5377,6 +5974,7 @@
     "image": "Barbarian_table.png",
     "type": "object",
     "year": 2007,
+    "released": 1183420800000,
     "examine": "A barbarian table.",
     "id": "OBJ-25269",
     "label": "Barbarian table"
@@ -5386,6 +5984,7 @@
     "image": "Barbed_Bow.png",
     "type": "item",
     "year": 2012,
+    "released": 1331251200000,
     "examine": "A vicious, spiked bow.",
     "id": "ITEM-23818",
     "label": "Barbed bow"
@@ -5395,6 +5994,7 @@
     "image": "Picking_Barberry_bush.gif",
     "type": "item",
     "year": 2013,
+    "released": 1369008000000,
     "examine": "A barberry bush seed - plant in a bush patch.",
     "id": "ITEM-28266",
     "label": "Barberry seed"
@@ -5404,6 +6004,7 @@
     "image": "Barcrawl_card_interface.png",
     "type": "item",
     "year": 2002,
+    "released": 1017014400000,
     "examine": "The official Alfred Grimhand bar crawl card.",
     "id": "ITEM-455",
     "label": "Barcrawl card"
@@ -5413,6 +6014,7 @@
     "image": "Barge_foremen.png",
     "type": "npc",
     "year": 2007,
+    "released": 1180396800000,
     "examine": "Working hard.",
     "id": "NPC-5963",
     "label": "Barge foreman"
@@ -5422,6 +6024,7 @@
     "image": "Barge_workman_location.png",
     "type": "npc",
     "year": 2007,
+    "released": 1180396800000,
     "examine": "Working hard.",
     "id": "NPC-5959",
     "label": "Barge workman"
@@ -5431,6 +6034,7 @@
     "image": "Barker_toad_(Familiarisation).png",
     "type": "npc",
     "year": 2010,
+    "released": 1266278400000,
     "examine": "The only creature with a mouth big enough to hold a cannonball.",
     "id": "NPC-9482",
     "label": "Barker toad (Familiarisation)"
@@ -5440,6 +6044,7 @@
     "image": "Barlak.png",
     "type": "npc",
     "year": 2007,
+    "released": 1174348800000,
     "examine": "Sells bone goods.",
     "id": "NPC-5828",
     "label": "Barlak"
@@ -5449,6 +6054,7 @@
     "image": "Barmaid.png",
     "type": "npc",
     "year": 2005,
+    "released": 1117497600000,
     "examine": "These dwarf ladies are so attractive!",
     "id": "NPC-2178",
     "label": "Barmaid"
@@ -5458,6 +6064,7 @@
     "image": "The_Barmaid.png",
     "type": "npc",
     "year": 2012,
+    "released": 1355184000000,
     "examine": "Surula the sea orphan. She works behind the bar.",
     "id": "NPC-16550",
     "label": "The Barmaid"
@@ -5467,6 +6074,7 @@
     "image": "Barman_(Keldagrim).png",
     "type": "npc",
     "year": 2005,
+    "released": 1117497600000,
     "examine": "Makes a living off his tips I'm sure.",
     "id": "NPC-2179",
     "label": "Barman"
@@ -5476,6 +6084,7 @@
     "image": "Barman_(Grand_Tree).png",
     "type": "npc",
     "year": 2002,
+    "released": 1039651200000,
     "examine": "He serves cocktails.",
     "id": "NPC-849",
     "label": "Barman (Grand Tree)"
@@ -5485,6 +6094,7 @@
     "image": "Barman_(Port_Sarim)_location.png",
     "type": "npc",
     "year": 2005,
+    "released": 1133136000000,
     "examine": "Definitely overworked.",
     "id": "NPC-3000",
     "label": "Barman (Rat Pits)"
@@ -5494,6 +6104,7 @@
     "image": "Barnabus_Hurma.png",
     "type": "npc",
     "year": 2007,
+    "released": 1180396800000,
     "examine": "An archaeologist hard at work.",
     "id": "NPC-5932",
     "label": "Barnabus Hurma"
@@ -5503,6 +6114,7 @@
     "image": "Baron_Mauser.png",
     "type": "npc",
     "year": 2015,
+    "released": 1427068800000,
     "examine": "A hopeless, not-so-friendly and not-so-little stray cat.",
     "id": "NPC-20869",
     "label": "Baron Mauser"
@@ -5512,6 +6124,7 @@
     "image": "Barr_Rows.png",
     "type": "npc",
     "year": 2012,
+    "released": 1351814400000,
     "examine": "Has pillaged the dark crypts of Morytania.",
     "id": "NPC-16098",
     "label": "Barr Rows"
@@ -5521,6 +6134,7 @@
     "image": "Barracks_rubble.png",
     "type": "object",
     "year": 2020,
+    "released": 1585526400000,
     "examine": "The remains of one of the barrack's buildings.",
     "id": "OBJ-117050,117051",
     "label": "Barracks rubble"
@@ -5530,6 +6144,7 @@
     "image": "Barrel_(Viyeldi_caves).png",
     "type": "object",
     "year": 2003,
+    "released": 1061337600000,
     "examine": "Strangely, there's a locked barrel here, I wonder what's inside.",
     "id": "OBJ-2932",
     "label": "Barrel"
@@ -5539,6 +6154,7 @@
     "image": "Barrel_(Waterfall_Quest).png",
     "type": "object",
     "year": 2002,
+    "released": 1032825600000,
     "examine": "A wooden barrel, maybe a way off this rock.",
     "id": "OBJ-2022",
     "label": "Barrel"
@@ -5548,6 +6164,7 @@
     "image": "Barrel_(Rotten_apples).png",
     "type": "object",
     "year": 2006,
+    "released": 1153699200000,
     "examine": "An apple a day...",
     "id": "OBJ-16884,16885",
     "label": "Barrel"
@@ -5557,6 +6174,7 @@
     "image": "Barrel_bomb_detail.png",
     "type": "item",
     "year": 2004,
+    "released": 1095638400000,
     "examine": "A fused barrel full of fire oil.",
     "id": "ITEM-3219",
     "label": "Barrel bomb"
@@ -5566,6 +6184,7 @@
     "image": "Barrel_bomb_(unfused)_detail.png",
     "type": "item",
     "year": 2004,
+    "released": 1095638400000,
     "examine": "A barrel full of fire oil.",
     "id": "ITEM-3218",
     "label": "Barrel bomb"
@@ -5575,6 +6194,7 @@
     "image": "Barrel_of_Vinegar.png",
     "type": "object",
     "year": 2019,
+    "released": 1555286400000,
     "examine": "A barrel of vinegar; supposedly filled with a mythical concotion<sup class=\"noprint fact\">&#91;<span class=\"fact-text\" title=\"The preceding quote has been reproduced verbatim and is not a transcription error.\">sic</span>&#93;</sup> which can turn any food into a feast.",
     "id": "OBJ-29217",
     "label": "Barrel of Vinegar"
@@ -5584,6 +6204,7 @@
     "image": "Coal_tar_exact_spot.png",
     "type": "item",
     "year": 2004,
+    "released": 1095638400000,
     "examine": "A barrel full of coal-tar.",
     "id": "ITEM-3220",
     "label": "Barrel of coal-tar"
@@ -5593,6 +6214,7 @@
     "image": "Barrel_of_fish.png",
     "type": "object",
     "year": 2021,
+    "released": 1612742400000,
     "examine": "Something smells fishy.",
     "id": "OBJ-119245,119249",
     "label": "Barrel of fish"
@@ -5602,6 +6224,7 @@
     "image": "Barrel_of_fish_(Cyclosis).png",
     "type": "object",
     "year": 2016,
+    "released": 1476057600000,
     "examine": "For shooting.",
     "id": "OBJ-104800",
     "label": "Barrel of fish"
@@ -5611,6 +6234,7 @@
     "image": "Barrel_of_fishbones.png",
     "type": "object",
     "year": 2006,
+    "released": 1157328000000,
     "examine": "A wooden barrel, curiously full of bones which you think came from fish.",
     "id": "OBJ-18006",
     "label": "Barrel of fishbones"
@@ -5620,6 +6244,7 @@
     "image": "Barrel_of_flour.png",
     "type": "object",
     "year": 2003,
+    "released": 1055116800000,
     "examine": "Looks like this is where the cook stores flour.",
     "id": "OBJ-26122",
     "label": "Barrel of flour"
@@ -5629,6 +6254,7 @@
     "image": "Placed_monkey_barrel.gif",
     "type": "item",
     "year": 2012,
+    "released": 1337385600000,
     "examine": "Smells strongly of bananas.",
     "id": "ITEM-24295",
     "label": "Barrel of monkeys"
@@ -5638,6 +6264,7 @@
     "image": "Placed_monkey_barrel.gif",
     "type": "item",
     "year": 2015,
+    "released": 1435536000000,
     "examine": "Smells strongly of bananas.",
     "id": "ITEM-35081",
     "label": "Barrel of monkeys"
@@ -5647,6 +6274,7 @@
     "image": "Barrel_of_powder.png",
     "type": "object",
     "year": 2021,
+    "released": 1612742400000,
     "examine": "Caution, highly explosive.",
     "id": "OBJ-119246,119250",
     "label": "Barrel of powder"
@@ -5656,6 +6284,7 @@
     "image": "Barrel_of_salt.png",
     "type": "object",
     "year": 2019,
+    "released": 1555286400000,
     "examine": "Someone had to do a lot of grinding to generate this much salt.",
     "id": "OBJ-29218",
     "label": "Barrel of salt"
@@ -5665,6 +6294,7 @@
     "image": "Barrel_of_salt_(Cyclosis).png",
     "type": "object",
     "year": 2016,
+    "released": 1476057600000,
     "examine": "Someone had to do a lot of grinding to generate this much salt.",
     "id": "OBJ-104776",
     "label": "Barrel of salt"
@@ -5674,6 +6304,7 @@
     "image": "Barrelchest_Mk_I.png",
     "type": "npc",
     "year": 2018,
+    "released": 1521417600000,
     "examine": "Can't sing, can't dance, can handle an anchor a little.",
     "id": "NPC-25371",
     "label": "Barrelchest Mk I"
@@ -5683,6 +6314,7 @@
     "image": "Barrelchest_Mk_II.png",
     "type": "npc",
     "year": 2011,
+    "released": 1301270400000,
     "examine": "With that cannon, he's stopping The Adventurous from docking.",
     "id": "NPC-13577",
     "label": "Barrelchest Mk II (Bloodsplatter Isle)"
@@ -5692,6 +6324,7 @@
     "image": "Barrelchest_disguise_(Pieces_of_Hate)_equipped.png",
     "type": "item",
     "year": 2018,
+    "released": 1521417600000,
     "examine": "You're supposed to look LESS conspicuous in this?",
     "id": "ITEM-42353",
     "label": "Barrelchest disguise"
@@ -5701,6 +6334,7 @@
     "image": "Barri_location.png",
     "type": "npc",
     "year": 2017,
+    "released": 1492992000000,
     "examine": "Host of the portals. He's very busy.",
     "id": "NPC-24201",
     "label": "Barri"
@@ -5710,6 +6344,7 @@
     "image": "Barricade_(Battle_of_the_Monolith).png",
     "type": "object",
     "year": 2021,
+    "released": 1621814400000,
     "examine": "There are some perfectly good beams on there.",
     "id": "OBJ-119784",
     "label": "Barricade"
@@ -5719,6 +6354,7 @@
     "image": "Barrier_(City_of_Senntisten).png",
     "type": "object",
     "year": 2021,
+    "released": 1624233600000,
     "examine": "It's blocking the path.",
     "id": "OBJ-120475",
     "label": "Barrier"
@@ -5728,6 +6364,7 @@
     "image": "Barrier_(Glacor_Front).png",
     "type": "object",
     "year": 2021,
+    "released": 1630368000000,
     "examine": "Holds naughty monsters at bay.",
     "id": "OBJ-121284",
     "label": "Barrier"
@@ -5737,6 +6374,7 @@
     "image": "Barrier_(Gnome_Stronghold_Agility_Course).png",
     "type": "object",
     "year": 2009,
+    "released": 1245628800000,
     "examine": "It might be possible to vault over it.",
     "id": "OBJ-69389",
     "label": "Barrier"
@@ -5746,6 +6384,7 @@
     "image": "Barrier_(Gregorovic).png",
     "type": "object",
     "year": 2016,
+    "released": 1459209600000,
     "examine": "A magical barrier.",
     "id": "OBJ-101902",
     "label": "Barrier"
@@ -5755,6 +6394,7 @@
     "image": "Barrier_(Helwyr).png",
     "type": "object",
     "year": 2016,
+    "released": 1459209600000,
     "examine": "A magical barrier.",
     "id": "OBJ-101898",
     "label": "Barrier"
@@ -5764,6 +6404,7 @@
     "image": "Barrier_(Twin_Furies).png",
     "type": "object",
     "year": 2016,
+    "released": 1459209600000,
     "examine": "A magical barrier.",
     "id": "OBJ-101907",
     "label": "Barrier"
@@ -5773,6 +6414,7 @@
     "image": "Barrier_(TzKal-Zuk).png",
     "type": "object",
     "year": 2021,
+    "released": 1635120000000,
     "examine": "Hot.",
     "id": "OBJ-121919",
     "label": "Barrier"
@@ -5782,6 +6424,7 @@
     "image": "Barrier_(Vindicta_and_Gorvek).png",
     "type": "object",
     "year": 2016,
+    "released": 1459209600000,
     "examine": "A magical barrier.",
     "id": "OBJ-101910",
     "label": "Barrier"
@@ -5791,6 +6434,7 @@
     "image": "Bartak.png",
     "type": "npc",
     "year": 2007,
+    "released": 1174348800000,
     "examine": "He works the city's metal.",
     "id": "NPC-5778",
     "label": "Bartak"
@@ -5800,6 +6444,7 @@
     "image": "Bartender_(Heartstealer).png",
     "type": "npc",
     "year": 2021,
+    "released": 1612742400000,
     "examine": "I could get a beer from them.",
     "id": "NPC-27549",
     "label": "Bartender (Heartstealer)"
@@ -5809,6 +6454,7 @@
     "image": "Bartender_(Rusty_Anchor).png",
     "type": "npc",
     "year": 2001,
+    "released": 986515200000,
     "examine": "I could get a beer from him.",
     "id": "NPC-11706",
     "label": "Bartender (Rusty Anchor)"
@@ -5818,6 +6464,7 @@
     "image": "Telebank_fish.gif",
     "type": "item",
     "year": 2010,
+    "released": 1269302400000,
     "examine": "Stores fishing equipment and bait.",
     "id": "ITEM-15667",
     "label": "Basic tackle box"
@@ -5827,6 +6474,7 @@
     "image": "Basilisk_boots_detail.png",
     "type": "item",
     "year": 2014,
+    "released": 1413158400000,
     "examine": "Try to not look directly at them, just to be safe.",
     "id": "ITEM-32368",
     "label": "Basilisk boots"
@@ -5836,6 +6484,7 @@
     "image": "Basilisk_head_(mounted).png",
     "type": "object",
     "year": 2006,
+    "released": 1149033600000,
     "examine": "",
     "id": "OBJ-13483",
     "label": "Basilisk head"
@@ -5845,6 +6494,7 @@
     "image": "Bat_(Swept_Away)_detail.png",
     "type": "item",
     "year": 2008,
+    "released": 1225152000000,
     "examine": "Most at home in a dead tree.",
     "id": "ITEM-14072",
     "label": "Bat"
@@ -5854,6 +6504,7 @@
     "image": "Bat_bones_detail.png",
     "type": "item",
     "year": 2002,
+    "released": 1014768000000,
     "examine": "Ew, it's a pile of bones.",
     "id": "ITEM-530",
     "label": "Bat bones"
@@ -5863,6 +6514,7 @@
     "image": "Bat_staff_detail.png",
     "type": "item",
     "year": 2010,
+    "released": 1280880000000,
     "examine": "This air staff displays the carved head of a fierce bat.",
     "id": "ITEM-19327",
     "label": "Bat staff"
@@ -5872,6 +6524,7 @@
     "image": "Batal_(Worker).png",
     "type": "npc",
     "year": 2017,
+    "released": 1496620800000,
     "examine": "A fallen leader of the Menaphos workforce.",
     "id": "NPC-24488",
     "label": "Batal (Worker)"
@@ -5881,6 +6534,7 @@
     "image": "Battering_ram.png",
     "type": "npc",
     "year": 2016,
+    "released": 1455494400000,
     "examine": "'''&bull;'''  A powerful siege weapon.\n<br />'''&bull;'''  A sturdy tool with which to batter down the fortress door.",
     "id": "NPC-22284",
     "label": "Battering ram"
@@ -5890,6 +6544,7 @@
     "image": "Blowing_battle_horn.gif",
     "type": "item",
     "year": 2015,
+    "released": 1445212800000,
     "examine": "Consume this item to bestow the 'Charge!' buff.",
     "id": "ITEM-35904",
     "label": "Battle horn"
@@ -5899,6 +6554,7 @@
     "image": "Battle_for_the_Monolith_week_1_-_Zarosians_arrive.png",
     "type": "quest",
     "year": 2021,
+    "released": 1621814400000,
     "examine": "",
     "id": "QUEST-48ed696f80f1c35133f4a6dbd07fdfde",
     "label": "Battle of the Monolith (miniquest)"
@@ -5908,6 +6564,7 @@
     "image": "Battle_plans_journal.png",
     "type": "item",
     "year": 2020,
+    "released": 1585526400000,
     "examine": "Some fully restored battle plans.",
     "id": "ITEM-49874",
     "label": "Battle plans"
@@ -5917,6 +6574,7 @@
     "image": "Battle_standard_for_Armadyl.png",
     "type": "object",
     "year": 2015,
+    "released": 1437955200000,
     "examine": "Click this flag to allow PvP in support of Armadyl.",
     "id": "OBJ-98297",
     "label": "Battle standard for Armadyl"
@@ -5926,6 +6584,7 @@
     "image": "Battle_standard_for_Bandos.png",
     "type": "object",
     "year": 2015,
+    "released": 1437955200000,
     "examine": "Click this flag to allow PvP in support of Bandos.",
     "id": "OBJ-98298",
     "label": "Battle standard for Bandos"
@@ -5935,6 +6594,7 @@
     "image": "Battle_standard_for_Brassica_Prime.png",
     "type": "object",
     "year": 2015,
+    "released": 1437955200000,
     "examine": "Click this flag to allow PvP in support of Brassica Prime.",
     "id": "OBJ-98301",
     "label": "Battle standard for Brassica Prime"
@@ -5944,6 +6604,7 @@
     "image": "Battle_standard_for_Saradomin.png",
     "type": "object",
     "year": 2015,
+    "released": 1437955200000,
     "examine": "Click this flag to allow PvP in support of Saradomin.",
     "id": "OBJ-98299",
     "label": "Battle standard for Saradomin"
@@ -5953,6 +6614,7 @@
     "image": "Battle_standard_for_Seren.png",
     "type": "object",
     "year": 2015,
+    "released": 1437955200000,
     "examine": "Click this flag to allow PvP in support of Seren.",
     "id": "OBJ-98304",
     "label": "Battle standard for Seren"
@@ -5962,6 +6624,7 @@
     "image": "Battle_standard_for_Zamorak.png",
     "type": "object",
     "year": 2015,
+    "released": 1437955200000,
     "examine": "Click this flag to allow PvP in support of Zamorak.",
     "id": "OBJ-98300",
     "label": "Battle standard for Zamorak"
@@ -5971,6 +6634,7 @@
     "image": "Battle_standard_for_Zaros.png",
     "type": "object",
     "year": 2015,
+    "released": 1437955200000,
     "examine": "Click this flag to allow PvP in support of Zaros.",
     "id": "OBJ-98303",
     "label": "Battle standard for Zaros"
@@ -5980,6 +6644,7 @@
     "image": "Bauble_detail.png",
     "type": "item",
     "year": 2013,
+    "released": 1387238400000,
     "examine": "A shiny Christmas bauble. This could be used to decorate the tree in the Lumbridge crater.",
     "id": "ITEM-30394",
     "label": "Bauble"
@@ -5989,6 +6654,7 @@
     "image": "Bauble_(2011_Christmas_event).png",
     "type": "npc",
     "year": 2011,
+    "released": 1324339200000,
     "examine": "How has it not smashed with all the bouncing?",
     "id": "NPC-14740",
     "label": "Bauble (2011 Christmas event)"
@@ -5998,6 +6664,7 @@
     "image": "Bay_window.png",
     "type": "object",
     "year": 2004,
+    "released": 1078272000000,
     "examine": "This lets in more light.",
     "id": "OBJ-1852",
     "label": "Bay window"
@@ -6007,6 +6674,7 @@
     "image": "Bayek.png",
     "type": "npc",
     "year": 2022,
+    "released": 1641254400000,
     "examine": "A sleepy-looking crocodile.",
     "id": "NPC-28707",
     "label": "Bayek"
@@ -6016,6 +6684,7 @@
     "image": "Beach_ball_rolling_portal.png",
     "type": "object",
     "year": 2015,
+    "released": 1436745600000,
     "examine": "A portal to an island where you can chase a beach ball down a hill. Gives Agility XP.",
     "id": "OBJ-97278",
     "label": "Beach ball rolling portal"
@@ -6025,6 +6694,7 @@
     "image": "Beach_dinosaur_(grown).png",
     "type": "npc",
     "year": 2019,
+    "released": 1574640000000,
     "examine": "A beach dinosaur for your player owned farm.",
     "id": "NPC-14874",
     "label": "Beach dinosaur"
@@ -6034,6 +6704,7 @@
     "image": "Mahjarrat_Ritual_Site_map.png",
     "type": "item",
     "year": 2011,
+    "released": 1315958400000,
     "examine": "Full of godly power.",
     "id": "ITEM-21808",
     "label": "Beacon"
@@ -6043,6 +6714,7 @@
     "image": "Beanstump.png",
     "type": "object",
     "year": 2007,
+    "released": 1180915200000,
     "examine": "The stump from a large beanstalk.",
     "id": "OBJ-24738",
     "label": "Beanstump"
@@ -6052,6 +6724,7 @@
     "image": "Bear_pelt_(saga).png",
     "type": "object",
     "year": 2011,
+    "released": 1306886400000,
     "examine": "Smelly and worn. Skaldrun might want to look at this.",
     "id": "OBJ-4318",
     "label": "Bear pelt"
@@ -6061,6 +6734,7 @@
     "image": "Beardless_dwarf.png",
     "type": "npc",
     "year": 2013,
+    "released": 1380672000000,
     "examine": "Why dwarf have no beard?",
     "id": "NPC-18293",
     "label": "Beardless dwarf"
@@ -6070,6 +6744,7 @@
     "image": "Bearhead_detail.png",
     "type": "item",
     "year": 2005,
+    "released": 1110153600000,
     "examine": "Quite ferocious looking.",
     "id": "ITEM-4502",
     "label": "Bearhead"
@@ -6079,6 +6754,7 @@
     "image": "The_Beast.png",
     "type": "npc",
     "year": 2005,
+    "released": 1133136000000,
     "examine": "Who ate all the rats?",
     "id": "NPC-2941",
     "label": "The Beast"
@@ -6088,6 +6764,7 @@
     "image": "Beastkeeper_helm_journal.png",
     "type": "item",
     "year": 2020,
+    "released": 1585526400000,
     "examine": "A fully restored beastkeeper helm.",
     "id": "ITEM-49685",
     "label": "Beastkeeper helm"
@@ -6097,6 +6774,7 @@
     "image": "Beaver_(Familiarisation).png",
     "type": "npc",
     "year": 2010,
+    "released": 1266278400000,
     "examine": "Looks pretty eager!",
     "id": "NPC-9475",
     "label": "Beaver (Familiarisation)"
@@ -6106,6 +6784,7 @@
     "image": "Summoning_Familiar.gif",
     "type": "item",
     "year": 2008,
+    "released": 1200355200000,
     "examine": "I can summon a beaver familiar with this.",
     "id": "ITEM-12021",
     "label": "Beaver pouch"
@@ -6115,6 +6794,7 @@
     "image": "Bed_(City_of_Senntisten,_Castyx_the_Lascivious).png",
     "type": "object",
     "year": 2021,
+    "released": 1624233600000,
     "examine": "Oddly inviting considering the other furniture here.",
     "id": "OBJ-120642",
     "label": "Bed"
@@ -6124,6 +6804,7 @@
     "image": "Bed_(City_of_Senntisten,_Gready_the_Corpulent).png",
     "type": "object",
     "year": 2021,
+    "released": 1624233600000,
     "examine": "Whoever lived here was a slob.",
     "id": "OBJ-120641",
     "label": "Bed"
@@ -6133,6 +6814,7 @@
     "image": "Beefy_Bill's_wagon.png",
     "type": "npc",
     "year": 2009,
+    "released": 1237939200000,
     "examine": "Specialist meat transporter.",
     "id": "NPC-246",
     "label": "Beefy Bill"
@@ -6142,6 +6824,7 @@
     "image": "Beer_(Birthright_of_the_Dwarves).png",
     "type": "npc",
     "year": 2013,
+    "released": 1380672000000,
     "examine": "Mmm...beer.",
     "id": "NPC-18354",
     "label": "Beer (Birthright of the Dwarves)"
@@ -6151,6 +6834,7 @@
     "image": "Rellekka_Long_Hall_Bar_interior.png",
     "type": "item",
     "year": 2004,
+    "released": 1099353600000,
     "examine": "Frothy and alcoholic.",
     "id": "ITEM-3803",
     "label": "Beer"
@@ -6160,6 +6844,7 @@
     "image": "Bees.png",
     "type": "npc",
     "year": 2006,
+    "released": 1151971200000,
     "examine": "<ul><li>They love bees!</li><li>A swarm of vicious beeeeees!</li></ul>",
     "id": "NPC-16841",
     "label": "Bees"
@@ -6169,6 +6854,7 @@
     "image": "Telebank_fish.gif",
     "type": "item",
     "year": 2010,
+    "released": 1269302400000,
     "examine": "Stores fishing equipment and bait.",
     "id": "ITEM-15666",
     "label": "Beginner's tackle box"
@@ -6178,6 +6864,7 @@
     "image": "Smoke_devil_old.png",
     "type": "npc",
     "year": 2013,
+    "released": 1360022400000,
     "examine": "N/A",
     "id": "NPC-16838",
     "label": "Beguiling smoke devil"
@@ -6187,6 +6874,7 @@
     "image": "Beige_spider.png",
     "type": "npc",
     "year": 2010,
+    "released": 1287360000000,
     "examine": "A spider with beige markings.",
     "id": "NPC-12430",
     "label": "Beige spider"
@@ -6196,6 +6884,7 @@
     "image": "Bell_(Flashback).png",
     "type": "npc",
     "year": 2021,
+    "released": 1617667200000,
     "examine": "A cheeky little demon who is apparently good friends with Ava.",
     "id": "NPC-27779",
     "label": "Bell (Flashback)"
@@ -6205,6 +6894,7 @@
     "image": "Bellemorde.png",
     "type": "npc",
     "year": 2005,
+    "released": 1133136000000,
     "examine": "Unkempt and a bit smelly.",
     "id": "NPC-2942",
     "label": "Bellemorde"
@@ -6214,6 +6904,7 @@
     "image": "Bells.png",
     "type": "object",
     "year": 2006,
+    "released": 1149033600000,
     "examine": "",
     "id": "OBJ-13215",
     "label": "Bells"
@@ -6223,6 +6914,7 @@
     "image": "Belongings.png",
     "type": "object",
     "year": 2015,
+    "released": 1435536000000,
     "examine": "A pile of V's various belongings.",
     "id": "OBJ-97546",
     "label": "Belongings"
@@ -6232,6 +6924,7 @@
     "image": "Belt_buckle_detail.png",
     "type": "item",
     "year": 2003,
+    "released": 1057708800000,
     "examine": "Used to hold up trousers!",
     "id": "ITEM-684",
     "label": "Belt buckle"
@@ -6241,6 +6934,7 @@
     "image": "Ben.png",
     "type": "npc",
     "year": 2019,
+    "released": 1574640000000,
     "examine": "Enjoys smelling flowers.",
     "id": "NPC-5151",
     "label": "Ben"
@@ -6250,6 +6944,7 @@
     "image": "Bench_(Rimmington).png",
     "type": "object",
     "year": 2016,
+    "released": 1480896000000,
     "examine": "There is something mystical about this bench...",
     "id": "OBJ-106034",
     "label": "Bench"
@@ -6259,6 +6954,7 @@
     "image": "Bench_with_lathe.png",
     "type": "object",
     "year": 2006,
+    "released": 1149033600000,
     "examine": "",
     "id": "OBJ-13708",
     "label": "Workbench"
@@ -6268,6 +6964,7 @@
     "image": "Bench_with_vice.png",
     "type": "object",
     "year": 2006,
+    "released": 1149033600000,
     "examine": "",
     "id": "OBJ-13707",
     "label": "Workbench"
@@ -6277,6 +6974,7 @@
     "image": "Beneath_Cursed_Tides.png",
     "type": "quest",
     "year": 2015,
+    "released": 1450051200000,
     "examine": "",
     "id": "QUEST-269973c945cc8e089379cf1445056476",
     "label": "Beneath Cursed Tides"
@@ -6286,6 +6984,7 @@
     "image": "Benedict.png",
     "type": "npc",
     "year": 2016,
+    "released": 1460937600000,
     "examine": "A rather distinguished pack yak.",
     "id": "NPC-22549",
     "label": "Benedict"
@@ -6295,6 +6994,7 @@
     "image": "Benedict's_World_Tour_(miniquest).png",
     "type": "quest",
     "year": 2016,
+    "released": 1460937600000,
     "examine": "",
     "id": "QUEST-d0524125ecd7d67b7fb1e97734c3b039",
     "label": "Benedict's World Tour (miniquest)"
@@ -6304,6 +7004,7 @@
     "image": "Bennett.png",
     "type": "npc",
     "year": 2016,
+    "released": 1468195200000,
     "examine": "A champion of the Port Sarim prison guard.",
     "id": "NPC-22936",
     "label": "Bennett (guard champion)"
@@ -6313,6 +7014,7 @@
     "image": "Snow_Imp.png",
     "type": "npc",
     "year": 2008,
+    "released": 1229385600000,
     "examine": "It looks right at home here.",
     "id": "NPC-8514",
     "label": "Benny (Snow imp)"
@@ -6322,6 +7024,7 @@
     "image": "Bentamir.png",
     "type": "npc",
     "year": 2005,
+    "released": 1117497600000,
     "examine": "This dwarf doesn't seem to be very well off.",
     "id": "NPC-2192",
     "label": "Bentamir"
@@ -6331,6 +7034,7 @@
     "image": "Bernard_Campbell.png",
     "type": "npc",
     "year": 2016,
+    "released": 1479686400000,
     "examine": "'''&bull;''' Betrayal is common for men with no conscience.<br>'''&bull;''' You have judged him to be innocent of his alleged crimes.",
     "id": "NPC-23656",
     "label": "Bernard Campbell"
@@ -6340,6 +7044,7 @@
     "image": "Matt_the_turkey_protester.png",
     "type": "npc",
     "year": 2011,
+    "released": 1321920000000,
     "examine": "An angry-looking turkey.",
     "id": "NPC-14680",
     "label": "Bernie the turkey protestor"
@@ -6349,6 +7054,7 @@
     "image": "Berserker_helm_detail.png",
     "type": "item",
     "year": 2004,
+    "released": 1099353600000,
     "examine": "This helmet is worn by berserkers.",
     "id": "ITEM-3751",
     "label": "Berserker helm"
@@ -6358,6 +7064,7 @@
     "image": "Berserker_helm_(charged)_chathead.png",
     "type": "item",
     "year": 2008,
+    "released": 1200355200000,
     "examine": "This helmet is worn by berserkers.",
     "id": "ITEM-12675",
     "label": "Berserker helm (charged)"
@@ -6367,6 +7074,7 @@
     "image": "Berserker_helm_(charged)_chathead.png",
     "type": "item",
     "year": 2008,
+    "released": 1200355200000,
     "examine": "This helmet is worn by berserkers.",
     "id": "ITEM-12674",
     "label": "Berserker helm (e)"
@@ -6376,6 +7084,7 @@
     "image": "Bestial_ghost.png",
     "type": "npc",
     "year": 2014,
+    "released": 1413763200000,
     "examine": "An animalistic Crandorian ghost.",
     "id": "NPC-20165",
     "label": "Bestial ghost"
@@ -6385,6 +7094,7 @@
     "image": "Bestopet.png",
     "type": "npc",
     "year": 2017,
+    "released": 1496620800000,
     "examine": "Yes she is. Yes she is! Aww.",
     "id": "NPC-24408",
     "label": "Bestopet"
@@ -6394,6 +7104,7 @@
     "image": "Bethan.png",
     "type": "npc",
     "year": 2016,
+    "released": 1482192000000,
     "examine": "An effervescent elfin.",
     "id": "NPC-23770",
     "label": "Bethan"
@@ -6403,6 +7114,7 @@
     "image": "Bettamax.png",
     "type": "npc",
     "year": 2010,
+    "released": 1290556800000,
     "examine": "A botanist in training.",
     "id": "NPC-13106",
     "label": "Bettamax"
@@ -6412,6 +7124,7 @@
     "image": "Betty_(Violet_is_Blue).png",
     "type": "npc",
     "year": 2018,
+    "released": 1545004800000,
     "examine": "Betty the yeti.",
     "id": "NPC-8750",
     "label": "Betty (Violet is Blue)"
@@ -6421,6 +7134,7 @@
     "image": "Between_a_Rock.png",
     "type": "quest",
     "year": 2005,
+    "released": 1111363200000,
     "examine": "",
     "id": "QUEST-0afb8afa6123f7220632fe4c7dfb1dd5",
     "label": "Between a Rock..."
@@ -6430,6 +7144,7 @@
     "image": "Bibliotheke_debris.png",
     "type": "object",
     "year": 2020,
+    "released": 1585526400000,
     "examine": "What a library this must have once been...",
     "id": "OBJ-116681",
     "label": "Bibliotheke debris"
@@ -6439,6 +7154,7 @@
     "image": "Big_Chompy_Bird_Hunting.png",
     "type": "quest",
     "year": 2004,
+    "released": 1084838400000,
     "examine": "",
     "id": "QUEST-57cabd1630c8ace191d74b7bcf76a919",
     "label": "Big Chompy Bird Hunting"
@@ -6448,6 +7164,7 @@
     "image": "Big_Dave.png",
     "type": "npc",
     "year": 2002,
+    "released": 1022544000000,
     "examine": "I can see how he got his name.",
     "id": "NPC-228",
     "label": "Big Dave"
@@ -6457,6 +7174,7 @@
     "image": "Big_High_War_God_shrine_(scenery).png",
     "type": "object",
     "year": 2020,
+    "released": 1585526400000,
     "examine": "A shrine to Bandos.",
     "id": "OBJ-117227,117228",
     "label": "Big High War God shrine"
@@ -6466,6 +7184,7 @@
     "image": "Big_Rock.png",
     "type": "npc",
     "year": 2011,
+    "released": 1294099200000,
     "examine": "A big troll.",
     "id": "NPC-13326",
     "label": "Big Rock (NPC)"
@@ -6475,6 +7194,7 @@
     "image": "Big_bass_detail.png",
     "type": "item",
     "year": 2006,
+    "released": 1149033600000,
     "examine": "Whopper! I should get this stuffed!",
     "id": "ITEM-7989",
     "label": "Big bass"
@@ -6484,6 +7204,7 @@
     "image": "Big_block_(Anachronia_Agility_Course).png",
     "type": "object",
     "year": 2019,
+    "released": 1562544000000,
     "examine": "It's blocking my way.",
     "id": "OBJ-113713",
     "label": "Big block"
@@ -6493,6 +7214,7 @@
     "image": "Big_bloody_lizard!.png",
     "type": "npc",
     "year": 2020,
+    "released": 1595808000000,
     "examine": "It has teeth almost as big as Thok's arm. Thok's arms are very big, though, so only almost.",
     "id": "NPC-27168",
     "label": "Big bloody lizard!"
@@ -6502,6 +7224,7 @@
     "image": "Big_bones_detail.png",
     "type": "item",
     "year": 2001,
+    "released": 997660800000,
     "examine": "Ew, it's a pile of bones. Bury for Prayer XP.",
     "id": "ITEM-532",
     "label": "Big bones"
@@ -6511,6 +7234,7 @@
     "image": "Big_door_(Bandos'_Stronghold).png",
     "type": "object",
     "year": 2007,
+    "released": 1188259200000,
     "examine": "What's this?",
     "id": "OBJ-26384",
     "label": "Big door"
@@ -6520,6 +7244,7 @@
     "image": "Big_door_(Commander_Zilyana).png",
     "type": "object",
     "year": 2007,
+    "released": 1188259200000,
     "examine": "Looks foreboding!",
     "id": "OBJ-26427",
     "label": "Big door"
@@ -6529,6 +7254,7 @@
     "image": "Big_door_(General_Graardor).png",
     "type": "object",
     "year": 2007,
+    "released": 1188259200000,
     "examine": "Looks foreboding!",
     "id": "OBJ-26425",
     "label": "Big door"
@@ -6538,6 +7264,7 @@
     "image": "Big_door_(K'ril_Tsutsaroth).png",
     "type": "object",
     "year": 2007,
+    "released": 1188259200000,
     "examine": "Looks foreboding!",
     "id": "OBJ-26428",
     "label": "Big door"
@@ -6547,6 +7274,7 @@
     "image": "Big_door_(Kree'arra).png",
     "type": "object",
     "year": 2007,
+    "released": 1188259200000,
     "examine": "Looks foreboding!",
     "id": "OBJ-26426",
     "label": "Big door"
@@ -6556,6 +7284,7 @@
     "image": "Big_door_(Once_Upon_a_Time_in_Gielinor).png",
     "type": "object",
     "year": 2021,
+    "released": 1637539200000,
     "examine": "Leads to the heart of the island.",
     "id": "OBJ-122123",
     "label": "Big door"
@@ -6565,6 +7294,7 @@
     "image": "Big_fishing_net_detail.png",
     "type": "item",
     "year": 2002,
+    "released": 1014768000000,
     "examine": "Useful for catching lots of fish.",
     "id": "ITEM-305",
     "label": "Big fishing net"
@@ -6574,6 +7304,7 @@
     "image": "Big_rock_detail.png",
     "type": "item",
     "year": 2011,
+    "released": 1294099200000,
     "examine": "A big rock.",
     "id": "ITEM-20091",
     "label": "Big rock"
@@ -6583,6 +7314,7 @@
     "image": "Big_sprouts_location.png",
     "type": "npc",
     "year": 2016,
+    "released": 1476921600000,
     "examine": "A huge variety of the normal sprout, made from lush blossoms.",
     "id": "NPC-23356",
     "label": "Big sprout"
@@ -6592,6 +7324,7 @@
     "image": "Big_urchin.png",
     "type": "npc",
     "year": 2015,
+    "released": 1442793600000,
     "examine": "I can help pull this to shore for a reward!",
     "id": "NPC-21776",
     "label": "Big urchin"
@@ -6601,6 +7334,7 @@
     "image": "Big_vase.png",
     "type": "object",
     "year": 2005,
+    "released": 1109030400000,
     "examine": "An elegant ceramic pot tarnished with the dirt of a hundred years.",
     "id": "OBJ-45297",
     "label": "Big vase"
@@ -6610,6 +7344,7 @@
     "image": "Big_sprouts_location.png",
     "type": "npc",
     "year": 2016,
+    "released": 1476921600000,
     "examine": "A huge variety of the normal sprout, not as cute as it once was.",
     "id": "NPC-23357",
     "label": "Big zombie sprout"
@@ -6619,6 +7354,7 @@
     "image": "BikKra.png",
     "type": "npc",
     "year": 2014,
+    "released": 1416787200000,
     "examine": "A powerful monument with a mind of its own.",
     "id": "NPC-20396",
     "label": "BikKra"
@@ -6628,6 +7364,7 @@
     "image": "Bill_(Zygomite).png",
     "type": "npc",
     "year": 2019,
+    "released": 1574640000000,
     "examine": "His favourite item is his magic pot.",
     "id": "NPC-5152",
     "label": "Bill (Zygomite)"
@@ -6637,6 +7374,7 @@
     "image": "Bill_Blakey.png",
     "type": "npc",
     "year": 2009,
+    "released": 1244505600000,
     "examine": "He looks lovelorn.",
     "id": "NPC-8722",
     "label": "Bill Blakey"
@@ -6646,6 +7384,7 @@
     "image": "Billy_(Dimension_of_Disaster).png",
     "type": "object",
     "year": 2015,
+    "released": 1427068800000,
     "examine": "Zemouregal's number one advisor.",
     "id": "OBJ-96202",
     "label": "Billy"
@@ -6655,6 +7394,7 @@
     "image": "Billy_(RuneScape_Road_Trip).png",
     "type": "object",
     "year": 2015,
+    "released": 1430438400000,
     "examine": "An idol in the shape of a goat.",
     "id": "OBJ-87323",
     "label": "Billy"
@@ -6664,6 +7404,7 @@
     "image": "Billy.png",
     "type": "npc",
     "year": 2004,
+    "released": 1092009600000,
     "examine": "Billy is a baa-a-a-d goat.",
     "id": "NPC-1093",
     "label": "Billy (goat)"
@@ -6673,6 +7414,7 @@
     "image": "Billy's_birdhouse.png",
     "type": "object",
     "year": 2016,
+    "released": 1476057600000,
     "examine": "This is where the bird collector lives.",
     "id": "OBJ-104786",
     "label": "Billy's birdhouse"
@@ -6682,6 +7424,7 @@
     "image": "Billy,_a_guard_of_Falador.png",
     "type": "npc",
     "year": 2005,
+    "released": 1125360000000,
     "examine": "Someone should have warned him when he signed up.",
     "id": "NPC-2586",
     "label": "Billy, a guard of Falador"
@@ -6691,6 +7434,7 @@
     "image": "Enchanting_vials.gif",
     "type": "item",
     "year": 2003,
+    "released": 1061337600000,
     "examine": "An ancient tome on Demonology.",
     "id": "ITEM-730",
     "label": "Binding book"
@@ -6700,6 +7444,7 @@
     "image": "Biohazard.png",
     "type": "quest",
     "year": 2002,
+    "released": 1035331200000,
     "examine": "",
     "id": "QUEST-7c6fa146187353f564d89218338b00c4",
     "label": "Biohazard"
@@ -6709,6 +7454,7 @@
     "image": "The_Biologist.png",
     "type": "npc",
     "year": 2012,
+    "released": 1355184000000,
     "examine": "All ready for a jolly spiffing adventure with lashings of pathogens!",
     "id": "NPC-16502",
     "label": "The Biologist"
@@ -6718,6 +7464,7 @@
     "image": "Birthright_of_the_Dwarves.png",
     "type": "quest",
     "year": 2013,
+    "released": 1380672000000,
     "examine": "",
     "id": "QUEST-06f74f0ff628f8997c7d618878dd8226",
     "label": "Birthright of the Dwarves"
@@ -6727,6 +7474,7 @@
     "image": "Bitternut_Sign.png",
     "type": "object",
     "year": 2006,
+    "released": 1151971200000,
     "examine": "This shows that this hopper is for Bitternuts.",
     "id": "OBJ-15986",
     "label": "Bitternut Sign"
@@ -6736,6 +7484,7 @@
     "image": "Bjorn.png",
     "type": "npc",
     "year": 2004,
+    "released": 1099353600000,
     "examine": "Looks like he's having fun!",
     "id": "NPC-1284",
     "label": "Bjorn"
@@ -6745,6 +7494,7 @@
     "image": "Black_2h_crossbow_detail.png",
     "type": "item",
     "year": 2014,
+    "released": 1416182400000,
     "examine": "A black two-handed crossbow.",
     "id": "ITEM-33500",
     "label": "Black 2h crossbow"
@@ -6754,6 +7504,7 @@
     "image": "Black_Guard_quartermaster.png",
     "type": "npc",
     "year": 2013,
+    "released": 1380672000000,
     "examine": "In charge of the army's supplies.",
     "id": "NPC-18813",
     "label": "Black Guard quartermaster"
@@ -6763,6 +7514,7 @@
     "image": "Black_Knight.png",
     "type": "npc",
     "year": 2011,
+    "released": 1320105600000,
     "examine": "A dark-hearted knight.",
     "id": "NPC-14446",
     "label": "Black Knight (Dominion Tower)"
@@ -6772,6 +7524,7 @@
     "image": "Portal_(Battle_of_Lumbridge)_location.png",
     "type": "npc",
     "year": 2013,
+    "released": 1373414400000,
     "examine": "He looks stern.",
     "id": "NPC-17171",
     "label": "Black Knight (The Battle of Lumbridge)"
@@ -6781,6 +7534,7 @@
     "image": "Black_Knight_(NPC).png",
     "type": "npc",
     "year": 2010,
+    "released": 1286323200000,
     "examine": "One of the Black Knights.",
     "id": "NPC-12319",
     "label": "Black Knight (The Void Stares Back)"
@@ -6790,6 +7544,7 @@
     "image": "Black_Knight_captain's_helm_chathead.png",
     "type": "item",
     "year": 2013,
+    "released": 1376352000000,
     "examine": "The full-face helmet of a Black Knight captain. (The Death of Chivalry)",
     "id": "ITEM-28912",
     "label": "Black Knight captain's helm"
@@ -6799,6 +7554,7 @@
     "image": "Black_knight_doorkeeper.png",
     "type": "npc",
     "year": 2010,
+    "released": 1281398400000,
     "examine": "He didn't do his job well enough.",
     "id": "NPC-11691",
     "label": "Black Knight doorkeeper"
@@ -6808,6 +7564,7 @@
     "image": "A_Void_Dance_Korasi_strikes_the_guard.png",
     "type": "npc",
     "year": 2010,
+    "released": 1281398400000,
     "examine": "An ever-vigilant Black Knight on watch for intruders.",
     "id": "NPC-11685",
     "label": "Black Knight guard"
@@ -6817,6 +7574,7 @@
     "image": "Black_Knight's_Fortress.png",
     "type": "quest",
     "year": 2001,
+    "released": 986515200000,
     "examine": "",
     "id": "QUEST-6e513873750ed76f477215fa38b0ee63",
     "label": "Black Knights' Fortress (quest)"
@@ -6826,6 +7584,7 @@
     "image": "The_Black_Marketeer.png",
     "type": "npc",
     "year": 2012,
+    "released": 1355184000000,
     "examine": "Felix can get you anything. For a price, of course.",
     "id": "NPC-16552",
     "label": "The Black Marketeer"
@@ -6835,6 +7594,7 @@
     "image": "Black_boater_chathead.png",
     "type": "item",
     "year": 2006,
+    "released": 1140393600000,
     "examine": "Stylish!",
     "id": "ITEM-7327",
     "label": "Black boater"
@@ -6844,6 +7604,7 @@
     "image": "Black_brutal_5_detail.png",
     "type": "item",
     "year": 2005,
+    "released": 1116288000000,
     "examine": "Blunt black arrow...ouch",
     "id": "ITEM-4788",
     "label": "Black brutal"
@@ -6853,6 +7614,7 @@
     "image": "Black_cavalier_chathead.png",
     "type": "item",
     "year": 2004,
+    "released": 1083715200000,
     "examine": "All for one, and one for all!",
     "id": "ITEM-2643",
     "label": "Black cavalier"
@@ -6862,6 +7624,7 @@
     "image": "Black_desert_shirt_detail.png",
     "type": "item",
     "year": 2005,
+    "released": 1131926400000,
     "examine": "A desert shirt stained black with mushroom ink.",
     "id": "ITEM-6750",
     "label": "Black desert shirt"
@@ -6871,6 +7634,7 @@
     "image": "Black_dragon_(NPC).png",
     "type": "npc",
     "year": 2018,
+    "released": 1535932800000,
     "examine": "A dragon for your player owned farm.",
     "id": "NPC-25753",
     "label": "Black dragon (player-owned farm)"
@@ -6880,6 +7644,7 @@
     "image": "Black_dragon_egg_(NPC).png",
     "type": "npc",
     "year": 2018,
+    "released": 1535932800000,
     "examine": "This will hatch into a mighty dragon.",
     "id": "NPC-25758",
     "label": "Black dragon egg (player-owned farm)"
@@ -6889,6 +7654,7 @@
     "image": "Black_dragonhide_body_detail.png",
     "type": "item",
     "year": 2004,
+    "released": 1079913600000,
     "examine": "Made from 100% real dragonhide.",
     "id": "ITEM-2503",
     "label": "Black dragonhide body"
@@ -6898,6 +7664,7 @@
     "image": "Black_dragonhide_boots_detail.png",
     "type": "item",
     "year": 2017,
+    "released": 1507507200000,
     "examine": "Boots made from 100% real dragonhide.",
     "id": "ITEM-41215",
     "label": "Black dragonhide boots"
@@ -6907,6 +7674,7 @@
     "image": "Black_gold-trimmed_armour_set_(sk)_detail.png",
     "type": "item",
     "year": 2007,
+    "released": 1196035200000,
     "examine": "Grand Exchange set containing a full helm, platebody, skirt and kiteshield.",
     "id": "ITEM-11884",
     "label": "Black gold-trimmed armour set (sk)"

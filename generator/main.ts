@@ -158,6 +158,7 @@ const makePageImagesRequest = async (titles = []) => {
 
     // Sanitise our printouts
     v['year'] = released.getFullYear();
+    v['released'] = parseInt(po['Release date'][0]['timestamp']) * 1000;
     v['examine'] = po['Examine'].length ? po['Examine'][0] : '';
 
     switch (v.type) {

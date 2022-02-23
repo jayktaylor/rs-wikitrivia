@@ -6,6 +6,7 @@ export interface Item {
   type: string;
   fullurl: string;
   year: number;
+  released: number;
 }
 
 export type PlayedItem = Item & {

@@ -16,7 +16,7 @@ export default function Game() {
   React.useEffect(() => {
     const fetchGameData = async () => {
       const res = await axios.get(
-        "https://gist.githubusercontent.com/jayktaylor/05260e901b1420632260eb4cffa3eefb/raw/8a25862c2845b0fa99af8b37553c1a4a911033a4/test.json"
+        "https://gist.githubusercontent.com/jayktaylor/05260e901b1420632260eb4cffa3eefb/raw/1f1284d890166b7f62b966a55839ddfe51adc2d0/test.json"
       );
       const items: Item[] = res.data
         // Filter out questions which give away their answers
