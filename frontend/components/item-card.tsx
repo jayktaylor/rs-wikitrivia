@@ -91,7 +91,7 @@ export default function ItemCard(props: Props) {
               >
                 <span>
                   {"played" in item
-                    ? moment(item.released).format('MMM D YYYY')
+                    ? moment(item.released).format('D MMM YYYY')
                     : 'released'}
                 </span>
               </animated.div>
@@ -107,7 +107,7 @@ export default function ItemCard(props: Props) {
             >
               <span className={styles.label}>{capitalize(item.label)}</span>
               <span className={styles.date}>
-                Released: {moment(item.released).format('MMM D YYYY')}
+                Released: {moment(item.released).format('D MMM YYYY')}
               </span>
               <span className={styles.description}>{item.examine}</span>
               <a

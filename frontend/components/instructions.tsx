@@ -21,6 +21,7 @@ export default function Instructions(props: Props) {
           width='100px'
         />
         <h2>Place the cards on the timeline in the correct order.</h2>
+        <h3>Earn a <strong>10</strong> streak for a <span className={styles.silver}>silver medal</span>, and a <strong>20</strong> streak for a <span className={styles.gold}>gold medal</span>.</h3>
         {highscore !== 0 && (
           <div className={styles.highscoreWrapper}>
             <Score score={highscore} title="Best streak" />
@@ -37,17 +38,10 @@ export default function Instructions(props: Props) {
             >
               the RuneScape Wiki
             </a>
-            .<br />Have feedback? Please report it on{" "}
-            <a
-              href="https://github.com/jayktaylor/rs-wikitrivia/issues/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              GitHub
-            </a>
             .
           </div>
           <div className={styles.copyright}>
+            Created by <a href="https://github.com/jayktaylor/rs-wikitrivia/" target="_blank" rel="noopener noreferrer">Jayden Bailey</a>, forked from a game by <a href="https://github.com/tom-james-watson" target="_blank" rel="noopener noreferrer">Tom Watson</a>.<br />
             RuneScape and RuneScape Old School are the trademarks of Jagex Limited and are used with the permission of Jagex.
           </div>
         </div>
