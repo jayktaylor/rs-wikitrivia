@@ -1,5 +1,8 @@
-export function createWikiImage(image: string, width = 300): string {
-  return `https://runescape.wiki/index.php?title=Special:Redirect/file/${encodeURIComponent(
-    image
-  )}&width=${width}`;
+const BASE_IMAGE_URL = "https://runescape.wiki";
+
+export function createWikiImage(image: string): string {
+  image = image.replace(/ /g,"_")
+  image = image.replace(/\(/g, '%28').replace(/\)/g, '%29')
+  const cb = '48781';
+  return BASE_IMAGE_URL + '/images/' + image + '?' + cb;
 }
