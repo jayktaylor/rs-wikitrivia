@@ -1,0 +1,19 @@
+{
+  "name": "rs-wikitrivia-generator",
+  "version": "0.1.0",
+  "main": "main.ts",
+  "author": "Jayden Bailey",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "ts-node main.ts"
+  },
+  "dependencies": {
+    "axios": "^0.26.0",
+    "ts-node": "^10.5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.19",
+    "typescript": "^4.5.5"
+  }
+}

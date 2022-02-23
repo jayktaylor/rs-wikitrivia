@@ -10,7 +10,7 @@ export default function Index() {
   return (
     <>
       <Head>
-        <title>RuneScape Wikitrivia</title>
+        <title>RuneScape Wiki Trivia</title>
         <link
           rel="shortcut icon"
           href={favicon.src}

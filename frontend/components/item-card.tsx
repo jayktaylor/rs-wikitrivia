@@ -3,7 +3,7 @@ import classNames from "classnames";
 import { useSpring, animated } from "react-spring";
 import { Draggable } from "react-beautiful-dnd";
 import { Item, PlayedItem } from "../types/item";
-import { createWikimediaImage } from "../lib/image";
+import { createWikiImage } from "../lib/image";
 import styles from "../styles/item-card.module.scss";
 
 type Props = {
@@ -14,27 +14,8 @@ type Props = {
   setFlippedId?: (flippedId: string | null) => void;
 };
 
-const datePropIdMap: { [datePropId: string]: string } = {
-  P575: "discovered", // or invented
-  P7589: "date of assent",
-  P577: "published",
-  P1191: "first performed",
-  P1619: "officially opened",
-  P571: "created",
-  P1249: "earliest record",
-  P576: "ended",
-  P8556: "became extinct",
-  P6949: "announced",
-  P1319: "earliest",
-  P569: "born",
-  P570: "died",
-  P582: "ended",
-  P580: "started",
-  P7125: "latest one",
-  P7124: "first one",
-};
-
 function capitalize(str: string): string {
+  console.log('string', str);
   return str.charAt(0).toUpperCase() + str.slice(1);
 }
 
@@ -50,17 +31,13 @@ export default function ItemCard(props: Props) {
   });
 
   const type = React.useMemo(() => {
-    const safeDescription = item.description.replace(/ \(.+\)/g, "");
+    const safeDescription = item.examine.replace(/ \(.+\)/g, "");
 
-    if (item.description.length < 60 && !/\d\d/.test(safeDescription)) {
-      return item.description.replace(/ \(.+\)/g, "");
+    if (item.examine.length < 60 && !/\d\d/.test(safeDescription)) {
+      return item.examine.replace(/ \(.+\)/g, "");
     }
 
-    if (item.instance_of.includes("human") && item.occupations !== null) {
-      return item.occupations[0];
-    }
-
-    return item.instance_of[0];
+    return item.type;
   }, [item]);
 
   return (
@@ -100,7 +77,7 @@ export default function ItemCard(props: Props) {
               <div
                 className={styles.image}
                 style={{
-                  backgroundImage: `url("${createWikimediaImage(item.image)}")`,
+                  backgroundImage: `url("${createWikiImage(item.image)}")`,
                 }}
               ></div>
               <animated.div
@@ -114,7 +91,7 @@ export default function ItemCard(props: Props) {
                     ? item.year < -10000
                       ? item.year.toLocaleString()
                       : item.year.toString()
-                    : datePropIdMap[item.date_prop_id]}
+                    : 'released'}
                 </span>
               </animated.div>
             </animated.div>
@@ -129,13 +106,11 @@ export default function ItemCard(props: Props) {
             >
               <span className={styles.label}>{capitalize(item.label)}</span>
               <span className={styles.date}>
-                {capitalize(datePropIdMap[item.date_prop_id])}: {item.year}
+                {capitalize('released')}: {item.year}
               </span>
-              <span className={styles.description}>{item.description}.</span>
+              <span className={styles.description}>{item.examine}</span>
               <a
-                href={`https://www.wikipedia.org/wiki/${encodeURIComponent(
-                  item.wikipedia_title
-                )}`}
+                href={item.fullurl}
                 className={styles.wikipedia}
                 target="_blank"
                 rel="noopener noreferrer"
@@ -143,7 +118,7 @@ export default function ItemCard(props: Props) {
                   e.stopPropagation();
                 }}
               >
-                Wikipedia
+                RS Wiki
               </a>
             </animated.div>
           </div>

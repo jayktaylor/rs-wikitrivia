@@ -1,5 +1,5 @@
 import { Item, PlayedItem } from "../types/item";
-import { createWikimediaImage } from "./image";
+import { createWikiImage } from "./image";
 
 export function getRandomItem(deck: Item[], played: Item[]): Item {
   const playedYears = played.map((item): number => {
@@ -7,20 +7,16 @@ export function getRandomItem(deck: Item[], played: Item[]): Item {
   });
 
   const periods: [number, number][] = [
-    [-100000, 1400],
-    [1400, 1850],
-    [1850, 1930],
-    [1930, 2020],
+    [2000, 2007],
+    [2007, 2010],
+    [2010, 2015],
+    [2015, 2020],
+    [2020, 2022]
   ];
   const [fromYear, toYear] =
     periods[Math.floor(Math.random() * periods.length)];
-  const avoidPeople = Math.random() > 0.5;
 
   const candidates = deck.filter((candidate) => {
-    if (avoidPeople && candidate.instance_of.includes("human")) {
-      return false;
-    }
-
     if (candidate.year < fromYear || candidate.year > toYear) {
       return false;
     }
@@ -60,6 +56,6 @@ export function checkCorrect(
 
 export function preloadImage(url: string): HTMLImageElement {
   const img = new Image();
-  img.src = createWikimediaImage(url);
+  img.src = createWikiImage(url);
   return img;
 }
