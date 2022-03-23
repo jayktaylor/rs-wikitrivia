@@ -20,10 +20,10 @@ export default function Game() {
       );
       const items: Item[] = res.data
         // Filter out questions which give away their answers
-        .filter((item) => {
+        .filter((item: Item) => {
           return !item.label.includes(String(item.year))
         })
-        .filter((item) => !item.examine.includes(String(item.year)))
+        .filter((item: Item) => !item.examine.includes(String(item.year)))
       setItems(items);
     };
 

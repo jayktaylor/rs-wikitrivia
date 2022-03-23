@@ -10,7 +10,7 @@
   text-transform: uppercase;
   font-weight: 700;
   white-space: nowrap;
-  width: 140px;
+  min-width: 140px;
 
   &:hover {
     filter: brightness(1.3);
