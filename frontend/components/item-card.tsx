@@ -33,14 +33,7 @@ export default function ItemCard(props: Props) {
 
   const type = React.useMemo(() => {
     const safeDescription = item.examine.replace(/ \(.+\)/g, "");
-
-    if (!item.examine) return item.type;
-
-    if (item.examine.length < 60 && !/\d\d/.test(safeDescription)) {
-      return item.examine.replace(/ \(.+\)/g, "");
-    }
-
-    return item.type;
+    return safeDescription;
   }, [item]);
 
   return (
