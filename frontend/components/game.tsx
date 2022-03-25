@@ -6,6 +6,7 @@ import createState from "../lib/create-state";
 import Board from "./board";
 import Loading from "./loading";
 import Instructions from "./instructions";
+import rs_data from '../public/final_rs.json';
 
 export default function Game() {
   const [state, setState] = useState<GameState | null>(null);
@@ -15,10 +16,7 @@ export default function Game() {
 
   React.useEffect(() => {
     const fetchGameData = async () => {
-      const res = await axios.get(
-        "https://gist.githubusercontent.com/jayktaylor/05260e901b1420632260eb4cffa3eefb/raw/a9968d3861d0b3e9c17244530a75deb2228efaca/test.json"
-      );
-      const items: Item[] = res.data
+      const items: Item[] = rs_data
         // Filter out questions which give away their answers
         .filter((item: Item) => {
           return !item.label.includes(String(item.year))
