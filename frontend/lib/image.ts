@@ -1,4 +1,9 @@
-const BASE_IMAGE_URL = "https://runescape.wiki";
+import config from './config';
+
+let BASE_IMAGE_URL = "https://runescape.wiki";
+if (config.game.toLowerCase() === 'osrs') {
+  BASE_IMAGE_URL = "https://oldschool.runescape.wiki";
+}
 
 export function createWikiImage(image: string): string {
   image = image.replace(/ /g,"_")

@@ -6,7 +6,14 @@ import createState from "../lib/create-state";
 import Board from "./board";
 import Loading from "./loading";
 import Instructions from "./instructions";
-import rs_data from '../public/final_rs.json';
+import config from '../lib/config';
+
+let data: Item[];
+if (config.game.toLowerCase() !== 'osrs') {
+  data = require('../public/final_rs.json');
+} else {
+  data = require('../public/final_osrs.json');
+}
 
 export default function Game() {
   const [state, setState] = useState<GameState | null>(null);
@@ -16,7 +23,7 @@ export default function Game() {
 
   React.useEffect(() => {
     const fetchGameData = async () => {
-      const items: Item[] = rs_data
+      const items: Item[] = data
         // Filter out questions which give away their answers
         .filter((item: Item) => {
           return !item.label.includes(String(item.year))
@@ -46,11 +53,11 @@ export default function Game() {
   }, [items]);
 
   const [highscore, setHighscore] = React.useState<number>(
-    Number(localStorage.getItem("highscore") ?? "0")
+    Number(localStorage.getItem(`highscore${config.game.toLowerCase() === 'osrs' ? '-osrs' : ''}`) ?? "0")
   );
 
   const updateHighscore = React.useCallback((score: number) => {
-    localStorage.setItem("highscore", String(score));
+    localStorage.setItem(`highscore${config.game.toLowerCase() === 'osrs' ? '-osrs' : ''}`, String(score));
     setHighscore(score);
   }, []);
 

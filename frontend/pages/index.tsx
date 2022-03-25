@@ -1,6 +1,7 @@
 import React from "react";
 import Head from "next/head";
 import dynamic from "next/dynamic";
+import config from '../lib/config';
 
 import favicon from '../public/images/favicon.ico';
 
@@ -10,7 +11,7 @@ export default function Index() {
   return (
     <>
       <Head>
-        <title>RuneScape Wiki Trivia</title>
+        <title>{config.game.toLowerCase() === 'osrs' ? 'Old School ' : ''}RuneScape Wiki Timeline</title>
         <link
           rel="shortcut icon"
           href={favicon.src}

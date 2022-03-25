@@ -2,8 +2,10 @@ import React from "react";
 import styles from "../styles/instructions.module.scss";
 import Button from "./button";
 import Score from "./score";
+import config from '../lib/config';
 
 import RSWLogo from '../public/images/RSW_logo.svg';
+import OSWLogo from '../public/images/OSRSW_logo.png';
 
 interface Props {
   highscore: number;
@@ -17,7 +19,7 @@ export default function Instructions(props: Props) {
     <div className={styles.instructions}>
       <div className={styles.wrapper}>
         <img
-          src={RSWLogo.src}
+          src={config.game.toLowerCase() === 'osrs' ? OSWLogo.src : RSWLogo.src}
           width='100px'
         />
         <h2>Place the cards on the timeline in the correct order.</h2>
@@ -32,7 +34,7 @@ export default function Instructions(props: Props) {
           <div>
             All data sourced from{" "}
             <a
-              href="https://runescape.wiki"
+              href={`https://${config.game.toLowerCase() === 'osrs' ? 'oldschool.' : ''}runescape.wiki`}
               target="_blank"
               rel="noopener noreferrer"
             >

@@ -3,6 +3,7 @@ import { animated, useSpring } from "react-spring";
 import styles from "../styles/game-over.module.scss";
 import Button from "./button";
 import Score from "./score";
+import config from '../lib/config';
 
 interface Props {
   highscore: number;
@@ -36,7 +37,7 @@ export default function GameOver(props: Props) {
 
   const share = React.useCallback(async () => {
     await navigator?.clipboard?.writeText(
-      `🗡 games.runescape.wiki/trivia\n\n${getMedal(
+      `🗡 games.runescape.wiki/${config.game.toLowerCase() === 'osrs' ? 'osrs-' : 'rs-'}timeline\n\n${getMedal(
         score
       )}Streak: ${score}\n${getMedal(highscore)}Best Streak: ${highscore}`
     );
