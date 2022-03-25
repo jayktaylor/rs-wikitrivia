@@ -4,6 +4,7 @@ import dynamic from "next/dynamic";
 import config from '../lib/config';
 
 import favicon from '../public/images/favicon.ico';
+import faviconOSRS from '../public/images/favicon-osrs.ico';
 
 const Game = dynamic(() => import("../components/game"), { ssr: false });
 
@@ -14,7 +15,7 @@ export default function Index() {
         <title>{config.game.toLowerCase() === 'osrs' ? 'Old School ' : ''}RuneScape Wiki Timeline</title>
         <link
           rel="shortcut icon"
-          href={favicon.src}
+          href={config.game.toLowerCase() === 'osrs' ? faviconOSRS.src : favicon.src}
         />
       </Head>
 
