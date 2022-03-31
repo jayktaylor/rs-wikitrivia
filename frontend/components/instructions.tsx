@@ -19,7 +19,7 @@ export default function Instructions(props: Props) {
     <div className={styles.instructions}>
       <div className={styles.wrapper}>
         <img
-          src={config.game.toLowerCase() === 'osrs' ? OSWLogo.src : RSWLogo.src}
+          src={config.isOSRS() ? OSWLogo.src : RSWLogo.src}
           width='100px'
         />
         <h2>Place the cards on the timeline in the correct order.</h2>
@@ -34,7 +34,7 @@ export default function Instructions(props: Props) {
           <div>
             All data sourced from{" "}
             <a
-              href={`https://${config.game.toLowerCase() === 'osrs' ? 'oldschool.' : ''}runescape.wiki`}
+              href={`https://${config.isOSRS() ? 'oldschool.' : ''}runescape.wiki`}
               target="_blank"
               rel="noopener noreferrer"
             >

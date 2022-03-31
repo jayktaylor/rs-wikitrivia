@@ -8,12 +8,7 @@ import Loading from "./loading";
 import Instructions from "./instructions";
 import config from '../lib/config';
 
-let data: Item[];
-if (config.game.toLowerCase() !== 'osrs') {
-  data = require('../public/final_rs.json');
-} else {
-  data = require('../public/final_osrs.json');
-}
+const data: Item[] = require(`../public/final_${config.isOSRS() ? 'os': ''}rs.json`);
 
 export default function Game() {
   const [state, setState] = useState<GameState | null>(null);
@@ -53,11 +48,11 @@ export default function Game() {
   }, [items]);
 
   const [highscore, setHighscore] = React.useState<number>(
-    Number(localStorage.getItem(`highscore${config.game.toLowerCase() === 'osrs' ? '-osrs' : ''}`) ?? "0")
+    Number(localStorage.getItem(`highscore${config.isOSRS() ? '-osrs' : ''}`) ?? "0")
   );
 
   const updateHighscore = React.useCallback((score: number) => {
-    localStorage.setItem(`highscore${config.game.toLowerCase() === 'osrs' ? '-osrs' : ''}`, String(score));
+    localStorage.setItem(`highscore${config.isOSRS() ? '-osrs' : ''}`, String(score));
     setHighscore(score);
   }, []);
 

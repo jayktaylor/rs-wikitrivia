@@ -12,10 +12,10 @@ export default function Index() {
   return (
     <>
       <Head>
-        <title>{config.game.toLowerCase() === 'osrs' ? 'Old School ' : ''}RuneScape Wiki Timeline</title>
+        <title>{config.isOSRS() ? 'Old School ' : ''}RuneScape Wiki Timeline</title>
         <link
           rel="shortcut icon"
-          href={config.game.toLowerCase() === 'osrs' ? faviconOSRS.src : favicon.src}
+          href={config.isOSRS() ? faviconOSRS.src : favicon.src}
         />
       </Head>
 

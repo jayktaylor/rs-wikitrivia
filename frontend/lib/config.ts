@@ -1,5 +1,8 @@
 const config = {
-  game: 'rs'
+  game: 'osrs',
+  isOSRS: () => {
+    return config.game.toLowerCase() === 'osrs'
+  }
 }
 
 export default config;

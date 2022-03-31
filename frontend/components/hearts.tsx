@@ -1,8 +1,10 @@
 import { useSpring, animated } from "react-spring";
 import React from "react";
 import styles from "../styles/hearts.module.scss";
+import config from '../lib/config';
 
 import livesImg from '../public/images/heart.png';
+import livesImgOSRS from '../public/images/heart-osrs.png';
 
 interface HeartProps {
   have: boolean;
@@ -24,7 +26,7 @@ function Heart(props: HeartProps) {
     <animated.img
       className={styles.heart}
       style={{ opacity, scale }}
-      src={livesImg.src}
+      src={config.isOSRS() ? livesImgOSRS.src : livesImg.src}
     />
   );
 }

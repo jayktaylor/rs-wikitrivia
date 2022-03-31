@@ -1,7 +1,7 @@
 import config from './config';
 
 let BASE_IMAGE_URL = "https://runescape.wiki";
-if (config.game.toLowerCase() === 'osrs') {
+if (config.isOSRS()) {
   BASE_IMAGE_URL = "https://oldschool.runescape.wiki";
 }
 
