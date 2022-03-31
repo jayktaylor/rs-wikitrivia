@@ -40,7 +40,14 @@ export default function Instructions(props: Props) {
             >
               the RuneScape Wiki
             </a>
-            .
+            .<br />
+            🤔 Noticed an incorrect release date? <a
+              href={`https://discord.gg/buU5wwr`}
+              target='_blank'
+              rel='noopener noreferrer'
+            >
+              Let us know on Discord
+            </a>.
           </div>
           <div className={styles.copyright}>
             Created by <a href="https://github.com/jayktaylor/rs-wikitrivia/" target="_blank" rel="noopener noreferrer">Jayden Bailey</a>, forked from a game by <a href="https://github.com/tom-james-watson" target="_blank" rel="noopener noreferrer">Tom Watson</a>.<br />
