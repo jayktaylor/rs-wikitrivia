@@ -8,7 +8,12 @@ import Loading from "./loading";
 import Instructions from "./instructions";
 import config from '../lib/config';
 
-const data: Item[] = require(`../public/final_${config.isOSRS() ? 'os': ''}rs.json`);
+let data: Item[];
+if (config.isOSRS()) {
+  data = require(`../public/final_osrs.json`);
+} else {
+  data = require(`../public/final_rs.json`);
+}
 
 export default function Game() {
   const [state, setState] = useState<GameState | null>(null);
