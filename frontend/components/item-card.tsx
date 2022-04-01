@@ -6,6 +6,7 @@ import { Draggable } from "react-beautiful-dnd";
 import { Item, PlayedItem } from "../types/item";
 import { createWikiImage } from "../lib/image";
 import styles from "../styles/item-card.module.scss";
+import config from '../lib/config';
 
 type Props = {
   draggable?: boolean;
@@ -16,7 +17,6 @@ type Props = {
 };
 
 function capitalize(str: string): string {
-  console.log('string', str);
   return str.charAt(0).toUpperCase() + str.slice(1);
 }
 
@@ -112,7 +112,7 @@ export default function ItemCard(props: Props) {
                   e.stopPropagation();
                 }}
               >
-                RS Wiki
+                {config.isOSRS() ? 'OS' : ''}RS Wiki
               </a>
             </animated.div>
           </div>

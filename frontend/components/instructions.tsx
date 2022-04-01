@@ -38,7 +38,7 @@ export default function Instructions(props: Props) {
               target="_blank"
               rel="noopener noreferrer"
             >
-              the RuneScape Wiki
+              the {config.isOSRS() ? 'OSRS' : 'RuneScape'} Wiki
             </a>
             .<br />
             🤔 Noticed an incorrect release date? <a
